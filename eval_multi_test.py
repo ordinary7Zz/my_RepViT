@@ -56,9 +56,10 @@ class Tee:
 def resolve_output_path(output_file, checkpoint_path):
     if output_file:
         return Path(output_file)
-    checkpoint_dir = Path(checkpoint_path).resolve().parent
+    project_root = Path(__file__).resolve().parent
     timestamp = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
-    return checkpoint_dir / f"eval_multi_test_{timestamp}.txt"
+    checkpoint_stem = Path(checkpoint_path).resolve().parent.name
+    return project_root / "test_log" / f"eval_multi_test_{checkpoint_stem}_{timestamp}.txt"
 
 
 def build_test_transform(input_size=224):
@@ -260,7 +261,7 @@ def main():
     parser.add_argument("--ci-alpha", type=float, default=0.95)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--output-file", type=str, default=None,
-                        help="Path to save evaluation output; defaults to checkpoint directory")
+                        help="Path to save evaluation output; defaults to test_log directory")
 
     args = parser.parse_args()
 
