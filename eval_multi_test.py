@@ -1,5 +1,7 @@
 import argparse
 import os
+import sys
+from datetime import datetime
 from pathlib import Path
 
 import numpy as np
@@ -31,6 +33,32 @@ METRIC_ORDER = [
     "SPEC",
     "ECE",
 ]
+
+
+class Tee:
+    def __init__(self, *streams):
+        self.streams = streams
+
+    def write(self, data):
+        for stream in self.streams:
+            stream.write(data)
+            stream.flush()
+        return len(data)
+
+    def flush(self):
+        for stream in self.streams:
+            stream.flush()
+
+    def isatty(self):
+        return any(getattr(stream, "isatty", lambda: False)() for stream in self.streams)
+
+
+def resolve_output_path(output_file, checkpoint_path):
+    if output_file:
+        return Path(output_file)
+    checkpoint_dir = Path(checkpoint_path).resolve().parent
+    timestamp = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+    return checkpoint_dir / f"eval_multi_test_{timestamp}.txt"
 
 
 def build_test_transform(input_size=224):
@@ -231,53 +259,66 @@ def main():
     parser.add_argument("--bootstrap-iters", type=int, default=2000)
     parser.add_argument("--ci-alpha", type=float, default=0.95)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--output-file", type=str, default=None,
+                        help="Path to save evaluation output; defaults to checkpoint directory")
 
     args = parser.parse_args()
 
-    device = torch.device(args.device if torch.cuda.is_available() else "cpu")
-    transform = build_test_transform(args.input_size)
+    output_path = resolve_output_path(args.output_file, args.checkpoint)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    model = load_model(args.model, args.checkpoint, num_classes=2, device=device)
+    original_stdout = sys.stdout
+    with output_path.open("w", encoding="utf-8") as output_handle:
+        sys.stdout = Tee(original_stdout, output_handle)
+        try:
+            print(f"Saving evaluation output to: {output_path}")
 
-    print("\n========== Evaluation ==========")
-    for idx, test_root in enumerate(args.test_dirs):
-        if not os.path.isdir(test_root):
-            print(f"[WARN] Test dir not found, skip: {test_root}")
-            continue
+            device = torch.device(args.device if torch.cuda.is_available() else "cpu")
+            transform = build_test_transform(args.input_size)
 
-        dataset = datasets.ImageFolder(root=test_root, transform=transform)
-        dataloader = DataLoader(
-            dataset,
-            batch_size=args.batch_size,
-            shuffle=False,
-            num_workers=args.num_workers,
-            pin_memory=True,
-        )
+            model = load_model(args.model, args.checkpoint, num_classes=2, device=device)
 
-        if args.test_names is not None and len(args.test_names) == len(args.test_dirs):
-            name = args.test_names[idx]
-        else:
-            name = Path(test_root).name
+            print("\n========== Evaluation ==========")
+            for idx, test_root in enumerate(args.test_dirs):
+                if not os.path.isdir(test_root):
+                    print(f"[WARN] Test dir not found, skip: {test_root}")
+                    continue
 
-        print(f"\n--- Dataset: {name} ({test_root}), size={len(dataset)} ---")
-        y_true, y_score = collect_predictions(model, dataloader, device=device)
-        metrics = compute_metrics(
-            y_true,
-            y_score,
-            threshold=args.threshold,
-            ece_bins=args.ece_bins,
-        )
-        ci = bootstrap_ci(
-            y_true,
-            y_score,
-            threshold=args.threshold,
-            ece_bins=args.ece_bins,
-            n_boot=args.bootstrap_iters,
-            alpha=args.ci_alpha,
-            seed=args.seed,
-        )
+                dataset = datasets.ImageFolder(root=test_root, transform=transform)
+                dataloader = DataLoader(
+                    dataset,
+                    batch_size=args.batch_size,
+                    shuffle=False,
+                    num_workers=args.num_workers,
+                    pin_memory=True,
+                )
 
-        print("  ".join(format_metric(metric_name, metrics[metric_name], ci[metric_name]) for metric_name in METRIC_ORDER))
+                if args.test_names is not None and len(args.test_names) == len(args.test_dirs):
+                    name = args.test_names[idx]
+                else:
+                    name = Path(test_root).name
+
+                print(f"\n--- Dataset: {name} ({test_root}), size={len(dataset)} ---")
+                y_true, y_score = collect_predictions(model, dataloader, device=device)
+                metrics = compute_metrics(
+                    y_true,
+                    y_score,
+                    threshold=args.threshold,
+                    ece_bins=args.ece_bins,
+                )
+                ci = bootstrap_ci(
+                    y_true,
+                    y_score,
+                    threshold=args.threshold,
+                    ece_bins=args.ece_bins,
+                    n_boot=args.bootstrap_iters,
+                    alpha=args.ci_alpha,
+                    seed=args.seed,
+                )
+
+                print("  ".join(format_metric(metric_name, metrics[metric_name], ci[metric_name]) for metric_name in METRIC_ORDER))
+        finally:
+            sys.stdout = original_stdout
 
 
 if __name__ == "__main__":
