@@ -5,9 +5,9 @@
     "image_name": "001.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5608360171318054,
-    "prob_class_0": 0.4391639828681946,
-    "prob_class_1": 0.5608360171318054,
+    "confidence": 0.6053963303565979,
+    "prob_class_0": 0.3946036696434021,
+    "prob_class_1": 0.6053963303565979,
     "true_label": 0
   },
   {
@@ -16,9 +16,9 @@
     "image_name": "007.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5742835998535156,
-    "prob_class_0": 0.4257164001464844,
-    "prob_class_1": 0.5742835998535156,
+    "confidence": 0.6247684359550476,
+    "prob_class_0": 0.3752315640449524,
+    "prob_class_1": 0.6247684359550476,
     "true_label": 0
   },
   {
@@ -27,9 +27,9 @@
     "image_name": "009.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5737056732177734,
-    "prob_class_0": 0.42629432678222656,
-    "prob_class_1": 0.5737056732177734,
+    "confidence": 0.6237109303474426,
+    "prob_class_0": 0.3762890696525574,
+    "prob_class_1": 0.6237109303474426,
     "true_label": 0
   },
   {
@@ -38,9 +38,9 @@
     "image_name": "010.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5592814683914185,
-    "prob_class_0": 0.44071853160858154,
-    "prob_class_1": 0.5592814683914185,
+    "confidence": 0.6067463159561157,
+    "prob_class_0": 0.3932536840438843,
+    "prob_class_1": 0.6067463159561157,
     "true_label": 0
   },
   {
@@ -49,9 +49,9 @@
     "image_name": "011.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6372156143188477,
-    "prob_class_0": 0.36278438568115234,
-    "prob_class_1": 0.6372156143188477,
+    "confidence": 0.5924410820007324,
+    "prob_class_0": 0.4075589179992676,
+    "prob_class_1": 0.5924410820007324,
     "true_label": 0
   },
   {
@@ -60,9 +60,9 @@
     "image_name": "014.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6346713900566101,
-    "prob_class_0": 0.3653286099433899,
-    "prob_class_1": 0.6346713900566101,
+    "confidence": 0.5152225494384766,
+    "prob_class_0": 0.48477745056152344,
+    "prob_class_1": 0.5152225494384766,
     "true_label": 0
   },
   {
@@ -71,9 +71,9 @@
     "image_name": "015.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5797545909881592,
-    "prob_class_0": 0.4202454090118408,
-    "prob_class_1": 0.5797545909881592,
+    "confidence": 0.6048734188079834,
+    "prob_class_0": 0.3951265811920166,
+    "prob_class_1": 0.6048734188079834,
     "true_label": 0
   },
   {
@@ -82,9 +82,9 @@
     "image_name": "018.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5712458491325378,
-    "prob_class_0": 0.42875415086746216,
-    "prob_class_1": 0.5712458491325378,
+    "confidence": 0.6227229237556458,
+    "prob_class_0": 0.37727707624435425,
+    "prob_class_1": 0.6227229237556458,
     "true_label": 0
   },
   {
@@ -93,9 +93,9 @@
     "image_name": "019.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5792845487594604,
-    "prob_class_0": 0.42071545124053955,
-    "prob_class_1": 0.5792845487594604,
+    "confidence": 0.5930038690567017,
+    "prob_class_0": 0.40699613094329834,
+    "prob_class_1": 0.5930038690567017,
     "true_label": 0
   },
   {
@@ -104,9 +104,9 @@
     "image_name": "020.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5409337282180786,
-    "prob_class_0": 0.4590662717819214,
-    "prob_class_1": 0.5409337282180786,
+    "confidence": 0.6045621037483215,
+    "prob_class_0": 0.39543789625167847,
+    "prob_class_1": 0.6045621037483215,
     "true_label": 0
   },
   {
@@ -115,9 +115,9 @@
     "image_name": "022.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6291288733482361,
-    "prob_class_0": 0.3708711266517639,
-    "prob_class_1": 0.6291288733482361,
+    "confidence": 0.571025013923645,
+    "prob_class_0": 0.428974986076355,
+    "prob_class_1": 0.571025013923645,
     "true_label": 0
   },
   {
@@ -126,9 +126,9 @@
     "image_name": "023.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5934553742408752,
-    "prob_class_0": 0.40654462575912476,
-    "prob_class_1": 0.5934553742408752,
+    "confidence": 0.6140008568763733,
+    "prob_class_0": 0.3859991431236267,
+    "prob_class_1": 0.6140008568763733,
     "true_label": 0
   },
   {
@@ -137,9 +137,9 @@
     "image_name": "024.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5666260123252869,
-    "prob_class_0": 0.43337398767471313,
-    "prob_class_1": 0.5666260123252869,
+    "confidence": 0.6364466547966003,
+    "prob_class_0": 0.36355334520339966,
+    "prob_class_1": 0.6364466547966003,
     "true_label": 0
   },
   {
@@ -148,9 +148,9 @@
     "image_name": "025.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6120260953903198,
-    "prob_class_0": 0.3879739046096802,
-    "prob_class_1": 0.6120260953903198,
+    "confidence": 0.6087153553962708,
+    "prob_class_0": 0.39128464460372925,
+    "prob_class_1": 0.6087153553962708,
     "true_label": 0
   },
   {
@@ -159,9 +159,9 @@
     "image_name": "026.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6175811290740967,
-    "prob_class_0": 0.3824188709259033,
-    "prob_class_1": 0.6175811290740967,
+    "confidence": 0.5920933485031128,
+    "prob_class_0": 0.4079066514968872,
+    "prob_class_1": 0.5920933485031128,
     "true_label": 0
   },
   {
@@ -170,9 +170,9 @@
     "image_name": "028.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6027616262435913,
-    "prob_class_0": 0.3972383737564087,
-    "prob_class_1": 0.6027616262435913,
+    "confidence": 0.6168152689933777,
+    "prob_class_0": 0.3831847310066223,
+    "prob_class_1": 0.6168152689933777,
     "true_label": 0
   },
   {
@@ -181,9 +181,9 @@
     "image_name": "031.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5752781629562378,
-    "prob_class_0": 0.4247218370437622,
-    "prob_class_1": 0.5752781629562378,
+    "confidence": 0.5773427486419678,
+    "prob_class_0": 0.4226572513580322,
+    "prob_class_1": 0.5773427486419678,
     "true_label": 0
   },
   {
@@ -192,9 +192,9 @@
     "image_name": "032.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5961984395980835,
-    "prob_class_0": 0.4038015604019165,
-    "prob_class_1": 0.5961984395980835,
+    "confidence": 0.6362677812576294,
+    "prob_class_0": 0.3637322187423706,
+    "prob_class_1": 0.6362677812576294,
     "true_label": 0
   },
   {
@@ -203,9 +203,9 @@
     "image_name": "034.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5688618421554565,
-    "prob_class_0": 0.43113815784454346,
-    "prob_class_1": 0.5688618421554565,
+    "confidence": 0.5605629682540894,
+    "prob_class_0": 0.43943703174591064,
+    "prob_class_1": 0.5605629682540894,
     "true_label": 0
   },
   {
@@ -214,9 +214,9 @@
     "image_name": "035.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5891135334968567,
-    "prob_class_0": 0.4108864665031433,
-    "prob_class_1": 0.5891135334968567,
+    "confidence": 0.6076816916465759,
+    "prob_class_0": 0.3923183083534241,
+    "prob_class_1": 0.6076816916465759,
     "true_label": 0
   },
   {
@@ -225,9 +225,9 @@
     "image_name": "037.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5042039752006531,
-    "prob_class_0": 0.4957960247993469,
-    "prob_class_1": 0.5042039752006531,
+    "confidence": 0.590549886226654,
+    "prob_class_0": 0.40945011377334595,
+    "prob_class_1": 0.590549886226654,
     "true_label": 0
   },
   {
@@ -236,9 +236,9 @@
     "image_name": "039.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5914005637168884,
-    "prob_class_0": 0.4085994362831116,
-    "prob_class_1": 0.5914005637168884,
+    "confidence": 0.6129310727119446,
+    "prob_class_0": 0.3870689272880554,
+    "prob_class_1": 0.6129310727119446,
     "true_label": 0
   },
   {
@@ -247,9 +247,9 @@
     "image_name": "041.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6176130771636963,
-    "prob_class_0": 0.3823869228363037,
-    "prob_class_1": 0.6176130771636963,
+    "confidence": 0.5997779369354248,
+    "prob_class_0": 0.4002220630645752,
+    "prob_class_1": 0.5997779369354248,
     "true_label": 0
   },
   {
@@ -258,9 +258,9 @@
     "image_name": "043.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5481433868408203,
-    "prob_class_0": 0.4518566131591797,
-    "prob_class_1": 0.5481433868408203,
+    "confidence": 0.5928954482078552,
+    "prob_class_0": 0.4071045517921448,
+    "prob_class_1": 0.5928954482078552,
     "true_label": 0
   },
   {
@@ -269,9 +269,9 @@
     "image_name": "045.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5934100151062012,
-    "prob_class_0": 0.40658998489379883,
-    "prob_class_1": 0.5934100151062012,
+    "confidence": 0.5960216522216797,
+    "prob_class_0": 0.4039783477783203,
+    "prob_class_1": 0.5960216522216797,
     "true_label": 0
   },
   {
@@ -280,9 +280,9 @@
     "image_name": "046.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.582843005657196,
-    "prob_class_0": 0.41715699434280396,
-    "prob_class_1": 0.582843005657196,
+    "confidence": 0.6331550478935242,
+    "prob_class_0": 0.36684495210647583,
+    "prob_class_1": 0.6331550478935242,
     "true_label": 0
   },
   {
@@ -290,10 +290,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/0/049.png",
     "image_name": "049.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.542718768119812,
-    "prob_class_0": 0.457281231880188,
-    "prob_class_1": 0.542718768119812,
+    "predicted_class": 0,
+    "confidence": 0.5217282474040985,
+    "prob_class_0": 0.5217282474040985,
+    "prob_class_1": 0.4782717525959015,
     "true_label": 0
   },
   {
@@ -302,9 +302,9 @@
     "image_name": "056.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6226122975349426,
-    "prob_class_0": 0.3773877024650574,
-    "prob_class_1": 0.6226122975349426,
+    "confidence": 0.6159201264381409,
+    "prob_class_0": 0.38407987356185913,
+    "prob_class_1": 0.6159201264381409,
     "true_label": 0
   },
   {
@@ -313,9 +313,9 @@
     "image_name": "059.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5886581540107727,
-    "prob_class_0": 0.4113418459892273,
-    "prob_class_1": 0.5886581540107727,
+    "confidence": 0.6129676103591919,
+    "prob_class_0": 0.3870323896408081,
+    "prob_class_1": 0.6129676103591919,
     "true_label": 0
   },
   {
@@ -324,9 +324,9 @@
     "image_name": "063.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6432027816772461,
-    "prob_class_0": 0.3567972183227539,
-    "prob_class_1": 0.6432027816772461,
+    "confidence": 0.5921075940132141,
+    "prob_class_0": 0.4078924059867859,
+    "prob_class_1": 0.5921075940132141,
     "true_label": 0
   },
   {
@@ -335,9 +335,9 @@
     "image_name": "065.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6096927523612976,
-    "prob_class_0": 0.3903072476387024,
-    "prob_class_1": 0.6096927523612976,
+    "confidence": 0.5984055399894714,
+    "prob_class_0": 0.40159446001052856,
+    "prob_class_1": 0.5984055399894714,
     "true_label": 0
   },
   {
@@ -346,9 +346,9 @@
     "image_name": "067.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6204870939254761,
-    "prob_class_0": 0.3795129060745239,
-    "prob_class_1": 0.6204870939254761,
+    "confidence": 0.6394976377487183,
+    "prob_class_0": 0.36050236225128174,
+    "prob_class_1": 0.6394976377487183,
     "true_label": 0
   },
   {
@@ -357,9 +357,9 @@
     "image_name": "068.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6146767139434814,
-    "prob_class_0": 0.38532328605651855,
-    "prob_class_1": 0.6146767139434814,
+    "confidence": 0.6349660754203796,
+    "prob_class_0": 0.36503392457962036,
+    "prob_class_1": 0.6349660754203796,
     "true_label": 0
   },
   {
@@ -368,9 +368,9 @@
     "image_name": "072.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5895205736160278,
-    "prob_class_0": 0.41047942638397217,
-    "prob_class_1": 0.5895205736160278,
+    "confidence": 0.61583411693573,
+    "prob_class_0": 0.38416588306427,
+    "prob_class_1": 0.61583411693573,
     "true_label": 0
   },
   {
@@ -379,9 +379,9 @@
     "image_name": "074.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6267813444137573,
-    "prob_class_0": 0.3732186555862427,
-    "prob_class_1": 0.6267813444137573,
+    "confidence": 0.6244961023330688,
+    "prob_class_0": 0.37550389766693115,
+    "prob_class_1": 0.6244961023330688,
     "true_label": 0
   },
   {
@@ -390,9 +390,9 @@
     "image_name": "075.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5225864052772522,
-    "prob_class_0": 0.4774135947227478,
-    "prob_class_1": 0.5225864052772522,
+    "confidence": 0.6214064359664917,
+    "prob_class_0": 0.3785935640335083,
+    "prob_class_1": 0.6214064359664917,
     "true_label": 0
   },
   {
@@ -401,9 +401,9 @@
     "image_name": "077.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.595098078250885,
-    "prob_class_0": 0.404901921749115,
-    "prob_class_1": 0.595098078250885,
+    "confidence": 0.5993079543113708,
+    "prob_class_0": 0.40069204568862915,
+    "prob_class_1": 0.5993079543113708,
     "true_label": 0
   },
   {
@@ -412,9 +412,9 @@
     "image_name": "078.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6147047877311707,
-    "prob_class_0": 0.38529521226882935,
-    "prob_class_1": 0.6147047877311707,
+    "confidence": 0.621001660823822,
+    "prob_class_0": 0.378998339176178,
+    "prob_class_1": 0.621001660823822,
     "true_label": 0
   },
   {
@@ -423,9 +423,9 @@
     "image_name": "079.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.596937894821167,
-    "prob_class_0": 0.403062105178833,
-    "prob_class_1": 0.596937894821167,
+    "confidence": 0.5986666679382324,
+    "prob_class_0": 0.4013333320617676,
+    "prob_class_1": 0.5986666679382324,
     "true_label": 0
   },
   {
@@ -434,9 +434,9 @@
     "image_name": "081.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.59039705991745,
-    "prob_class_0": 0.40960294008255005,
-    "prob_class_1": 0.59039705991745,
+    "confidence": 0.5270425081253052,
+    "prob_class_0": 0.4729574918746948,
+    "prob_class_1": 0.5270425081253052,
     "true_label": 0
   },
   {
@@ -445,9 +445,9 @@
     "image_name": "082.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6287169456481934,
-    "prob_class_0": 0.37128305435180664,
-    "prob_class_1": 0.6287169456481934,
+    "confidence": 0.6038400530815125,
+    "prob_class_0": 0.39615994691848755,
+    "prob_class_1": 0.6038400530815125,
     "true_label": 0
   },
   {
@@ -456,9 +456,9 @@
     "image_name": "084.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5476155281066895,
-    "prob_class_0": 0.45238447189331055,
-    "prob_class_1": 0.5476155281066895,
+    "confidence": 0.6090237498283386,
+    "prob_class_0": 0.3909762501716614,
+    "prob_class_1": 0.6090237498283386,
     "true_label": 0
   },
   {
@@ -467,9 +467,9 @@
     "image_name": "085.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6024019718170166,
-    "prob_class_0": 0.3975980281829834,
-    "prob_class_1": 0.6024019718170166,
+    "confidence": 0.604878306388855,
+    "prob_class_0": 0.395121693611145,
+    "prob_class_1": 0.604878306388855,
     "true_label": 0
   },
   {
@@ -478,9 +478,9 @@
     "image_name": "086.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5115681886672974,
-    "prob_class_0": 0.48843181133270264,
-    "prob_class_1": 0.5115681886672974,
+    "confidence": 0.5999536514282227,
+    "prob_class_0": 0.40004634857177734,
+    "prob_class_1": 0.5999536514282227,
     "true_label": 0
   },
   {
@@ -489,9 +489,9 @@
     "image_name": "090.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6154389977455139,
-    "prob_class_0": 0.3845610022544861,
-    "prob_class_1": 0.6154389977455139,
+    "confidence": 0.6159103512763977,
+    "prob_class_0": 0.3840896487236023,
+    "prob_class_1": 0.6159103512763977,
     "true_label": 0
   },
   {
@@ -500,9 +500,9 @@
     "image_name": "095.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.628565788269043,
-    "prob_class_0": 0.37143421173095703,
-    "prob_class_1": 0.628565788269043,
+    "confidence": 0.59737229347229,
+    "prob_class_0": 0.40262770652770996,
+    "prob_class_1": 0.59737229347229,
     "true_label": 0
   },
   {
@@ -511,9 +511,9 @@
     "image_name": "096.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5863848328590393,
-    "prob_class_0": 0.4136151671409607,
-    "prob_class_1": 0.5863848328590393,
+    "confidence": 0.6020963788032532,
+    "prob_class_0": 0.3979036211967468,
+    "prob_class_1": 0.6020963788032532,
     "true_label": 0
   },
   {
@@ -522,9 +522,9 @@
     "image_name": "099.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5878265500068665,
-    "prob_class_0": 0.41217344999313354,
-    "prob_class_1": 0.5878265500068665,
+    "confidence": 0.6029161810874939,
+    "prob_class_0": 0.3970838189125061,
+    "prob_class_1": 0.6029161810874939,
     "true_label": 0
   },
   {
@@ -533,9 +533,9 @@
     "image_name": "100.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5463026165962219,
-    "prob_class_0": 0.4536973834037781,
-    "prob_class_1": 0.5463026165962219,
+    "confidence": 0.601239025592804,
+    "prob_class_0": 0.39876097440719604,
+    "prob_class_1": 0.601239025592804,
     "true_label": 0
   },
   {
@@ -544,9 +544,9 @@
     "image_name": "103.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5968434810638428,
-    "prob_class_0": 0.4031565189361572,
-    "prob_class_1": 0.5968434810638428,
+    "confidence": 0.6008716225624084,
+    "prob_class_0": 0.39912837743759155,
+    "prob_class_1": 0.6008716225624084,
     "true_label": 0
   },
   {
@@ -555,9 +555,9 @@
     "image_name": "104.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5667030811309814,
-    "prob_class_0": 0.43329691886901855,
-    "prob_class_1": 0.5667030811309814,
+    "confidence": 0.6050702333450317,
+    "prob_class_0": 0.39492976665496826,
+    "prob_class_1": 0.6050702333450317,
     "true_label": 0
   },
   {
@@ -566,9 +566,9 @@
     "image_name": "105.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6424655318260193,
-    "prob_class_0": 0.3575344681739807,
-    "prob_class_1": 0.6424655318260193,
+    "confidence": 0.5909268260002136,
+    "prob_class_0": 0.4090731739997864,
+    "prob_class_1": 0.5909268260002136,
     "true_label": 0
   },
   {
@@ -577,9 +577,9 @@
     "image_name": "106.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5715492367744446,
-    "prob_class_0": 0.4284507632255554,
-    "prob_class_1": 0.5715492367744446,
+    "confidence": 0.6501614451408386,
+    "prob_class_0": 0.3498385548591614,
+    "prob_class_1": 0.6501614451408386,
     "true_label": 0
   },
   {
@@ -588,9 +588,9 @@
     "image_name": "107.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6394742727279663,
-    "prob_class_0": 0.3605257272720337,
-    "prob_class_1": 0.6394742727279663,
+    "confidence": 0.5994579195976257,
+    "prob_class_0": 0.40054208040237427,
+    "prob_class_1": 0.5994579195976257,
     "true_label": 0
   },
   {
@@ -599,9 +599,9 @@
     "image_name": "111.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6387447714805603,
-    "prob_class_0": 0.3612552285194397,
-    "prob_class_1": 0.6387447714805603,
+    "confidence": 0.5913980603218079,
+    "prob_class_0": 0.40860193967819214,
+    "prob_class_1": 0.5913980603218079,
     "true_label": 0
   },
   {
@@ -610,9 +610,9 @@
     "image_name": "112.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5238750576972961,
-    "prob_class_0": 0.47612494230270386,
-    "prob_class_1": 0.5238750576972961,
+    "confidence": 0.6045249104499817,
+    "prob_class_0": 0.3954750895500183,
+    "prob_class_1": 0.6045249104499817,
     "true_label": 0
   },
   {
@@ -621,9 +621,9 @@
     "image_name": "113.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5900485515594482,
-    "prob_class_0": 0.40995144844055176,
-    "prob_class_1": 0.5900485515594482,
+    "confidence": 0.626639187335968,
+    "prob_class_0": 0.373360812664032,
+    "prob_class_1": 0.626639187335968,
     "true_label": 0
   },
   {
@@ -632,9 +632,9 @@
     "image_name": "115.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6450289487838745,
-    "prob_class_0": 0.3549710512161255,
-    "prob_class_1": 0.6450289487838745,
+    "confidence": 0.5866110920906067,
+    "prob_class_0": 0.4133889079093933,
+    "prob_class_1": 0.5866110920906067,
     "true_label": 0
   },
   {
@@ -643,9 +643,9 @@
     "image_name": "116.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6130901575088501,
-    "prob_class_0": 0.3869098424911499,
-    "prob_class_1": 0.6130901575088501,
+    "confidence": 0.60609370470047,
+    "prob_class_0": 0.39390629529953003,
+    "prob_class_1": 0.60609370470047,
     "true_label": 0
   },
   {
@@ -654,9 +654,9 @@
     "image_name": "117.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5601241588592529,
-    "prob_class_0": 0.43987584114074707,
-    "prob_class_1": 0.5601241588592529,
+    "confidence": 0.5821368098258972,
+    "prob_class_0": 0.4178631901741028,
+    "prob_class_1": 0.5821368098258972,
     "true_label": 0
   },
   {
@@ -665,9 +665,9 @@
     "image_name": "118.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5920313596725464,
-    "prob_class_0": 0.4079686403274536,
-    "prob_class_1": 0.5920313596725464,
+    "confidence": 0.6233359575271606,
+    "prob_class_0": 0.37666404247283936,
+    "prob_class_1": 0.6233359575271606,
     "true_label": 0
   },
   {
@@ -676,9 +676,9 @@
     "image_name": "121.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5748000741004944,
-    "prob_class_0": 0.4251999258995056,
-    "prob_class_1": 0.5748000741004944,
+    "confidence": 0.5794771313667297,
+    "prob_class_0": 0.42052286863327026,
+    "prob_class_1": 0.5794771313667297,
     "true_label": 0
   },
   {
@@ -687,9 +687,9 @@
     "image_name": "123.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5151148438453674,
-    "prob_class_0": 0.48488515615463257,
-    "prob_class_1": 0.5151148438453674,
+    "confidence": 0.6108146905899048,
+    "prob_class_0": 0.3891853094100952,
+    "prob_class_1": 0.6108146905899048,
     "true_label": 0
   },
   {
@@ -697,10 +697,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/0/124.jpg",
     "image_name": "124.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5067412257194519,
-    "prob_class_0": 0.5067412257194519,
-    "prob_class_1": 0.4932587742805481,
+    "predicted_class": 1,
+    "confidence": 0.6305840611457825,
+    "prob_class_0": 0.36941593885421753,
+    "prob_class_1": 0.6305840611457825,
     "true_label": 0
   },
   {
@@ -709,9 +709,9 @@
     "image_name": "128.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5584991574287415,
-    "prob_class_0": 0.44150084257125854,
-    "prob_class_1": 0.5584991574287415,
+    "confidence": 0.5960671305656433,
+    "prob_class_0": 0.4039328694343567,
+    "prob_class_1": 0.5960671305656433,
     "true_label": 0
   },
   {
@@ -720,9 +720,9 @@
     "image_name": "131.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5369396805763245,
-    "prob_class_0": 0.46306031942367554,
-    "prob_class_1": 0.5369396805763245,
+    "confidence": 0.6472874879837036,
+    "prob_class_0": 0.3527125120162964,
+    "prob_class_1": 0.6472874879837036,
     "true_label": 0
   },
   {
@@ -731,9 +731,9 @@
     "image_name": "134.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6189544796943665,
-    "prob_class_0": 0.38104552030563354,
-    "prob_class_1": 0.6189544796943665,
+    "confidence": 0.6040741205215454,
+    "prob_class_0": 0.3959258794784546,
+    "prob_class_1": 0.6040741205215454,
     "true_label": 0
   },
   {
@@ -742,9 +742,9 @@
     "image_name": "135.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.582167387008667,
-    "prob_class_0": 0.417832612991333,
-    "prob_class_1": 0.582167387008667,
+    "confidence": 0.6326123476028442,
+    "prob_class_0": 0.36738765239715576,
+    "prob_class_1": 0.6326123476028442,
     "true_label": 0
   },
   {
@@ -753,9 +753,9 @@
     "image_name": "136.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5306528806686401,
-    "prob_class_0": 0.46934711933135986,
-    "prob_class_1": 0.5306528806686401,
+    "confidence": 0.6098493933677673,
+    "prob_class_0": 0.39015060663223267,
+    "prob_class_1": 0.6098493933677673,
     "true_label": 0
   },
   {
@@ -764,9 +764,9 @@
     "image_name": "137.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5953473448753357,
-    "prob_class_0": 0.4046526551246643,
-    "prob_class_1": 0.5953473448753357,
+    "confidence": 0.6030555963516235,
+    "prob_class_0": 0.39694440364837646,
+    "prob_class_1": 0.6030555963516235,
     "true_label": 0
   },
   {
@@ -775,9 +775,9 @@
     "image_name": "139.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.627112865447998,
-    "prob_class_0": 0.37288713455200195,
-    "prob_class_1": 0.627112865447998,
+    "confidence": 0.6122061610221863,
+    "prob_class_0": 0.3877938389778137,
+    "prob_class_1": 0.6122061610221863,
     "true_label": 0
   },
   {
@@ -786,9 +786,9 @@
     "image_name": "141.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5492299795150757,
-    "prob_class_0": 0.4507700204849243,
-    "prob_class_1": 0.5492299795150757,
+    "confidence": 0.6130908131599426,
+    "prob_class_0": 0.3869091868400574,
+    "prob_class_1": 0.6130908131599426,
     "true_label": 0
   },
   {
@@ -797,9 +797,9 @@
     "image_name": "142.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6005980372428894,
-    "prob_class_0": 0.3994019627571106,
-    "prob_class_1": 0.6005980372428894,
+    "confidence": 0.6127411723136902,
+    "prob_class_0": 0.3872588276863098,
+    "prob_class_1": 0.6127411723136902,
     "true_label": 0
   },
   {
@@ -808,9 +808,9 @@
     "image_name": "143.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6052989959716797,
-    "prob_class_0": 0.3947010040283203,
-    "prob_class_1": 0.6052989959716797,
+    "confidence": 0.6041253209114075,
+    "prob_class_0": 0.39587467908859253,
+    "prob_class_1": 0.6041253209114075,
     "true_label": 0
   },
   {
@@ -819,9 +819,9 @@
     "image_name": "144.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.572335958480835,
-    "prob_class_0": 0.42766404151916504,
-    "prob_class_1": 0.572335958480835,
+    "confidence": 0.6146288514137268,
+    "prob_class_0": 0.3853711485862732,
+    "prob_class_1": 0.6146288514137268,
     "true_label": 0
   },
   {
@@ -830,9 +830,9 @@
     "image_name": "146.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.56184983253479,
-    "prob_class_0": 0.43815016746520996,
-    "prob_class_1": 0.56184983253479,
+    "confidence": 0.5197193026542664,
+    "prob_class_0": 0.48028069734573364,
+    "prob_class_1": 0.5197193026542664,
     "true_label": 0
   },
   {
@@ -841,9 +841,9 @@
     "image_name": "148.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6106181740760803,
-    "prob_class_0": 0.3893818259239197,
-    "prob_class_1": 0.6106181740760803,
+    "confidence": 0.6264597177505493,
+    "prob_class_0": 0.3735402822494507,
+    "prob_class_1": 0.6264597177505493,
     "true_label": 0
   },
   {
@@ -852,9 +852,9 @@
     "image_name": "150.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5564422011375427,
-    "prob_class_0": 0.4435577988624573,
-    "prob_class_1": 0.5564422011375427,
+    "confidence": 0.6348167061805725,
+    "prob_class_0": 0.3651832938194275,
+    "prob_class_1": 0.6348167061805725,
     "true_label": 0
   },
   {
@@ -863,9 +863,9 @@
     "image_name": "153.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5848552584648132,
-    "prob_class_0": 0.41514474153518677,
-    "prob_class_1": 0.5848552584648132,
+    "confidence": 0.52512526512146,
+    "prob_class_0": 0.47487473487854004,
+    "prob_class_1": 0.52512526512146,
     "true_label": 0
   },
   {
@@ -874,9 +874,9 @@
     "image_name": "154.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6174655556678772,
-    "prob_class_0": 0.3825344443321228,
-    "prob_class_1": 0.6174655556678772,
+    "confidence": 0.6113307476043701,
+    "prob_class_0": 0.3886692523956299,
+    "prob_class_1": 0.6113307476043701,
     "true_label": 0
   },
   {
@@ -885,9 +885,9 @@
     "image_name": "155.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5218895673751831,
-    "prob_class_0": 0.4781104326248169,
-    "prob_class_1": 0.5218895673751831,
+    "confidence": 0.6052719354629517,
+    "prob_class_0": 0.39472806453704834,
+    "prob_class_1": 0.6052719354629517,
     "true_label": 0
   },
   {
@@ -896,9 +896,9 @@
     "image_name": "157.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.591180682182312,
-    "prob_class_0": 0.408819317817688,
-    "prob_class_1": 0.591180682182312,
+    "confidence": 0.5870280265808105,
+    "prob_class_0": 0.41297197341918945,
+    "prob_class_1": 0.5870280265808105,
     "true_label": 0
   },
   {
@@ -907,9 +907,9 @@
     "image_name": "159.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.601100504398346,
-    "prob_class_0": 0.39889949560165405,
-    "prob_class_1": 0.601100504398346,
+    "confidence": 0.5764498114585876,
+    "prob_class_0": 0.42355018854141235,
+    "prob_class_1": 0.5764498114585876,
     "true_label": 0
   },
   {
@@ -918,9 +918,9 @@
     "image_name": "160.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6163049340248108,
-    "prob_class_0": 0.3836950659751892,
-    "prob_class_1": 0.6163049340248108,
+    "confidence": 0.5967738032341003,
+    "prob_class_0": 0.40322619676589966,
+    "prob_class_1": 0.5967738032341003,
     "true_label": 0
   },
   {
@@ -929,9 +929,9 @@
     "image_name": "161.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5918081998825073,
-    "prob_class_0": 0.4081918001174927,
-    "prob_class_1": 0.5918081998825073,
+    "confidence": 0.618071436882019,
+    "prob_class_0": 0.38192856311798096,
+    "prob_class_1": 0.618071436882019,
     "true_label": 0
   },
   {
@@ -940,9 +940,9 @@
     "image_name": "162.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5996689200401306,
-    "prob_class_0": 0.4003310799598694,
-    "prob_class_1": 0.5996689200401306,
+    "confidence": 0.601595401763916,
+    "prob_class_0": 0.398404598236084,
+    "prob_class_1": 0.601595401763916,
     "true_label": 0
   },
   {
@@ -951,9 +951,9 @@
     "image_name": "164.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5442699193954468,
-    "prob_class_0": 0.4557300806045532,
-    "prob_class_1": 0.5442699193954468,
+    "confidence": 0.5732251405715942,
+    "prob_class_0": 0.42677485942840576,
+    "prob_class_1": 0.5732251405715942,
     "true_label": 0
   },
   {
@@ -962,9 +962,9 @@
     "image_name": "165.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6102900505065918,
-    "prob_class_0": 0.3897099494934082,
-    "prob_class_1": 0.6102900505065918,
+    "confidence": 0.6070179343223572,
+    "prob_class_0": 0.3929820656776428,
+    "prob_class_1": 0.6070179343223572,
     "true_label": 0
   },
   {
@@ -973,9 +973,9 @@
     "image_name": "168.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6136281490325928,
-    "prob_class_0": 0.3863718509674072,
-    "prob_class_1": 0.6136281490325928,
+    "confidence": 0.6065669059753418,
+    "prob_class_0": 0.3934330940246582,
+    "prob_class_1": 0.6065669059753418,
     "true_label": 0
   },
   {
@@ -984,9 +984,9 @@
     "image_name": "171.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5980120897293091,
-    "prob_class_0": 0.4019879102706909,
-    "prob_class_1": 0.5980120897293091,
+    "confidence": 0.6186193227767944,
+    "prob_class_0": 0.38138067722320557,
+    "prob_class_1": 0.6186193227767944,
     "true_label": 0
   },
   {
@@ -995,9 +995,9 @@
     "image_name": "174.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6123123168945312,
-    "prob_class_0": 0.38768768310546875,
-    "prob_class_1": 0.6123123168945312,
+    "confidence": 0.6102021932601929,
+    "prob_class_0": 0.38979780673980713,
+    "prob_class_1": 0.6102021932601929,
     "true_label": 0
   },
   {
@@ -1006,9 +1006,9 @@
     "image_name": "175.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5362480878829956,
-    "prob_class_0": 0.4637519121170044,
-    "prob_class_1": 0.5362480878829956,
+    "confidence": 0.5880681872367859,
+    "prob_class_0": 0.4119318127632141,
+    "prob_class_1": 0.5880681872367859,
     "true_label": 0
   },
   {
@@ -1017,9 +1017,9 @@
     "image_name": "177.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5469829440116882,
-    "prob_class_0": 0.45301705598831177,
-    "prob_class_1": 0.5469829440116882,
+    "confidence": 0.6087646484375,
+    "prob_class_0": 0.3912353515625,
+    "prob_class_1": 0.6087646484375,
     "true_label": 0
   },
   {
@@ -1028,9 +1028,9 @@
     "image_name": "178.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5918912887573242,
-    "prob_class_0": 0.4081087112426758,
-    "prob_class_1": 0.5918912887573242,
+    "confidence": 0.6078909635543823,
+    "prob_class_0": 0.3921090364456177,
+    "prob_class_1": 0.6078909635543823,
     "true_label": 0
   },
   {
@@ -1039,9 +1039,9 @@
     "image_name": "179.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6024788618087769,
-    "prob_class_0": 0.39752113819122314,
-    "prob_class_1": 0.6024788618087769,
+    "confidence": 0.5816366672515869,
+    "prob_class_0": 0.4183633327484131,
+    "prob_class_1": 0.5816366672515869,
     "true_label": 0
   },
   {
@@ -1050,9 +1050,9 @@
     "image_name": "183.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6333231925964355,
-    "prob_class_0": 0.36667680740356445,
-    "prob_class_1": 0.6333231925964355,
+    "confidence": 0.5734526515007019,
+    "prob_class_0": 0.4265473484992981,
+    "prob_class_1": 0.5734526515007019,
     "true_label": 0
   },
   {
@@ -1061,9 +1061,9 @@
     "image_name": "184.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6315896511077881,
-    "prob_class_0": 0.3684103488922119,
-    "prob_class_1": 0.6315896511077881,
+    "confidence": 0.6471419930458069,
+    "prob_class_0": 0.3528580069541931,
+    "prob_class_1": 0.6471419930458069,
     "true_label": 0
   },
   {
@@ -1072,9 +1072,9 @@
     "image_name": "185.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5179744362831116,
-    "prob_class_0": 0.4820255637168884,
-    "prob_class_1": 0.5179744362831116,
+    "confidence": 0.6047260761260986,
+    "prob_class_0": 0.39527392387390137,
+    "prob_class_1": 0.6047260761260986,
     "true_label": 0
   },
   {
@@ -1083,9 +1083,9 @@
     "image_name": "187.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.521988570690155,
-    "prob_class_0": 0.47801142930984497,
-    "prob_class_1": 0.521988570690155,
+    "confidence": 0.560649037361145,
+    "prob_class_0": 0.439350962638855,
+    "prob_class_1": 0.560649037361145,
     "true_label": 0
   },
   {
@@ -1094,9 +1094,9 @@
     "image_name": "188.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5436916351318359,
-    "prob_class_0": 0.45630836486816406,
-    "prob_class_1": 0.5436916351318359,
+    "confidence": 0.6123889088630676,
+    "prob_class_0": 0.3876110911369324,
+    "prob_class_1": 0.6123889088630676,
     "true_label": 0
   },
   {
@@ -1105,9 +1105,9 @@
     "image_name": "190.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5654515027999878,
-    "prob_class_0": 0.4345484972000122,
-    "prob_class_1": 0.5654515027999878,
+    "confidence": 0.6081110835075378,
+    "prob_class_0": 0.39188891649246216,
+    "prob_class_1": 0.6081110835075378,
     "true_label": 0
   },
   {
@@ -1116,9 +1116,9 @@
     "image_name": "191.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6342030763626099,
-    "prob_class_0": 0.36579692363739014,
-    "prob_class_1": 0.6342030763626099,
+    "confidence": 0.627355694770813,
+    "prob_class_0": 0.372644305229187,
+    "prob_class_1": 0.627355694770813,
     "true_label": 0
   },
   {
@@ -1127,9 +1127,9 @@
     "image_name": "194.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6171425580978394,
-    "prob_class_0": 0.38285744190216064,
-    "prob_class_1": 0.6171425580978394,
+    "confidence": 0.5930402874946594,
+    "prob_class_0": 0.4069597125053406,
+    "prob_class_1": 0.5930402874946594,
     "true_label": 0
   },
   {
@@ -1138,9 +1138,9 @@
     "image_name": "200.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5857632756233215,
-    "prob_class_0": 0.41423672437667847,
-    "prob_class_1": 0.5857632756233215,
+    "confidence": 0.5802786350250244,
+    "prob_class_0": 0.4197213649749756,
+    "prob_class_1": 0.5802786350250244,
     "true_label": 0
   },
   {
@@ -1149,9 +1149,9 @@
     "image_name": "201.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5615615248680115,
-    "prob_class_0": 0.4384384751319885,
-    "prob_class_1": 0.5615615248680115,
+    "confidence": 0.6198757290840149,
+    "prob_class_0": 0.3801242709159851,
+    "prob_class_1": 0.6198757290840149,
     "true_label": 0
   },
   {
@@ -1160,9 +1160,9 @@
     "image_name": "203.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5270525217056274,
-    "prob_class_0": 0.47294747829437256,
-    "prob_class_1": 0.5270525217056274,
+    "confidence": 0.6107513904571533,
+    "prob_class_0": 0.3892486095428467,
+    "prob_class_1": 0.6107513904571533,
     "true_label": 0
   },
   {
@@ -1171,9 +1171,9 @@
     "image_name": "206.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6120094656944275,
-    "prob_class_0": 0.3879905343055725,
-    "prob_class_1": 0.6120094656944275,
+    "confidence": 0.6393895149230957,
+    "prob_class_0": 0.3606104850769043,
+    "prob_class_1": 0.6393895149230957,
     "true_label": 0
   },
   {
@@ -1182,9 +1182,9 @@
     "image_name": "216.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5958064198493958,
-    "prob_class_0": 0.40419358015060425,
-    "prob_class_1": 0.5958064198493958,
+    "confidence": 0.610710859298706,
+    "prob_class_0": 0.38928914070129395,
+    "prob_class_1": 0.610710859298706,
     "true_label": 0
   },
   {
@@ -1193,9 +1193,9 @@
     "image_name": "222.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6097701787948608,
-    "prob_class_0": 0.39022982120513916,
-    "prob_class_1": 0.6097701787948608,
+    "confidence": 0.5990442037582397,
+    "prob_class_0": 0.40095579624176025,
+    "prob_class_1": 0.5990442037582397,
     "true_label": 0
   },
   {
@@ -1204,9 +1204,9 @@
     "image_name": "225.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6412465572357178,
-    "prob_class_0": 0.3587534427642822,
-    "prob_class_1": 0.6412465572357178,
+    "confidence": 0.5722813010215759,
+    "prob_class_0": 0.4277186989784241,
+    "prob_class_1": 0.5722813010215759,
     "true_label": 0
   },
   {
@@ -1215,9 +1215,9 @@
     "image_name": "227.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6251503229141235,
-    "prob_class_0": 0.37484967708587646,
-    "prob_class_1": 0.6251503229141235,
+    "confidence": 0.6018004417419434,
+    "prob_class_0": 0.39819955825805664,
+    "prob_class_1": 0.6018004417419434,
     "true_label": 0
   },
   {
@@ -1226,9 +1226,9 @@
     "image_name": "228.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5609145760536194,
-    "prob_class_0": 0.4390854239463806,
-    "prob_class_1": 0.5609145760536194,
+    "confidence": 0.6256141662597656,
+    "prob_class_0": 0.3743858337402344,
+    "prob_class_1": 0.6256141662597656,
     "true_label": 0
   },
   {
@@ -1237,9 +1237,9 @@
     "image_name": "235.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6082726716995239,
-    "prob_class_0": 0.3917273283004761,
-    "prob_class_1": 0.6082726716995239,
+    "confidence": 0.6275041103363037,
+    "prob_class_0": 0.3724958896636963,
+    "prob_class_1": 0.6275041103363037,
     "true_label": 0
   },
   {
@@ -1248,9 +1248,9 @@
     "image_name": "238.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5579631924629211,
-    "prob_class_0": 0.44203680753707886,
-    "prob_class_1": 0.5579631924629211,
+    "confidence": 0.6144627332687378,
+    "prob_class_0": 0.3855372667312622,
+    "prob_class_1": 0.6144627332687378,
     "true_label": 0
   },
   {
@@ -1259,9 +1259,9 @@
     "image_name": "239.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6091433167457581,
-    "prob_class_0": 0.39085668325424194,
-    "prob_class_1": 0.6091433167457581,
+    "confidence": 0.6074815392494202,
+    "prob_class_0": 0.39251846075057983,
+    "prob_class_1": 0.6074815392494202,
     "true_label": 0
   },
   {
@@ -1270,9 +1270,9 @@
     "image_name": "240.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6137627959251404,
-    "prob_class_0": 0.3862372040748596,
-    "prob_class_1": 0.6137627959251404,
+    "confidence": 0.6044803857803345,
+    "prob_class_0": 0.3955196142196655,
+    "prob_class_1": 0.6044803857803345,
     "true_label": 0
   },
   {
@@ -1281,9 +1281,9 @@
     "image_name": "241.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6409160494804382,
-    "prob_class_0": 0.35908395051956177,
-    "prob_class_1": 0.6409160494804382,
+    "confidence": 0.6212993860244751,
+    "prob_class_0": 0.3787006139755249,
+    "prob_class_1": 0.6212993860244751,
     "true_label": 0
   },
   {
@@ -1292,9 +1292,9 @@
     "image_name": "242.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5168941617012024,
-    "prob_class_0": 0.4831058382987976,
-    "prob_class_1": 0.5168941617012024,
+    "confidence": 0.6134410500526428,
+    "prob_class_0": 0.3865589499473572,
+    "prob_class_1": 0.6134410500526428,
     "true_label": 0
   },
   {
@@ -1303,9 +1303,9 @@
     "image_name": "244.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5981067419052124,
-    "prob_class_0": 0.4018932580947876,
-    "prob_class_1": 0.5981067419052124,
+    "confidence": 0.5886880159378052,
+    "prob_class_0": 0.4113119840621948,
+    "prob_class_1": 0.5886880159378052,
     "true_label": 0
   },
   {
@@ -1314,9 +1314,9 @@
     "image_name": "245.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5966097116470337,
-    "prob_class_0": 0.4033902883529663,
-    "prob_class_1": 0.5966097116470337,
+    "confidence": 0.6084024310112,
+    "prob_class_0": 0.39159756898880005,
+    "prob_class_1": 0.6084024310112,
     "true_label": 0
   },
   {
@@ -1325,9 +1325,9 @@
     "image_name": "246.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6162759065628052,
-    "prob_class_0": 0.3837240934371948,
-    "prob_class_1": 0.6162759065628052,
+    "confidence": 0.5956030488014221,
+    "prob_class_0": 0.4043969511985779,
+    "prob_class_1": 0.5956030488014221,
     "true_label": 0
   },
   {
@@ -1336,9 +1336,9 @@
     "image_name": "249.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5673717260360718,
-    "prob_class_0": 0.4326282739639282,
-    "prob_class_1": 0.5673717260360718,
+    "confidence": 0.5282186269760132,
+    "prob_class_0": 0.4717813730239868,
+    "prob_class_1": 0.5282186269760132,
     "true_label": 0
   },
   {
@@ -1347,9 +1347,9 @@
     "image_name": "254.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5363267064094543,
-    "prob_class_0": 0.46367329359054565,
-    "prob_class_1": 0.5363267064094543,
+    "confidence": 0.6216106414794922,
+    "prob_class_0": 0.3783893585205078,
+    "prob_class_1": 0.6216106414794922,
     "true_label": 0
   },
   {
@@ -1358,9 +1358,9 @@
     "image_name": "256.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6225075721740723,
-    "prob_class_0": 0.37749242782592773,
-    "prob_class_1": 0.6225075721740723,
+    "confidence": 0.6190318465232849,
+    "prob_class_0": 0.3809681534767151,
+    "prob_class_1": 0.6190318465232849,
     "true_label": 0
   },
   {
@@ -1369,9 +1369,9 @@
     "image_name": "257.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.65116286277771,
-    "prob_class_0": 0.34883713722229004,
-    "prob_class_1": 0.65116286277771,
+    "confidence": 0.6014416813850403,
+    "prob_class_0": 0.3985583186149597,
+    "prob_class_1": 0.6014416813850403,
     "true_label": 0
   },
   {
@@ -1380,9 +1380,9 @@
     "image_name": "258.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6079062223434448,
-    "prob_class_0": 0.3920937776565552,
-    "prob_class_1": 0.6079062223434448,
+    "confidence": 0.5180749297142029,
+    "prob_class_0": 0.4819250702857971,
+    "prob_class_1": 0.5180749297142029,
     "true_label": 0
   },
   {
@@ -1391,9 +1391,9 @@
     "image_name": "260.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.609046459197998,
-    "prob_class_0": 0.39095354080200195,
-    "prob_class_1": 0.609046459197998,
+    "confidence": 0.6310646533966064,
+    "prob_class_0": 0.36893534660339355,
+    "prob_class_1": 0.6310646533966064,
     "true_label": 0
   },
   {
@@ -1402,9 +1402,9 @@
     "image_name": "261.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5931006669998169,
-    "prob_class_0": 0.4068993330001831,
-    "prob_class_1": 0.5931006669998169,
+    "confidence": 0.5722171068191528,
+    "prob_class_0": 0.42778289318084717,
+    "prob_class_1": 0.5722171068191528,
     "true_label": 0
   },
   {
@@ -1413,9 +1413,9 @@
     "image_name": "263.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5937066078186035,
-    "prob_class_0": 0.4062933921813965,
-    "prob_class_1": 0.5937066078186035,
+    "confidence": 0.6187757253646851,
+    "prob_class_0": 0.38122427463531494,
+    "prob_class_1": 0.6187757253646851,
     "true_label": 0
   },
   {
@@ -1424,9 +1424,9 @@
     "image_name": "265.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5290170311927795,
-    "prob_class_0": 0.47098296880722046,
-    "prob_class_1": 0.5290170311927795,
+    "confidence": 0.6040752530097961,
+    "prob_class_0": 0.39592474699020386,
+    "prob_class_1": 0.6040752530097961,
     "true_label": 0
   },
   {
@@ -1435,9 +1435,9 @@
     "image_name": "266.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5853521823883057,
-    "prob_class_0": 0.41464781761169434,
-    "prob_class_1": 0.5853521823883057,
+    "confidence": 0.6286053657531738,
+    "prob_class_0": 0.37139463424682617,
+    "prob_class_1": 0.6286053657531738,
     "true_label": 0
   },
   {
@@ -1446,9 +1446,9 @@
     "image_name": "268.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6127749085426331,
-    "prob_class_0": 0.38722509145736694,
-    "prob_class_1": 0.6127749085426331,
+    "confidence": 0.5863181948661804,
+    "prob_class_0": 0.4136818051338196,
+    "prob_class_1": 0.5863181948661804,
     "true_label": 0
   },
   {
@@ -1457,9 +1457,9 @@
     "image_name": "270.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6075847744941711,
-    "prob_class_0": 0.39241522550582886,
-    "prob_class_1": 0.6075847744941711,
+    "confidence": 0.6337820887565613,
+    "prob_class_0": 0.3662179112434387,
+    "prob_class_1": 0.6337820887565613,
     "true_label": 0
   },
   {
@@ -1468,9 +1468,9 @@
     "image_name": "271.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6179909706115723,
-    "prob_class_0": 0.38200902938842773,
-    "prob_class_1": 0.6179909706115723,
+    "confidence": 0.6186214089393616,
+    "prob_class_0": 0.3813785910606384,
+    "prob_class_1": 0.6186214089393616,
     "true_label": 0
   },
   {
@@ -1479,9 +1479,9 @@
     "image_name": "274.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5576743483543396,
-    "prob_class_0": 0.4423256516456604,
-    "prob_class_1": 0.5576743483543396,
+    "confidence": 0.593901515007019,
+    "prob_class_0": 0.40609848499298096,
+    "prob_class_1": 0.593901515007019,
     "true_label": 0
   },
   {
@@ -1490,9 +1490,9 @@
     "image_name": "275.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5160900354385376,
-    "prob_class_0": 0.4839099645614624,
-    "prob_class_1": 0.5160900354385376,
+    "confidence": 0.587793231010437,
+    "prob_class_0": 0.412206768989563,
+    "prob_class_1": 0.587793231010437,
     "true_label": 0
   },
   {
@@ -1501,9 +1501,9 @@
     "image_name": "278.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.630328893661499,
-    "prob_class_0": 0.369671106338501,
-    "prob_class_1": 0.630328893661499,
+    "confidence": 0.6032403111457825,
+    "prob_class_0": 0.39675968885421753,
+    "prob_class_1": 0.6032403111457825,
     "true_label": 0
   },
   {
@@ -1512,9 +1512,9 @@
     "image_name": "281.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.57126784324646,
-    "prob_class_0": 0.42873215675354004,
-    "prob_class_1": 0.57126784324646,
+    "confidence": 0.595500648021698,
+    "prob_class_0": 0.404499351978302,
+    "prob_class_1": 0.595500648021698,
     "true_label": 0
   },
   {
@@ -1523,9 +1523,9 @@
     "image_name": "284.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.633246660232544,
-    "prob_class_0": 0.36675333976745605,
-    "prob_class_1": 0.633246660232544,
+    "confidence": 0.6367449760437012,
+    "prob_class_0": 0.36325502395629883,
+    "prob_class_1": 0.6367449760437012,
     "true_label": 0
   },
   {
@@ -1534,9 +1534,9 @@
     "image_name": "285.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5218859910964966,
-    "prob_class_0": 0.4781140089035034,
-    "prob_class_1": 0.5218859910964966,
+    "confidence": 0.6068589687347412,
+    "prob_class_0": 0.3931410312652588,
+    "prob_class_1": 0.6068589687347412,
     "true_label": 0
   },
   {
@@ -1545,9 +1545,9 @@
     "image_name": "286.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5813964009284973,
-    "prob_class_0": 0.4186035990715027,
-    "prob_class_1": 0.5813964009284973,
+    "confidence": 0.5991389751434326,
+    "prob_class_0": 0.4008610248565674,
+    "prob_class_1": 0.5991389751434326,
     "true_label": 0
   },
   {
@@ -1556,9 +1556,9 @@
     "image_name": "287.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6076791286468506,
-    "prob_class_0": 0.3923208713531494,
-    "prob_class_1": 0.6076791286468506,
+    "confidence": 0.5922836661338806,
+    "prob_class_0": 0.4077163338661194,
+    "prob_class_1": 0.5922836661338806,
     "true_label": 0
   },
   {
@@ -1567,9 +1567,9 @@
     "image_name": "288.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5682892799377441,
-    "prob_class_0": 0.43171072006225586,
-    "prob_class_1": 0.5682892799377441,
+    "confidence": 0.5516613125801086,
+    "prob_class_0": 0.44833868741989136,
+    "prob_class_1": 0.5516613125801086,
     "true_label": 0
   },
   {
@@ -1578,9 +1578,9 @@
     "image_name": "289.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.597700297832489,
-    "prob_class_0": 0.402299702167511,
-    "prob_class_1": 0.597700297832489,
+    "confidence": 0.631341278553009,
+    "prob_class_0": 0.36865872144699097,
+    "prob_class_1": 0.631341278553009,
     "true_label": 0
   },
   {
@@ -1589,9 +1589,9 @@
     "image_name": "295.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6103360056877136,
-    "prob_class_0": 0.3896639943122864,
-    "prob_class_1": 0.6103360056877136,
+    "confidence": 0.6239331960678101,
+    "prob_class_0": 0.37606680393218994,
+    "prob_class_1": 0.6239331960678101,
     "true_label": 0
   },
   {
@@ -1600,9 +1600,9 @@
     "image_name": "298.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6029037237167358,
-    "prob_class_0": 0.39709627628326416,
-    "prob_class_1": 0.6029037237167358,
+    "confidence": 0.6050999164581299,
+    "prob_class_0": 0.3949000835418701,
+    "prob_class_1": 0.6050999164581299,
     "true_label": 0
   },
   {
@@ -1611,9 +1611,9 @@
     "image_name": "299.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6070780754089355,
-    "prob_class_0": 0.39292192459106445,
-    "prob_class_1": 0.6070780754089355,
+    "confidence": 0.6101177930831909,
+    "prob_class_0": 0.3898822069168091,
+    "prob_class_1": 0.6101177930831909,
     "true_label": 0
   },
   {
@@ -1622,9 +1622,9 @@
     "image_name": "306.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5843773484230042,
-    "prob_class_0": 0.41562265157699585,
-    "prob_class_1": 0.5843773484230042,
+    "confidence": 0.6042160391807556,
+    "prob_class_0": 0.3957839608192444,
+    "prob_class_1": 0.6042160391807556,
     "true_label": 0
   },
   {
@@ -1633,9 +1633,9 @@
     "image_name": "307.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6321872472763062,
-    "prob_class_0": 0.36781275272369385,
-    "prob_class_1": 0.6321872472763062,
+    "confidence": 0.5902565121650696,
+    "prob_class_0": 0.4097434878349304,
+    "prob_class_1": 0.5902565121650696,
     "true_label": 0
   },
   {
@@ -1644,9 +1644,9 @@
     "image_name": "311.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6312741637229919,
-    "prob_class_0": 0.36872583627700806,
-    "prob_class_1": 0.6312741637229919,
+    "confidence": 0.5794174671173096,
+    "prob_class_0": 0.42058253288269043,
+    "prob_class_1": 0.5794174671173096,
     "true_label": 0
   },
   {
@@ -1655,9 +1655,9 @@
     "image_name": "314.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.54253751039505,
-    "prob_class_0": 0.45746248960494995,
-    "prob_class_1": 0.54253751039505,
+    "confidence": 0.5870088934898376,
+    "prob_class_0": 0.41299110651016235,
+    "prob_class_1": 0.5870088934898376,
     "true_label": 0
   },
   {
@@ -1666,9 +1666,9 @@
     "image_name": "315.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5996167659759521,
-    "prob_class_0": 0.40038323402404785,
-    "prob_class_1": 0.5996167659759521,
+    "confidence": 0.6085234880447388,
+    "prob_class_0": 0.39147651195526123,
+    "prob_class_1": 0.6085234880447388,
     "true_label": 0
   },
   {
@@ -1677,9 +1677,9 @@
     "image_name": "318.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5428873896598816,
-    "prob_class_0": 0.4571126103401184,
-    "prob_class_1": 0.5428873896598816,
+    "confidence": 0.623568058013916,
+    "prob_class_0": 0.376431941986084,
+    "prob_class_1": 0.623568058013916,
     "true_label": 0
   },
   {
@@ -1688,9 +1688,9 @@
     "image_name": "319.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5666287541389465,
-    "prob_class_0": 0.43337124586105347,
-    "prob_class_1": 0.5666287541389465,
+    "confidence": 0.6311593651771545,
+    "prob_class_0": 0.36884063482284546,
+    "prob_class_1": 0.6311593651771545,
     "true_label": 0
   },
   {
@@ -1699,9 +1699,9 @@
     "image_name": "320.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6062431335449219,
-    "prob_class_0": 0.3937568664550781,
-    "prob_class_1": 0.6062431335449219,
+    "confidence": 0.6180506944656372,
+    "prob_class_0": 0.3819493055343628,
+    "prob_class_1": 0.6180506944656372,
     "true_label": 0
   },
   {
@@ -1710,9 +1710,9 @@
     "image_name": "322.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5750660300254822,
-    "prob_class_0": 0.4249339699745178,
-    "prob_class_1": 0.5750660300254822,
+    "confidence": 0.6381174921989441,
+    "prob_class_0": 0.3618825078010559,
+    "prob_class_1": 0.6381174921989441,
     "true_label": 0
   },
   {
@@ -1721,9 +1721,9 @@
     "image_name": "324.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6147503852844238,
-    "prob_class_0": 0.38524961471557617,
-    "prob_class_1": 0.6147503852844238,
+    "confidence": 0.6036662459373474,
+    "prob_class_0": 0.3963337540626526,
+    "prob_class_1": 0.6036662459373474,
     "true_label": 0
   },
   {
@@ -1732,9 +1732,9 @@
     "image_name": "325.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5706836581230164,
-    "prob_class_0": 0.42931634187698364,
-    "prob_class_1": 0.5706836581230164,
+    "confidence": 0.6267297267913818,
+    "prob_class_0": 0.37327027320861816,
+    "prob_class_1": 0.6267297267913818,
     "true_label": 0
   },
   {
@@ -1743,9 +1743,9 @@
     "image_name": "326.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5839123129844666,
-    "prob_class_0": 0.41608768701553345,
-    "prob_class_1": 0.5839123129844666,
+    "confidence": 0.5560930371284485,
+    "prob_class_0": 0.4439069628715515,
+    "prob_class_1": 0.5560930371284485,
     "true_label": 0
   },
   {
@@ -1754,9 +1754,9 @@
     "image_name": "327.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6246922016143799,
-    "prob_class_0": 0.3753077983856201,
-    "prob_class_1": 0.6246922016143799,
+    "confidence": 0.5952196717262268,
+    "prob_class_0": 0.4047803282737732,
+    "prob_class_1": 0.5952196717262268,
     "true_label": 0
   },
   {
@@ -1765,9 +1765,9 @@
     "image_name": "329.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6671289205551147,
-    "prob_class_0": 0.33287107944488525,
-    "prob_class_1": 0.6671289205551147,
+    "confidence": 0.5563926696777344,
+    "prob_class_0": 0.4436073303222656,
+    "prob_class_1": 0.5563926696777344,
     "true_label": 0
   },
   {
@@ -1776,9 +1776,9 @@
     "image_name": "330.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5973731279373169,
-    "prob_class_0": 0.4026268720626831,
-    "prob_class_1": 0.5973731279373169,
+    "confidence": 0.594056248664856,
+    "prob_class_0": 0.40594375133514404,
+    "prob_class_1": 0.594056248664856,
     "true_label": 0
   },
   {
@@ -1787,9 +1787,9 @@
     "image_name": "331.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6371068954467773,
-    "prob_class_0": 0.36289310455322266,
-    "prob_class_1": 0.6371068954467773,
+    "confidence": 0.6142696738243103,
+    "prob_class_0": 0.3857303261756897,
+    "prob_class_1": 0.6142696738243103,
     "true_label": 0
   },
   {
@@ -1798,9 +1798,9 @@
     "image_name": "333.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5690432786941528,
-    "prob_class_0": 0.43095672130584717,
-    "prob_class_1": 0.5690432786941528,
+    "confidence": 0.5044953227043152,
+    "prob_class_0": 0.4955046772956848,
+    "prob_class_1": 0.5044953227043152,
     "true_label": 0
   },
   {
@@ -1808,10 +1808,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/0/335.jpg",
     "image_name": "335.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5764238834381104,
-    "prob_class_0": 0.42357611656188965,
-    "prob_class_1": 0.5764238834381104,
+    "predicted_class": 0,
+    "confidence": 0.5099950432777405,
+    "prob_class_0": 0.5099950432777405,
+    "prob_class_1": 0.4900049567222595,
     "true_label": 0
   },
   {
@@ -1820,9 +1820,9 @@
     "image_name": "337.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5124079585075378,
-    "prob_class_0": 0.48759204149246216,
-    "prob_class_1": 0.5124079585075378,
+    "confidence": 0.570966899394989,
+    "prob_class_0": 0.429033100605011,
+    "prob_class_1": 0.570966899394989,
     "true_label": 0
   },
   {
@@ -1831,9 +1831,9 @@
     "image_name": "339.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.569378137588501,
-    "prob_class_0": 0.430621862411499,
-    "prob_class_1": 0.569378137588501,
+    "confidence": 0.605421245098114,
+    "prob_class_0": 0.394578754901886,
+    "prob_class_1": 0.605421245098114,
     "true_label": 0
   },
   {
@@ -1842,9 +1842,9 @@
     "image_name": "341.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6007404923439026,
-    "prob_class_0": 0.3992595076560974,
-    "prob_class_1": 0.6007404923439026,
+    "confidence": 0.5426589846611023,
+    "prob_class_0": 0.4573410153388977,
+    "prob_class_1": 0.5426589846611023,
     "true_label": 0
   },
   {
@@ -1853,9 +1853,9 @@
     "image_name": "346.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6013643145561218,
-    "prob_class_0": 0.3986356854438782,
-    "prob_class_1": 0.6013643145561218,
+    "confidence": 0.596574068069458,
+    "prob_class_0": 0.403425931930542,
+    "prob_class_1": 0.596574068069458,
     "true_label": 0
   },
   {
@@ -1863,10 +1863,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/0/347.jpg",
     "image_name": "347.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.559097409248352,
-    "prob_class_0": 0.44090259075164795,
-    "prob_class_1": 0.559097409248352,
+    "predicted_class": 0,
+    "confidence": 0.5432567000389099,
+    "prob_class_0": 0.5432567000389099,
+    "prob_class_1": 0.4567432999610901,
     "true_label": 0
   },
   {
@@ -1875,9 +1875,9 @@
     "image_name": "348.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5458984375,
-    "prob_class_0": 0.4541015625,
-    "prob_class_1": 0.5458984375,
+    "confidence": 0.5963048934936523,
+    "prob_class_0": 0.40369510650634766,
+    "prob_class_1": 0.5963048934936523,
     "true_label": 0
   },
   {
@@ -1886,9 +1886,9 @@
     "image_name": "350.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5572763085365295,
-    "prob_class_0": 0.44272369146347046,
-    "prob_class_1": 0.5572763085365295,
+    "confidence": 0.6208638548851013,
+    "prob_class_0": 0.3791361451148987,
+    "prob_class_1": 0.6208638548851013,
     "true_label": 0
   },
   {
@@ -1897,9 +1897,9 @@
     "image_name": "352.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5932437181472778,
-    "prob_class_0": 0.40675628185272217,
-    "prob_class_1": 0.5932437181472778,
+    "confidence": 0.61429363489151,
+    "prob_class_0": 0.38570636510849,
+    "prob_class_1": 0.61429363489151,
     "true_label": 0
   },
   {
@@ -1908,9 +1908,9 @@
     "image_name": "354.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6112022399902344,
-    "prob_class_0": 0.3887977600097656,
-    "prob_class_1": 0.6112022399902344,
+    "confidence": 0.6281139850616455,
+    "prob_class_0": 0.3718860149383545,
+    "prob_class_1": 0.6281139850616455,
     "true_label": 0
   },
   {
@@ -1918,10 +1918,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/0/355.jpg",
     "image_name": "355.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5429558753967285,
-    "prob_class_0": 0.5429558753967285,
-    "prob_class_1": 0.4570441246032715,
+    "predicted_class": 1,
+    "confidence": 0.6185670495033264,
+    "prob_class_0": 0.3814329504966736,
+    "prob_class_1": 0.6185670495033264,
     "true_label": 0
   },
   {
@@ -1930,9 +1930,9 @@
     "image_name": "363.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5607369542121887,
-    "prob_class_0": 0.4392630457878113,
-    "prob_class_1": 0.5607369542121887,
+    "confidence": 0.625808835029602,
+    "prob_class_0": 0.37419116497039795,
+    "prob_class_1": 0.625808835029602,
     "true_label": 0
   },
   {
@@ -1941,9 +1941,9 @@
     "image_name": "364.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5131533145904541,
-    "prob_class_0": 0.4868466854095459,
-    "prob_class_1": 0.5131533145904541,
+    "confidence": 0.630545973777771,
+    "prob_class_0": 0.369454026222229,
+    "prob_class_1": 0.630545973777771,
     "true_label": 0
   },
   {
@@ -1952,9 +1952,9 @@
     "image_name": "366.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6253796815872192,
-    "prob_class_0": 0.37462031841278076,
-    "prob_class_1": 0.6253796815872192,
+    "confidence": 0.6069065928459167,
+    "prob_class_0": 0.39309340715408325,
+    "prob_class_1": 0.6069065928459167,
     "true_label": 0
   },
   {
@@ -1963,9 +1963,9 @@
     "image_name": "367.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5489233136177063,
-    "prob_class_0": 0.4510766863822937,
-    "prob_class_1": 0.5489233136177063,
+    "confidence": 0.5964528918266296,
+    "prob_class_0": 0.40354710817337036,
+    "prob_class_1": 0.5964528918266296,
     "true_label": 0
   },
   {
@@ -1974,9 +1974,9 @@
     "image_name": "368.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5687482357025146,
-    "prob_class_0": 0.43125176429748535,
-    "prob_class_1": 0.5687482357025146,
+    "confidence": 0.6453589797019958,
+    "prob_class_0": 0.35464102029800415,
+    "prob_class_1": 0.6453589797019958,
     "true_label": 0
   },
   {
@@ -1985,9 +1985,9 @@
     "image_name": "369.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6237273812294006,
-    "prob_class_0": 0.37627261877059937,
-    "prob_class_1": 0.6237273812294006,
+    "confidence": 0.6066305041313171,
+    "prob_class_0": 0.39336949586868286,
+    "prob_class_1": 0.6066305041313171,
     "true_label": 0
   },
   {
@@ -1996,9 +1996,9 @@
     "image_name": "371.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5835038423538208,
-    "prob_class_0": 0.4164961576461792,
-    "prob_class_1": 0.5835038423538208,
+    "confidence": 0.5849499702453613,
+    "prob_class_0": 0.41505002975463867,
+    "prob_class_1": 0.5849499702453613,
     "true_label": 0
   },
   {
@@ -2007,9 +2007,9 @@
     "image_name": "373.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5803384780883789,
-    "prob_class_0": 0.4196615219116211,
-    "prob_class_1": 0.5803384780883789,
+    "confidence": 0.6045939326286316,
+    "prob_class_0": 0.3954060673713684,
+    "prob_class_1": 0.6045939326286316,
     "true_label": 0
   },
   {
@@ -2018,9 +2018,9 @@
     "image_name": "375.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5968940258026123,
-    "prob_class_0": 0.4031059741973877,
-    "prob_class_1": 0.5968940258026123,
+    "confidence": 0.6035165786743164,
+    "prob_class_0": 0.3964834213256836,
+    "prob_class_1": 0.6035165786743164,
     "true_label": 0
   },
   {
@@ -2029,9 +2029,9 @@
     "image_name": "376.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6073037385940552,
-    "prob_class_0": 0.3926962614059448,
-    "prob_class_1": 0.6073037385940552,
+    "confidence": 0.5949229598045349,
+    "prob_class_0": 0.4050770401954651,
+    "prob_class_1": 0.5949229598045349,
     "true_label": 0
   },
   {
@@ -2040,9 +2040,9 @@
     "image_name": "377.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.607344388961792,
-    "prob_class_0": 0.392655611038208,
-    "prob_class_1": 0.607344388961792,
+    "confidence": 0.6268544793128967,
+    "prob_class_0": 0.37314552068710327,
+    "prob_class_1": 0.6268544793128967,
     "true_label": 0
   },
   {
@@ -2051,9 +2051,9 @@
     "image_name": "378.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.619429886341095,
-    "prob_class_0": 0.38057011365890503,
-    "prob_class_1": 0.619429886341095,
+    "confidence": 0.6123329997062683,
+    "prob_class_0": 0.3876670002937317,
+    "prob_class_1": 0.6123329997062683,
     "true_label": 0
   },
   {
@@ -2062,9 +2062,9 @@
     "image_name": "382.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5617015361785889,
-    "prob_class_0": 0.43829846382141113,
-    "prob_class_1": 0.5617015361785889,
+    "confidence": 0.6093065738677979,
+    "prob_class_0": 0.39069342613220215,
+    "prob_class_1": 0.6093065738677979,
     "true_label": 0
   },
   {
@@ -2073,9 +2073,9 @@
     "image_name": "384.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6264047622680664,
-    "prob_class_0": 0.3735952377319336,
-    "prob_class_1": 0.6264047622680664,
+    "confidence": 0.5668390393257141,
+    "prob_class_0": 0.4331609606742859,
+    "prob_class_1": 0.5668390393257141,
     "true_label": 0
   },
   {
@@ -2084,9 +2084,9 @@
     "image_name": "386.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5920860171318054,
-    "prob_class_0": 0.4079139828681946,
-    "prob_class_1": 0.5920860171318054,
+    "confidence": 0.6035355925559998,
+    "prob_class_0": 0.39646440744400024,
+    "prob_class_1": 0.6035355925559998,
     "true_label": 0
   },
   {
@@ -2095,9 +2095,9 @@
     "image_name": "388.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.594514012336731,
-    "prob_class_0": 0.40548598766326904,
-    "prob_class_1": 0.594514012336731,
+    "confidence": 0.5849993824958801,
+    "prob_class_0": 0.4150006175041199,
+    "prob_class_1": 0.5849993824958801,
     "true_label": 0
   },
   {
@@ -2106,9 +2106,9 @@
     "image_name": "392.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6164732575416565,
-    "prob_class_0": 0.3835267424583435,
-    "prob_class_1": 0.6164732575416565,
+    "confidence": 0.5133722424507141,
+    "prob_class_0": 0.4866277575492859,
+    "prob_class_1": 0.5133722424507141,
     "true_label": 0
   },
   {
@@ -2117,9 +2117,9 @@
     "image_name": "394.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6201517581939697,
-    "prob_class_0": 0.3798482418060303,
-    "prob_class_1": 0.6201517581939697,
+    "confidence": 0.5273935794830322,
+    "prob_class_0": 0.4726064205169678,
+    "prob_class_1": 0.5273935794830322,
     "true_label": 0
   },
   {
@@ -2128,9 +2128,9 @@
     "image_name": "395.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6075708866119385,
-    "prob_class_0": 0.3924291133880615,
-    "prob_class_1": 0.6075708866119385,
+    "confidence": 0.6005045771598816,
+    "prob_class_0": 0.3994954228401184,
+    "prob_class_1": 0.6005045771598816,
     "true_label": 0
   },
   {
@@ -2139,9 +2139,9 @@
     "image_name": "397.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6292034387588501,
-    "prob_class_0": 0.3707965612411499,
-    "prob_class_1": 0.6292034387588501,
+    "confidence": 0.6090548038482666,
+    "prob_class_0": 0.3909451961517334,
+    "prob_class_1": 0.6090548038482666,
     "true_label": 0
   },
   {
@@ -2150,9 +2150,9 @@
     "image_name": "401.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6424871683120728,
-    "prob_class_0": 0.35751283168792725,
-    "prob_class_1": 0.6424871683120728,
+    "confidence": 0.5735686421394348,
+    "prob_class_0": 0.4264313578605652,
+    "prob_class_1": 0.5735686421394348,
     "true_label": 0
   },
   {
@@ -2161,9 +2161,9 @@
     "image_name": "402.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5275144577026367,
-    "prob_class_0": 0.4724855422973633,
-    "prob_class_1": 0.5275144577026367,
+    "confidence": 0.5968478918075562,
+    "prob_class_0": 0.40315210819244385,
+    "prob_class_1": 0.5968478918075562,
     "true_label": 0
   },
   {
@@ -2172,9 +2172,9 @@
     "image_name": "404.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6251548528671265,
-    "prob_class_0": 0.37484514713287354,
-    "prob_class_1": 0.6251548528671265,
+    "confidence": 0.6109088659286499,
+    "prob_class_0": 0.3890911340713501,
+    "prob_class_1": 0.6109088659286499,
     "true_label": 0
   },
   {
@@ -2183,9 +2183,9 @@
     "image_name": "405.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5428125858306885,
-    "prob_class_0": 0.4571874141693115,
-    "prob_class_1": 0.5428125858306885,
+    "confidence": 0.6059158444404602,
+    "prob_class_0": 0.3940841555595398,
+    "prob_class_1": 0.6059158444404602,
     "true_label": 0
   },
   {
@@ -2194,9 +2194,9 @@
     "image_name": "406.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5445291996002197,
-    "prob_class_0": 0.4554708003997803,
-    "prob_class_1": 0.5445291996002197,
+    "confidence": 0.6184871196746826,
+    "prob_class_0": 0.3815128803253174,
+    "prob_class_1": 0.6184871196746826,
     "true_label": 0
   },
   {
@@ -2205,9 +2205,9 @@
     "image_name": "407.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5877986550331116,
-    "prob_class_0": 0.4122013449668884,
-    "prob_class_1": 0.5877986550331116,
+    "confidence": 0.5869693756103516,
+    "prob_class_0": 0.41303062438964844,
+    "prob_class_1": 0.5869693756103516,
     "true_label": 0
   },
   {
@@ -2216,9 +2216,9 @@
     "image_name": "408.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5476542711257935,
-    "prob_class_0": 0.45234572887420654,
-    "prob_class_1": 0.5476542711257935,
+    "confidence": 0.6381492018699646,
+    "prob_class_0": 0.3618507981300354,
+    "prob_class_1": 0.6381492018699646,
     "true_label": 0
   },
   {
@@ -2227,9 +2227,9 @@
     "image_name": "409.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.596376895904541,
-    "prob_class_0": 0.403623104095459,
-    "prob_class_1": 0.596376895904541,
+    "confidence": 0.5459219813346863,
+    "prob_class_0": 0.4540780186653137,
+    "prob_class_1": 0.5459219813346863,
     "true_label": 0
   },
   {
@@ -2238,9 +2238,9 @@
     "image_name": "411.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5296629071235657,
-    "prob_class_0": 0.4703370928764343,
-    "prob_class_1": 0.5296629071235657,
+    "confidence": 0.6064471006393433,
+    "prob_class_0": 0.39355289936065674,
+    "prob_class_1": 0.6064471006393433,
     "true_label": 0
   },
   {
@@ -2249,9 +2249,9 @@
     "image_name": "412.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6252025365829468,
-    "prob_class_0": 0.3747974634170532,
-    "prob_class_1": 0.6252025365829468,
+    "confidence": 0.623548686504364,
+    "prob_class_0": 0.376451313495636,
+    "prob_class_1": 0.623548686504364,
     "true_label": 0
   },
   {
@@ -2260,9 +2260,9 @@
     "image_name": "413.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5459479689598083,
-    "prob_class_0": 0.45405203104019165,
-    "prob_class_1": 0.5459479689598083,
+    "confidence": 0.6035401821136475,
+    "prob_class_0": 0.39645981788635254,
+    "prob_class_1": 0.6035401821136475,
     "true_label": 0
   },
   {
@@ -2271,9 +2271,9 @@
     "image_name": "416.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5162451863288879,
-    "prob_class_0": 0.48375481367111206,
-    "prob_class_1": 0.5162451863288879,
+    "confidence": 0.571239173412323,
+    "prob_class_0": 0.428760826587677,
+    "prob_class_1": 0.571239173412323,
     "true_label": 0
   },
   {
@@ -2282,9 +2282,9 @@
     "image_name": "424.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6286624073982239,
-    "prob_class_0": 0.3713375926017761,
-    "prob_class_1": 0.6286624073982239,
+    "confidence": 0.6056229472160339,
+    "prob_class_0": 0.39437705278396606,
+    "prob_class_1": 0.6056229472160339,
     "true_label": 0
   },
   {
@@ -2293,9 +2293,9 @@
     "image_name": "425.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5820476412773132,
-    "prob_class_0": 0.41795235872268677,
-    "prob_class_1": 0.5820476412773132,
+    "confidence": 0.6249456405639648,
+    "prob_class_0": 0.37505435943603516,
+    "prob_class_1": 0.6249456405639648,
     "true_label": 0
   },
   {
@@ -2304,9 +2304,9 @@
     "image_name": "426.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5800549387931824,
-    "prob_class_0": 0.4199450612068176,
-    "prob_class_1": 0.5800549387931824,
+    "confidence": 0.5920429229736328,
+    "prob_class_0": 0.4079570770263672,
+    "prob_class_1": 0.5920429229736328,
     "true_label": 0
   },
   {
@@ -2314,10 +2314,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/0/431.jpg",
     "image_name": "431.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.602974534034729,
-    "prob_class_0": 0.397025465965271,
-    "prob_class_1": 0.602974534034729,
+    "predicted_class": 0,
+    "confidence": 0.5346046388149261,
+    "prob_class_0": 0.5346046388149261,
+    "prob_class_1": 0.46539536118507385,
     "true_label": 0
   },
   {
@@ -2326,9 +2326,9 @@
     "image_name": "433.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5934832692146301,
-    "prob_class_0": 0.4065167307853699,
-    "prob_class_1": 0.5934832692146301,
+    "confidence": 0.6275821328163147,
+    "prob_class_0": 0.3724178671836853,
+    "prob_class_1": 0.6275821328163147,
     "true_label": 0
   },
   {
@@ -2337,9 +2337,9 @@
     "image_name": "436.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5692378878593445,
-    "prob_class_0": 0.4307621121406555,
-    "prob_class_1": 0.5692378878593445,
+    "confidence": 0.6173065304756165,
+    "prob_class_0": 0.38269346952438354,
+    "prob_class_1": 0.6173065304756165,
     "true_label": 0
   },
   {
@@ -2348,9 +2348,9 @@
     "image_name": "437.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5659008622169495,
-    "prob_class_0": 0.43409913778305054,
-    "prob_class_1": 0.5659008622169495,
+    "confidence": 0.6138082146644592,
+    "prob_class_0": 0.38619178533554077,
+    "prob_class_1": 0.6138082146644592,
     "true_label": 0
   },
   {
@@ -2359,9 +2359,9 @@
     "image_name": "440.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5919211506843567,
-    "prob_class_0": 0.4080788493156433,
-    "prob_class_1": 0.5919211506843567,
+    "confidence": 0.632366418838501,
+    "prob_class_0": 0.367633581161499,
+    "prob_class_1": 0.632366418838501,
     "true_label": 0
   },
   {
@@ -2370,9 +2370,9 @@
     "image_name": "446.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5939032435417175,
-    "prob_class_0": 0.40609675645828247,
-    "prob_class_1": 0.5939032435417175,
+    "confidence": 0.6125013828277588,
+    "prob_class_0": 0.3874986171722412,
+    "prob_class_1": 0.6125013828277588,
     "true_label": 0
   },
   {
@@ -2381,9 +2381,9 @@
     "image_name": "447.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6270431876182556,
-    "prob_class_0": 0.3729568123817444,
-    "prob_class_1": 0.6270431876182556,
+    "confidence": 0.6120006442070007,
+    "prob_class_0": 0.38799935579299927,
+    "prob_class_1": 0.6120006442070007,
     "true_label": 0
   },
   {
@@ -2392,9 +2392,9 @@
     "image_name": "448.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6402193903923035,
-    "prob_class_0": 0.35978060960769653,
-    "prob_class_1": 0.6402193903923035,
+    "confidence": 0.5816479921340942,
+    "prob_class_0": 0.41835200786590576,
+    "prob_class_1": 0.5816479921340942,
     "true_label": 0
   },
   {
@@ -2403,9 +2403,9 @@
     "image_name": "451.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5830793976783752,
-    "prob_class_0": 0.41692060232162476,
-    "prob_class_1": 0.5830793976783752,
+    "confidence": 0.6051002144813538,
+    "prob_class_0": 0.39489978551864624,
+    "prob_class_1": 0.6051002144813538,
     "true_label": 0
   },
   {
@@ -2414,9 +2414,9 @@
     "image_name": "452.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5496021509170532,
-    "prob_class_0": 0.4503978490829468,
-    "prob_class_1": 0.5496021509170532,
+    "confidence": 0.6057924032211304,
+    "prob_class_0": 0.39420759677886963,
+    "prob_class_1": 0.6057924032211304,
     "true_label": 0
   },
   {
@@ -2425,9 +2425,9 @@
     "image_name": "453.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5804495215415955,
-    "prob_class_0": 0.41955047845840454,
-    "prob_class_1": 0.5804495215415955,
+    "confidence": 0.5769293308258057,
+    "prob_class_0": 0.42307066917419434,
+    "prob_class_1": 0.5769293308258057,
     "true_label": 0
   },
   {
@@ -2436,9 +2436,9 @@
     "image_name": "454.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.509353756904602,
-    "prob_class_0": 0.49064624309539795,
-    "prob_class_1": 0.509353756904602,
+    "confidence": 0.6152253150939941,
+    "prob_class_0": 0.38477468490600586,
+    "prob_class_1": 0.6152253150939941,
     "true_label": 0
   },
   {
@@ -2447,9 +2447,9 @@
     "image_name": "455.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5993558764457703,
-    "prob_class_0": 0.40064412355422974,
-    "prob_class_1": 0.5993558764457703,
+    "confidence": 0.6139904260635376,
+    "prob_class_0": 0.3860095739364624,
+    "prob_class_1": 0.6139904260635376,
     "true_label": 0
   },
   {
@@ -2458,9 +2458,9 @@
     "image_name": "456.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5182145237922668,
-    "prob_class_0": 0.48178547620773315,
-    "prob_class_1": 0.5182145237922668,
+    "confidence": 0.6040769219398499,
+    "prob_class_0": 0.39592307806015015,
+    "prob_class_1": 0.6040769219398499,
     "true_label": 0
   },
   {
@@ -2469,9 +2469,9 @@
     "image_name": "459.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5912995934486389,
-    "prob_class_0": 0.4087004065513611,
-    "prob_class_1": 0.5912995934486389,
+    "confidence": 0.5763747096061707,
+    "prob_class_0": 0.42362529039382935,
+    "prob_class_1": 0.5763747096061707,
     "true_label": 0
   },
   {
@@ -2480,9 +2480,9 @@
     "image_name": "460.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5730404257774353,
-    "prob_class_0": 0.4269595742225647,
-    "prob_class_1": 0.5730404257774353,
+    "confidence": 0.6363531947135925,
+    "prob_class_0": 0.36364680528640747,
+    "prob_class_1": 0.6363531947135925,
     "true_label": 0
   },
   {
@@ -2491,9 +2491,9 @@
     "image_name": "461.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5414668917655945,
-    "prob_class_0": 0.4585331082344055,
-    "prob_class_1": 0.5414668917655945,
+    "confidence": 0.6076650619506836,
+    "prob_class_0": 0.3923349380493164,
+    "prob_class_1": 0.6076650619506836,
     "true_label": 0
   },
   {
@@ -2502,9 +2502,9 @@
     "image_name": "462.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5848550796508789,
-    "prob_class_0": 0.4151449203491211,
-    "prob_class_1": 0.5848550796508789,
+    "confidence": 0.5387844443321228,
+    "prob_class_0": 0.4612155556678772,
+    "prob_class_1": 0.5387844443321228,
     "true_label": 0
   },
   {
@@ -2513,9 +2513,9 @@
     "image_name": "465.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5124516487121582,
-    "prob_class_0": 0.4875483512878418,
-    "prob_class_1": 0.5124516487121582,
+    "confidence": 0.612297773361206,
+    "prob_class_0": 0.38770222663879395,
+    "prob_class_1": 0.612297773361206,
     "true_label": 0
   },
   {
@@ -2524,9 +2524,9 @@
     "image_name": "466.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5951430797576904,
-    "prob_class_0": 0.40485692024230957,
-    "prob_class_1": 0.5951430797576904,
+    "confidence": 0.613826334476471,
+    "prob_class_0": 0.38617366552352905,
+    "prob_class_1": 0.613826334476471,
     "true_label": 0
   },
   {
@@ -2535,9 +2535,9 @@
     "image_name": "469.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5796235203742981,
-    "prob_class_0": 0.4203764796257019,
-    "prob_class_1": 0.5796235203742981,
+    "confidence": 0.583917498588562,
+    "prob_class_0": 0.416082501411438,
+    "prob_class_1": 0.583917498588562,
     "true_label": 0
   },
   {
@@ -2546,9 +2546,9 @@
     "image_name": "470.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5985270738601685,
-    "prob_class_0": 0.40147292613983154,
-    "prob_class_1": 0.5985270738601685,
+    "confidence": 0.6001313924789429,
+    "prob_class_0": 0.39986860752105713,
+    "prob_class_1": 0.6001313924789429,
     "true_label": 0
   },
   {
@@ -2557,9 +2557,9 @@
     "image_name": "472.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6269052028656006,
-    "prob_class_0": 0.3730947971343994,
-    "prob_class_1": 0.6269052028656006,
+    "confidence": 0.591317892074585,
+    "prob_class_0": 0.40868210792541504,
+    "prob_class_1": 0.591317892074585,
     "true_label": 0
   },
   {
@@ -2568,9 +2568,9 @@
     "image_name": "473.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6177927255630493,
-    "prob_class_0": 0.3822072744369507,
-    "prob_class_1": 0.6177927255630493,
+    "confidence": 0.6127055287361145,
+    "prob_class_0": 0.3872944712638855,
+    "prob_class_1": 0.6127055287361145,
     "true_label": 0
   },
   {
@@ -2579,9 +2579,9 @@
     "image_name": "474.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6089205145835876,
-    "prob_class_0": 0.39107948541641235,
-    "prob_class_1": 0.6089205145835876,
+    "confidence": 0.6306313872337341,
+    "prob_class_0": 0.36936861276626587,
+    "prob_class_1": 0.6306313872337341,
     "true_label": 0
   },
   {
@@ -2589,10 +2589,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/0/477.jpg",
     "image_name": "477.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5054773390293121,
-    "prob_class_0": 0.5054773390293121,
-    "prob_class_1": 0.49452266097068787,
+    "predicted_class": 1,
+    "confidence": 0.6079472303390503,
+    "prob_class_0": 0.3920527696609497,
+    "prob_class_1": 0.6079472303390503,
     "true_label": 0
   },
   {
@@ -2601,9 +2601,9 @@
     "image_name": "479.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6204789280891418,
-    "prob_class_0": 0.37952107191085815,
-    "prob_class_1": 0.6204789280891418,
+    "confidence": 0.5943450927734375,
+    "prob_class_0": 0.4056549072265625,
+    "prob_class_1": 0.5943450927734375,
     "true_label": 0
   },
   {
@@ -2612,9 +2612,9 @@
     "image_name": "481.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6103949546813965,
-    "prob_class_0": 0.3896050453186035,
-    "prob_class_1": 0.6103949546813965,
+    "confidence": 0.6075404286384583,
+    "prob_class_0": 0.39245957136154175,
+    "prob_class_1": 0.6075404286384583,
     "true_label": 0
   },
   {
@@ -2623,9 +2623,9 @@
     "image_name": "483.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6245788931846619,
-    "prob_class_0": 0.37542110681533813,
-    "prob_class_1": 0.6245788931846619,
+    "confidence": 0.5991268157958984,
+    "prob_class_0": 0.40087318420410156,
+    "prob_class_1": 0.5991268157958984,
     "true_label": 0
   },
   {
@@ -2634,9 +2634,9 @@
     "image_name": "485.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5478910207748413,
-    "prob_class_0": 0.4521089792251587,
-    "prob_class_1": 0.5478910207748413,
+    "confidence": 0.6128502488136292,
+    "prob_class_0": 0.38714975118637085,
+    "prob_class_1": 0.6128502488136292,
     "true_label": 0
   },
   {
@@ -2645,9 +2645,9 @@
     "image_name": "486.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6063377261161804,
-    "prob_class_0": 0.3936622738838196,
-    "prob_class_1": 0.6063377261161804,
+    "confidence": 0.6007265448570251,
+    "prob_class_0": 0.39927345514297485,
+    "prob_class_1": 0.6007265448570251,
     "true_label": 0
   },
   {
@@ -2656,9 +2656,9 @@
     "image_name": "487.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6117857694625854,
-    "prob_class_0": 0.38821423053741455,
-    "prob_class_1": 0.6117857694625854,
+    "confidence": 0.5914667844772339,
+    "prob_class_0": 0.4085332155227661,
+    "prob_class_1": 0.5914667844772339,
     "true_label": 0
   },
   {
@@ -2667,9 +2667,9 @@
     "image_name": "488.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6105955839157104,
-    "prob_class_0": 0.38940441608428955,
-    "prob_class_1": 0.6105955839157104,
+    "confidence": 0.6241464018821716,
+    "prob_class_0": 0.37585359811782837,
+    "prob_class_1": 0.6241464018821716,
     "true_label": 0
   },
   {
@@ -2678,9 +2678,9 @@
     "image_name": "490.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6024302840232849,
-    "prob_class_0": 0.3975697159767151,
-    "prob_class_1": 0.6024302840232849,
+    "confidence": 0.5984587073326111,
+    "prob_class_0": 0.4015412926673889,
+    "prob_class_1": 0.5984587073326111,
     "true_label": 0
   },
   {
@@ -2689,9 +2689,9 @@
     "image_name": "493.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5805323719978333,
-    "prob_class_0": 0.41946762800216675,
-    "prob_class_1": 0.5805323719978333,
+    "confidence": 0.6181156635284424,
+    "prob_class_0": 0.3818843364715576,
+    "prob_class_1": 0.6181156635284424,
     "true_label": 0
   },
   {
@@ -2700,9 +2700,9 @@
     "image_name": "494.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5871993899345398,
-    "prob_class_0": 0.4128006100654602,
-    "prob_class_1": 0.5871993899345398,
+    "confidence": 0.6014230251312256,
+    "prob_class_0": 0.3985769748687744,
+    "prob_class_1": 0.6014230251312256,
     "true_label": 0
   },
   {
@@ -2711,9 +2711,9 @@
     "image_name": "497.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5233737230300903,
-    "prob_class_0": 0.47662627696990967,
-    "prob_class_1": 0.5233737230300903,
+    "confidence": 0.6009286642074585,
+    "prob_class_0": 0.3990713357925415,
+    "prob_class_1": 0.6009286642074585,
     "true_label": 0
   },
   {
@@ -2722,9 +2722,9 @@
     "image_name": "498.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5138905644416809,
-    "prob_class_0": 0.4861094355583191,
-    "prob_class_1": 0.5138905644416809,
+    "confidence": 0.6188896298408508,
+    "prob_class_0": 0.38111037015914917,
+    "prob_class_1": 0.6188896298408508,
     "true_label": 0
   },
   {
@@ -2733,9 +2733,9 @@
     "image_name": "499.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5941480398178101,
-    "prob_class_0": 0.40585196018218994,
-    "prob_class_1": 0.5941480398178101,
+    "confidence": 0.539470911026001,
+    "prob_class_0": 0.460529088973999,
+    "prob_class_1": 0.539470911026001,
     "true_label": 0
   },
   {
@@ -2744,9 +2744,9 @@
     "image_name": "500.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.621886134147644,
-    "prob_class_0": 0.37811386585235596,
-    "prob_class_1": 0.621886134147644,
+    "confidence": 0.5994524359703064,
+    "prob_class_0": 0.4005475640296936,
+    "prob_class_1": 0.5994524359703064,
     "true_label": 0
   },
   {
@@ -2755,9 +2755,9 @@
     "image_name": "002.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5831908583641052,
-    "prob_class_0": 0.4168091416358948,
-    "prob_class_1": 0.5831908583641052,
+    "confidence": 0.6388198733329773,
+    "prob_class_0": 0.3611801266670227,
+    "prob_class_1": 0.6388198733329773,
     "true_label": 1
   },
   {
@@ -2766,9 +2766,9 @@
     "image_name": "003.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6178290247917175,
-    "prob_class_0": 0.38217097520828247,
-    "prob_class_1": 0.6178290247917175,
+    "confidence": 0.6505630016326904,
+    "prob_class_0": 0.34943699836730957,
+    "prob_class_1": 0.6505630016326904,
     "true_label": 1
   },
   {
@@ -2777,9 +2777,9 @@
     "image_name": "004.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.518134355545044,
-    "prob_class_0": 0.48186564445495605,
-    "prob_class_1": 0.518134355545044,
+    "confidence": 0.6392018795013428,
+    "prob_class_0": 0.3607981204986572,
+    "prob_class_1": 0.6392018795013428,
     "true_label": 1
   },
   {
@@ -2788,9 +2788,9 @@
     "image_name": "005.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.626707911491394,
-    "prob_class_0": 0.37329208850860596,
-    "prob_class_1": 0.626707911491394,
+    "confidence": 0.6270192861557007,
+    "prob_class_0": 0.3729807138442993,
+    "prob_class_1": 0.6270192861557007,
     "true_label": 1
   },
   {
@@ -2799,9 +2799,9 @@
     "image_name": "006.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.535977303981781,
-    "prob_class_0": 0.464022696018219,
-    "prob_class_1": 0.535977303981781,
+    "confidence": 0.6061908602714539,
+    "prob_class_0": 0.39380913972854614,
+    "prob_class_1": 0.6061908602714539,
     "true_label": 1
   },
   {
@@ -2810,9 +2810,9 @@
     "image_name": "008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.589291512966156,
-    "prob_class_0": 0.410708487033844,
-    "prob_class_1": 0.589291512966156,
+    "confidence": 0.6216721534729004,
+    "prob_class_0": 0.3783278465270996,
+    "prob_class_1": 0.6216721534729004,
     "true_label": 1
   },
   {
@@ -2821,9 +2821,9 @@
     "image_name": "012.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5629318356513977,
-    "prob_class_0": 0.4370681643486023,
-    "prob_class_1": 0.5629318356513977,
+    "confidence": 0.6330517530441284,
+    "prob_class_0": 0.3669482469558716,
+    "prob_class_1": 0.6330517530441284,
     "true_label": 1
   },
   {
@@ -2832,9 +2832,9 @@
     "image_name": "013.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5390201210975647,
-    "prob_class_0": 0.4609798789024353,
-    "prob_class_1": 0.5390201210975647,
+    "confidence": 0.623362123966217,
+    "prob_class_0": 0.37663787603378296,
+    "prob_class_1": 0.623362123966217,
     "true_label": 1
   },
   {
@@ -2843,9 +2843,9 @@
     "image_name": "016.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.612334668636322,
-    "prob_class_0": 0.387665331363678,
-    "prob_class_1": 0.612334668636322,
+    "confidence": 0.608109712600708,
+    "prob_class_0": 0.391890287399292,
+    "prob_class_1": 0.608109712600708,
     "true_label": 1
   },
   {
@@ -2854,9 +2854,9 @@
     "image_name": "017.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5783661603927612,
-    "prob_class_0": 0.42163383960723877,
-    "prob_class_1": 0.5783661603927612,
+    "confidence": 0.6172680258750916,
+    "prob_class_0": 0.38273197412490845,
+    "prob_class_1": 0.6172680258750916,
     "true_label": 1
   },
   {
@@ -2865,9 +2865,9 @@
     "image_name": "021.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5423738360404968,
-    "prob_class_0": 0.4576261639595032,
-    "prob_class_1": 0.5423738360404968,
+    "confidence": 0.6164928078651428,
+    "prob_class_0": 0.3835071921348572,
+    "prob_class_1": 0.6164928078651428,
     "true_label": 1
   },
   {
@@ -2876,9 +2876,9 @@
     "image_name": "027.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.559934139251709,
-    "prob_class_0": 0.440065860748291,
-    "prob_class_1": 0.559934139251709,
+    "confidence": 0.6331179141998291,
+    "prob_class_0": 0.3668820858001709,
+    "prob_class_1": 0.6331179141998291,
     "true_label": 1
   },
   {
@@ -2887,9 +2887,9 @@
     "image_name": "029.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5145357847213745,
-    "prob_class_0": 0.4854642152786255,
-    "prob_class_1": 0.5145357847213745,
+    "confidence": 0.668387770652771,
+    "prob_class_0": 0.331612229347229,
+    "prob_class_1": 0.668387770652771,
     "true_label": 1
   },
   {
@@ -2898,9 +2898,9 @@
     "image_name": "030.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5636581182479858,
-    "prob_class_0": 0.43634188175201416,
-    "prob_class_1": 0.5636581182479858,
+    "confidence": 0.5981870293617249,
+    "prob_class_0": 0.40181297063827515,
+    "prob_class_1": 0.5981870293617249,
     "true_label": 1
   },
   {
@@ -2909,9 +2909,9 @@
     "image_name": "033.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6263506412506104,
-    "prob_class_0": 0.37364935874938965,
-    "prob_class_1": 0.6263506412506104,
+    "confidence": 0.6333960294723511,
+    "prob_class_0": 0.3666039705276489,
+    "prob_class_1": 0.6333960294723511,
     "true_label": 1
   },
   {
@@ -2920,9 +2920,9 @@
     "image_name": "036.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5606409907341003,
-    "prob_class_0": 0.43935900926589966,
-    "prob_class_1": 0.5606409907341003,
+    "confidence": 0.6470061540603638,
+    "prob_class_0": 0.35299384593963623,
+    "prob_class_1": 0.6470061540603638,
     "true_label": 1
   },
   {
@@ -2931,9 +2931,9 @@
     "image_name": "038.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5411144495010376,
-    "prob_class_0": 0.4588855504989624,
-    "prob_class_1": 0.5411144495010376,
+    "confidence": 0.6410772800445557,
+    "prob_class_0": 0.35892271995544434,
+    "prob_class_1": 0.6410772800445557,
     "true_label": 1
   },
   {
@@ -2942,9 +2942,9 @@
     "image_name": "040.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5666195750236511,
-    "prob_class_0": 0.4333804249763489,
-    "prob_class_1": 0.5666195750236511,
+    "confidence": 0.6115105152130127,
+    "prob_class_0": 0.3884894847869873,
+    "prob_class_1": 0.6115105152130127,
     "true_label": 1
   },
   {
@@ -2952,10 +2952,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/1/042.jpg",
     "image_name": "042.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5215447843074799,
-    "prob_class_0": 0.5215447843074799,
-    "prob_class_1": 0.47845521569252014,
+    "predicted_class": 1,
+    "confidence": 0.6482974290847778,
+    "prob_class_0": 0.35170257091522217,
+    "prob_class_1": 0.6482974290847778,
     "true_label": 1
   },
   {
@@ -2964,9 +2964,9 @@
     "image_name": "044.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5398480296134949,
-    "prob_class_0": 0.4601519703865051,
-    "prob_class_1": 0.5398480296134949,
+    "confidence": 0.5807642936706543,
+    "prob_class_0": 0.4192357063293457,
+    "prob_class_1": 0.5807642936706543,
     "true_label": 1
   },
   {
@@ -2975,9 +2975,9 @@
     "image_name": "047.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5500562191009521,
-    "prob_class_0": 0.44994378089904785,
-    "prob_class_1": 0.5500562191009521,
+    "confidence": 0.6337181329727173,
+    "prob_class_0": 0.3662818670272827,
+    "prob_class_1": 0.6337181329727173,
     "true_label": 1
   },
   {
@@ -2986,9 +2986,9 @@
     "image_name": "048.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5699695348739624,
-    "prob_class_0": 0.4300304651260376,
-    "prob_class_1": 0.5699695348739624,
+    "confidence": 0.6130907535552979,
+    "prob_class_0": 0.38690924644470215,
+    "prob_class_1": 0.6130907535552979,
     "true_label": 1
   },
   {
@@ -2997,9 +2997,9 @@
     "image_name": "050.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5978938937187195,
-    "prob_class_0": 0.4021061062812805,
-    "prob_class_1": 0.5978938937187195,
+    "confidence": 0.6546337008476257,
+    "prob_class_0": 0.34536629915237427,
+    "prob_class_1": 0.6546337008476257,
     "true_label": 1
   },
   {
@@ -3008,9 +3008,9 @@
     "image_name": "051.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6070964932441711,
-    "prob_class_0": 0.39290350675582886,
-    "prob_class_1": 0.6070964932441711,
+    "confidence": 0.6341533064842224,
+    "prob_class_0": 0.3658466935157776,
+    "prob_class_1": 0.6341533064842224,
     "true_label": 1
   },
   {
@@ -3019,9 +3019,9 @@
     "image_name": "052.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5992065072059631,
-    "prob_class_0": 0.40079349279403687,
-    "prob_class_1": 0.5992065072059631,
+    "confidence": 0.6304091215133667,
+    "prob_class_0": 0.3695908784866333,
+    "prob_class_1": 0.6304091215133667,
     "true_label": 1
   },
   {
@@ -3030,9 +3030,9 @@
     "image_name": "053.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6053909659385681,
-    "prob_class_0": 0.3946090340614319,
-    "prob_class_1": 0.6053909659385681,
+    "confidence": 0.5765078663825989,
+    "prob_class_0": 0.4234921336174011,
+    "prob_class_1": 0.5765078663825989,
     "true_label": 1
   },
   {
@@ -3041,9 +3041,9 @@
     "image_name": "054.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5423048734664917,
-    "prob_class_0": 0.4576951265335083,
-    "prob_class_1": 0.5423048734664917,
+    "confidence": 0.644849956035614,
+    "prob_class_0": 0.355150043964386,
+    "prob_class_1": 0.644849956035614,
     "true_label": 1
   },
   {
@@ -3052,9 +3052,9 @@
     "image_name": "055.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6333666443824768,
-    "prob_class_0": 0.3666333556175232,
-    "prob_class_1": 0.6333666443824768,
+    "confidence": 0.6352300643920898,
+    "prob_class_0": 0.36476993560791016,
+    "prob_class_1": 0.6352300643920898,
     "true_label": 1
   },
   {
@@ -3063,9 +3063,9 @@
     "image_name": "057.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6031715273857117,
-    "prob_class_0": 0.39682847261428833,
-    "prob_class_1": 0.6031715273857117,
+    "confidence": 0.5933323502540588,
+    "prob_class_0": 0.40666764974594116,
+    "prob_class_1": 0.5933323502540588,
     "true_label": 1
   },
   {
@@ -3074,9 +3074,9 @@
     "image_name": "058.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5667303800582886,
-    "prob_class_0": 0.4332696199417114,
-    "prob_class_1": 0.5667303800582886,
+    "confidence": 0.6129847764968872,
+    "prob_class_0": 0.3870152235031128,
+    "prob_class_1": 0.6129847764968872,
     "true_label": 1
   },
   {
@@ -3085,9 +3085,9 @@
     "image_name": "060.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5245444774627686,
-    "prob_class_0": 0.47545552253723145,
-    "prob_class_1": 0.5245444774627686,
+    "confidence": 0.6282341480255127,
+    "prob_class_0": 0.3717658519744873,
+    "prob_class_1": 0.6282341480255127,
     "true_label": 1
   },
   {
@@ -3096,9 +3096,9 @@
     "image_name": "061.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6358794569969177,
-    "prob_class_0": 0.3641205430030823,
-    "prob_class_1": 0.6358794569969177,
+    "confidence": 0.615605354309082,
+    "prob_class_0": 0.38439464569091797,
+    "prob_class_1": 0.615605354309082,
     "true_label": 1
   },
   {
@@ -3107,9 +3107,9 @@
     "image_name": "062.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5813758373260498,
-    "prob_class_0": 0.4186241626739502,
-    "prob_class_1": 0.5813758373260498,
+    "confidence": 0.6390814185142517,
+    "prob_class_0": 0.3609185814857483,
+    "prob_class_1": 0.6390814185142517,
     "true_label": 1
   },
   {
@@ -3118,9 +3118,9 @@
     "image_name": "064.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6375733017921448,
-    "prob_class_0": 0.3624266982078552,
-    "prob_class_1": 0.6375733017921448,
+    "confidence": 0.626140296459198,
+    "prob_class_0": 0.373859703540802,
+    "prob_class_1": 0.626140296459198,
     "true_label": 1
   },
   {
@@ -3129,9 +3129,9 @@
     "image_name": "066.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5362948179244995,
-    "prob_class_0": 0.4637051820755005,
-    "prob_class_1": 0.5362948179244995,
+    "confidence": 0.6547027230262756,
+    "prob_class_0": 0.34529727697372437,
+    "prob_class_1": 0.6547027230262756,
     "true_label": 1
   },
   {
@@ -3140,9 +3140,9 @@
     "image_name": "069.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5514177083969116,
-    "prob_class_0": 0.4485822916030884,
-    "prob_class_1": 0.5514177083969116,
+    "confidence": 0.6381357908248901,
+    "prob_class_0": 0.36186420917510986,
+    "prob_class_1": 0.6381357908248901,
     "true_label": 1
   },
   {
@@ -3151,9 +3151,9 @@
     "image_name": "070.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6142032742500305,
-    "prob_class_0": 0.3857967257499695,
-    "prob_class_1": 0.6142032742500305,
+    "confidence": 0.6071219444274902,
+    "prob_class_0": 0.39287805557250977,
+    "prob_class_1": 0.6071219444274902,
     "true_label": 1
   },
   {
@@ -3162,9 +3162,9 @@
     "image_name": "071.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.591551661491394,
-    "prob_class_0": 0.40844833850860596,
-    "prob_class_1": 0.591551661491394,
+    "confidence": 0.6230064034461975,
+    "prob_class_0": 0.3769935965538025,
+    "prob_class_1": 0.6230064034461975,
     "true_label": 1
   },
   {
@@ -3173,9 +3173,9 @@
     "image_name": "073.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5554969906806946,
-    "prob_class_0": 0.4445030093193054,
-    "prob_class_1": 0.5554969906806946,
+    "confidence": 0.6020527482032776,
+    "prob_class_0": 0.3979472517967224,
+    "prob_class_1": 0.6020527482032776,
     "true_label": 1
   },
   {
@@ -3184,9 +3184,9 @@
     "image_name": "076.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.554324209690094,
-    "prob_class_0": 0.445675790309906,
-    "prob_class_1": 0.554324209690094,
+    "confidence": 0.6506744027137756,
+    "prob_class_0": 0.34932559728622437,
+    "prob_class_1": 0.6506744027137756,
     "true_label": 1
   },
   {
@@ -3195,9 +3195,9 @@
     "image_name": "080.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5951963663101196,
-    "prob_class_0": 0.40480363368988037,
-    "prob_class_1": 0.5951963663101196,
+    "confidence": 0.6221927404403687,
+    "prob_class_0": 0.37780725955963135,
+    "prob_class_1": 0.6221927404403687,
     "true_label": 1
   },
   {
@@ -3206,9 +3206,9 @@
     "image_name": "083.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5207940936088562,
-    "prob_class_0": 0.4792059063911438,
-    "prob_class_1": 0.5207940936088562,
+    "confidence": 0.6199736595153809,
+    "prob_class_0": 0.38002634048461914,
+    "prob_class_1": 0.6199736595153809,
     "true_label": 1
   },
   {
@@ -3217,9 +3217,9 @@
     "image_name": "087.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5803601145744324,
-    "prob_class_0": 0.4196398854255676,
-    "prob_class_1": 0.5803601145744324,
+    "confidence": 0.630922257900238,
+    "prob_class_0": 0.36907774209976196,
+    "prob_class_1": 0.630922257900238,
     "true_label": 1
   },
   {
@@ -3228,9 +3228,9 @@
     "image_name": "088.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6244179606437683,
-    "prob_class_0": 0.3755820393562317,
-    "prob_class_1": 0.6244179606437683,
+    "confidence": 0.6208001375198364,
+    "prob_class_0": 0.3791998624801636,
+    "prob_class_1": 0.6208001375198364,
     "true_label": 1
   },
   {
@@ -3239,9 +3239,9 @@
     "image_name": "089.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6121760606765747,
-    "prob_class_0": 0.3878239393234253,
-    "prob_class_1": 0.6121760606765747,
+    "confidence": 0.6337847709655762,
+    "prob_class_0": 0.36621522903442383,
+    "prob_class_1": 0.6337847709655762,
     "true_label": 1
   },
   {
@@ -3250,9 +3250,9 @@
     "image_name": "091.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5082489252090454,
-    "prob_class_0": 0.4917510747909546,
-    "prob_class_1": 0.5082489252090454,
+    "confidence": 0.6233217716217041,
+    "prob_class_0": 0.3766782283782959,
+    "prob_class_1": 0.6233217716217041,
     "true_label": 1
   },
   {
@@ -3261,9 +3261,9 @@
     "image_name": "092.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5336224436759949,
-    "prob_class_0": 0.4663775563240051,
-    "prob_class_1": 0.5336224436759949,
+    "confidence": 0.6446916460990906,
+    "prob_class_0": 0.3553083539009094,
+    "prob_class_1": 0.6446916460990906,
     "true_label": 1
   },
   {
@@ -3272,9 +3272,9 @@
     "image_name": "093.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6117417812347412,
-    "prob_class_0": 0.3882582187652588,
-    "prob_class_1": 0.6117417812347412,
+    "confidence": 0.6049496531486511,
+    "prob_class_0": 0.3950503468513489,
+    "prob_class_1": 0.6049496531486511,
     "true_label": 1
   },
   {
@@ -3283,9 +3283,9 @@
     "image_name": "094.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5567771196365356,
-    "prob_class_0": 0.44322288036346436,
-    "prob_class_1": 0.5567771196365356,
+    "confidence": 0.5990893244743347,
+    "prob_class_0": 0.4009106755256653,
+    "prob_class_1": 0.5990893244743347,
     "true_label": 1
   },
   {
@@ -3294,9 +3294,9 @@
     "image_name": "097.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5653894543647766,
-    "prob_class_0": 0.4346105456352234,
-    "prob_class_1": 0.5653894543647766,
+    "confidence": 0.6197735667228699,
+    "prob_class_0": 0.3802264332771301,
+    "prob_class_1": 0.6197735667228699,
     "true_label": 1
   },
   {
@@ -3305,9 +3305,9 @@
     "image_name": "098.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5924150943756104,
-    "prob_class_0": 0.40758490562438965,
-    "prob_class_1": 0.5924150943756104,
+    "confidence": 0.6297504305839539,
+    "prob_class_0": 0.37024956941604614,
+    "prob_class_1": 0.6297504305839539,
     "true_label": 1
   },
   {
@@ -3316,9 +3316,9 @@
     "image_name": "101.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.549495279788971,
-    "prob_class_0": 0.45050472021102905,
-    "prob_class_1": 0.549495279788971,
+    "confidence": 0.6141120195388794,
+    "prob_class_0": 0.3858879804611206,
+    "prob_class_1": 0.6141120195388794,
     "true_label": 1
   },
   {
@@ -3327,9 +3327,9 @@
     "image_name": "102.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6149105429649353,
-    "prob_class_0": 0.3850894570350647,
-    "prob_class_1": 0.6149105429649353,
+    "confidence": 0.6308354139328003,
+    "prob_class_0": 0.3691645860671997,
+    "prob_class_1": 0.6308354139328003,
     "true_label": 1
   },
   {
@@ -3338,9 +3338,9 @@
     "image_name": "108.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6079065799713135,
-    "prob_class_0": 0.3920934200286865,
-    "prob_class_1": 0.6079065799713135,
+    "confidence": 0.6147943139076233,
+    "prob_class_0": 0.3852056860923767,
+    "prob_class_1": 0.6147943139076233,
     "true_label": 1
   },
   {
@@ -3349,9 +3349,9 @@
     "image_name": "109.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5824084877967834,
-    "prob_class_0": 0.41759151220321655,
-    "prob_class_1": 0.5824084877967834,
+    "confidence": 0.6108083724975586,
+    "prob_class_0": 0.3891916275024414,
+    "prob_class_1": 0.6108083724975586,
     "true_label": 1
   },
   {
@@ -3360,9 +3360,9 @@
     "image_name": "110.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.606931746006012,
-    "prob_class_0": 0.39306825399398804,
-    "prob_class_1": 0.606931746006012,
+    "confidence": 0.6197287440299988,
+    "prob_class_0": 0.3802712559700012,
+    "prob_class_1": 0.6197287440299988,
     "true_label": 1
   },
   {
@@ -3371,9 +3371,9 @@
     "image_name": "114.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5223575830459595,
-    "prob_class_0": 0.4776424169540405,
-    "prob_class_1": 0.5223575830459595,
+    "confidence": 0.586262047290802,
+    "prob_class_0": 0.413737952709198,
+    "prob_class_1": 0.586262047290802,
     "true_label": 1
   },
   {
@@ -3382,9 +3382,9 @@
     "image_name": "119.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5259243845939636,
-    "prob_class_0": 0.4740756154060364,
-    "prob_class_1": 0.5259243845939636,
+    "confidence": 0.6195608377456665,
+    "prob_class_0": 0.3804391622543335,
+    "prob_class_1": 0.6195608377456665,
     "true_label": 1
   },
   {
@@ -3393,9 +3393,9 @@
     "image_name": "120.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5893676280975342,
-    "prob_class_0": 0.4106323719024658,
-    "prob_class_1": 0.5893676280975342,
+    "confidence": 0.6044479012489319,
+    "prob_class_0": 0.3955520987510681,
+    "prob_class_1": 0.6044479012489319,
     "true_label": 1
   },
   {
@@ -3404,9 +3404,9 @@
     "image_name": "122.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5629556179046631,
-    "prob_class_0": 0.4370443820953369,
-    "prob_class_1": 0.5629556179046631,
+    "confidence": 0.6490431427955627,
+    "prob_class_0": 0.35095685720443726,
+    "prob_class_1": 0.6490431427955627,
     "true_label": 1
   },
   {
@@ -3415,9 +3415,9 @@
     "image_name": "125.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5993724465370178,
-    "prob_class_0": 0.4006275534629822,
-    "prob_class_1": 0.5993724465370178,
+    "confidence": 0.6700347661972046,
+    "prob_class_0": 0.3299652338027954,
+    "prob_class_1": 0.6700347661972046,
     "true_label": 1
   },
   {
@@ -3426,9 +3426,9 @@
     "image_name": "126.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5680657625198364,
-    "prob_class_0": 0.4319342374801636,
-    "prob_class_1": 0.5680657625198364,
+    "confidence": 0.6654844880104065,
+    "prob_class_0": 0.3345155119895935,
+    "prob_class_1": 0.6654844880104065,
     "true_label": 1
   },
   {
@@ -3437,9 +3437,9 @@
     "image_name": "127.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5910843014717102,
-    "prob_class_0": 0.4089156985282898,
-    "prob_class_1": 0.5910843014717102,
+    "confidence": 0.6113014221191406,
+    "prob_class_0": 0.3886985778808594,
+    "prob_class_1": 0.6113014221191406,
     "true_label": 1
   },
   {
@@ -3448,9 +3448,9 @@
     "image_name": "129.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5961008667945862,
-    "prob_class_0": 0.4038991332054138,
-    "prob_class_1": 0.5961008667945862,
+    "confidence": 0.6193841695785522,
+    "prob_class_0": 0.38061583042144775,
+    "prob_class_1": 0.6193841695785522,
     "true_label": 1
   },
   {
@@ -3459,9 +3459,9 @@
     "image_name": "130.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5920307636260986,
-    "prob_class_0": 0.40796923637390137,
-    "prob_class_1": 0.5920307636260986,
+    "confidence": 0.6358212232589722,
+    "prob_class_0": 0.36417877674102783,
+    "prob_class_1": 0.6358212232589722,
     "true_label": 1
   },
   {
@@ -3470,9 +3470,9 @@
     "image_name": "132.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5123155117034912,
-    "prob_class_0": 0.4876844882965088,
-    "prob_class_1": 0.5123155117034912,
+    "confidence": 0.5846098065376282,
+    "prob_class_0": 0.4153901934623718,
+    "prob_class_1": 0.5846098065376282,
     "true_label": 1
   },
   {
@@ -3481,9 +3481,9 @@
     "image_name": "133.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5232098698616028,
-    "prob_class_0": 0.4767901301383972,
-    "prob_class_1": 0.5232098698616028,
+    "confidence": 0.6189211010932922,
+    "prob_class_0": 0.38107889890670776,
+    "prob_class_1": 0.6189211010932922,
     "true_label": 1
   },
   {
@@ -3492,9 +3492,9 @@
     "image_name": "138.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5727903246879578,
-    "prob_class_0": 0.42720967531204224,
-    "prob_class_1": 0.5727903246879578,
+    "confidence": 0.5746093392372131,
+    "prob_class_0": 0.42539066076278687,
+    "prob_class_1": 0.5746093392372131,
     "true_label": 1
   },
   {
@@ -3503,9 +3503,9 @@
     "image_name": "140.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5315073132514954,
-    "prob_class_0": 0.46849268674850464,
-    "prob_class_1": 0.5315073132514954,
+    "confidence": 0.5796892642974854,
+    "prob_class_0": 0.42031073570251465,
+    "prob_class_1": 0.5796892642974854,
     "true_label": 1
   },
   {
@@ -3514,9 +3514,9 @@
     "image_name": "145.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5586071610450745,
-    "prob_class_0": 0.44139283895492554,
-    "prob_class_1": 0.5586071610450745,
+    "confidence": 0.6149630546569824,
+    "prob_class_0": 0.3850369453430176,
+    "prob_class_1": 0.6149630546569824,
     "true_label": 1
   },
   {
@@ -3525,9 +3525,9 @@
     "image_name": "147.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6224960684776306,
-    "prob_class_0": 0.3775039315223694,
-    "prob_class_1": 0.6224960684776306,
+    "confidence": 0.6212912797927856,
+    "prob_class_0": 0.37870872020721436,
+    "prob_class_1": 0.6212912797927856,
     "true_label": 1
   },
   {
@@ -3536,9 +3536,9 @@
     "image_name": "149.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5943349599838257,
-    "prob_class_0": 0.4056650400161743,
-    "prob_class_1": 0.5943349599838257,
+    "confidence": 0.6307143568992615,
+    "prob_class_0": 0.3692856431007385,
+    "prob_class_1": 0.6307143568992615,
     "true_label": 1
   },
   {
@@ -3547,9 +3547,9 @@
     "image_name": "151.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6128068566322327,
-    "prob_class_0": 0.38719314336776733,
-    "prob_class_1": 0.6128068566322327,
+    "confidence": 0.5884146094322205,
+    "prob_class_0": 0.41158539056777954,
+    "prob_class_1": 0.5884146094322205,
     "true_label": 1
   },
   {
@@ -3558,9 +3558,9 @@
     "image_name": "152.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.597711980342865,
-    "prob_class_0": 0.402288019657135,
-    "prob_class_1": 0.597711980342865,
+    "confidence": 0.6374027729034424,
+    "prob_class_0": 0.3625972270965576,
+    "prob_class_1": 0.6374027729034424,
     "true_label": 1
   },
   {
@@ -3569,9 +3569,9 @@
     "image_name": "156.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.540261447429657,
-    "prob_class_0": 0.459738552570343,
-    "prob_class_1": 0.540261447429657,
+    "confidence": 0.5879198908805847,
+    "prob_class_0": 0.4120801091194153,
+    "prob_class_1": 0.5879198908805847,
     "true_label": 1
   },
   {
@@ -3580,9 +3580,9 @@
     "image_name": "158.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5486039519309998,
-    "prob_class_0": 0.45139604806900024,
-    "prob_class_1": 0.5486039519309998,
+    "confidence": 0.624092698097229,
+    "prob_class_0": 0.375907301902771,
+    "prob_class_1": 0.624092698097229,
     "true_label": 1
   },
   {
@@ -3591,9 +3591,9 @@
     "image_name": "163.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5963967442512512,
-    "prob_class_0": 0.4036032557487488,
-    "prob_class_1": 0.5963967442512512,
+    "confidence": 0.618037223815918,
+    "prob_class_0": 0.38196277618408203,
+    "prob_class_1": 0.618037223815918,
     "true_label": 1
   },
   {
@@ -3602,9 +3602,9 @@
     "image_name": "166.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5682823657989502,
-    "prob_class_0": 0.4317176342010498,
-    "prob_class_1": 0.5682823657989502,
+    "confidence": 0.5985959768295288,
+    "prob_class_0": 0.4014040231704712,
+    "prob_class_1": 0.5985959768295288,
     "true_label": 1
   },
   {
@@ -3613,9 +3613,9 @@
     "image_name": "167.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5568899512290955,
-    "prob_class_0": 0.44311004877090454,
-    "prob_class_1": 0.5568899512290955,
+    "confidence": 0.6164597272872925,
+    "prob_class_0": 0.3835402727127075,
+    "prob_class_1": 0.6164597272872925,
     "true_label": 1
   },
   {
@@ -3624,9 +3624,9 @@
     "image_name": "169.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6420251131057739,
-    "prob_class_0": 0.3579748868942261,
-    "prob_class_1": 0.6420251131057739,
+    "confidence": 0.6384534239768982,
+    "prob_class_0": 0.3615465760231018,
+    "prob_class_1": 0.6384534239768982,
     "true_label": 1
   },
   {
@@ -3635,9 +3635,9 @@
     "image_name": "170.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5379884243011475,
-    "prob_class_0": 0.46201157569885254,
-    "prob_class_1": 0.5379884243011475,
+    "confidence": 0.6340257525444031,
+    "prob_class_0": 0.3659742474555969,
+    "prob_class_1": 0.6340257525444031,
     "true_label": 1
   },
   {
@@ -3646,9 +3646,9 @@
     "image_name": "172.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6265827417373657,
-    "prob_class_0": 0.3734172582626343,
-    "prob_class_1": 0.6265827417373657,
+    "confidence": 0.6331544518470764,
+    "prob_class_0": 0.3668455481529236,
+    "prob_class_1": 0.6331544518470764,
     "true_label": 1
   },
   {
@@ -3657,9 +3657,9 @@
     "image_name": "173.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6157616376876831,
-    "prob_class_0": 0.3842383623123169,
-    "prob_class_1": 0.6157616376876831,
+    "confidence": 0.6126257181167603,
+    "prob_class_0": 0.38737428188323975,
+    "prob_class_1": 0.6126257181167603,
     "true_label": 1
   },
   {
@@ -3668,9 +3668,9 @@
     "image_name": "176.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5882129669189453,
-    "prob_class_0": 0.4117870330810547,
-    "prob_class_1": 0.5882129669189453,
+    "confidence": 0.6502953171730042,
+    "prob_class_0": 0.34970468282699585,
+    "prob_class_1": 0.6502953171730042,
     "true_label": 1
   },
   {
@@ -3679,9 +3679,9 @@
     "image_name": "180.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6092865467071533,
-    "prob_class_0": 0.3907134532928467,
-    "prob_class_1": 0.6092865467071533,
+    "confidence": 0.6151120662689209,
+    "prob_class_0": 0.3848879337310791,
+    "prob_class_1": 0.6151120662689209,
     "true_label": 1
   },
   {
@@ -3690,9 +3690,9 @@
     "image_name": "181.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6173824667930603,
-    "prob_class_0": 0.3826175332069397,
-    "prob_class_1": 0.6173824667930603,
+    "confidence": 0.617063045501709,
+    "prob_class_0": 0.382936954498291,
+    "prob_class_1": 0.617063045501709,
     "true_label": 1
   },
   {
@@ -3701,9 +3701,9 @@
     "image_name": "182.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5865659117698669,
-    "prob_class_0": 0.41343408823013306,
-    "prob_class_1": 0.5865659117698669,
+    "confidence": 0.62309730052948,
+    "prob_class_0": 0.37690269947052,
+    "prob_class_1": 0.62309730052948,
     "true_label": 1
   },
   {
@@ -3712,9 +3712,9 @@
     "image_name": "186.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5454823970794678,
-    "prob_class_0": 0.4545176029205322,
-    "prob_class_1": 0.5454823970794678,
+    "confidence": 0.6081547141075134,
+    "prob_class_0": 0.3918452858924866,
+    "prob_class_1": 0.6081547141075134,
     "true_label": 1
   },
   {
@@ -3723,9 +3723,9 @@
     "image_name": "189.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5115227699279785,
-    "prob_class_0": 0.4884772300720215,
-    "prob_class_1": 0.5115227699279785,
+    "confidence": 0.5914847254753113,
+    "prob_class_0": 0.4085152745246887,
+    "prob_class_1": 0.5914847254753113,
     "true_label": 1
   },
   {
@@ -3734,9 +3734,9 @@
     "image_name": "192.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5446401834487915,
-    "prob_class_0": 0.4553598165512085,
-    "prob_class_1": 0.5446401834487915,
+    "confidence": 0.6138463616371155,
+    "prob_class_0": 0.3861536383628845,
+    "prob_class_1": 0.6138463616371155,
     "true_label": 1
   },
   {
@@ -3745,9 +3745,9 @@
     "image_name": "193.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6015740036964417,
-    "prob_class_0": 0.39842599630355835,
-    "prob_class_1": 0.6015740036964417,
+    "confidence": 0.6202360391616821,
+    "prob_class_0": 0.37976396083831787,
+    "prob_class_1": 0.6202360391616821,
     "true_label": 1
   },
   {
@@ -3756,9 +3756,9 @@
     "image_name": "195.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5665770769119263,
-    "prob_class_0": 0.43342292308807373,
-    "prob_class_1": 0.5665770769119263,
+    "confidence": 0.6489362716674805,
+    "prob_class_0": 0.35106372833251953,
+    "prob_class_1": 0.6489362716674805,
     "true_label": 1
   },
   {
@@ -3767,9 +3767,9 @@
     "image_name": "196.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6330530047416687,
-    "prob_class_0": 0.3669469952583313,
-    "prob_class_1": 0.6330530047416687,
+    "confidence": 0.6283591389656067,
+    "prob_class_0": 0.3716408610343933,
+    "prob_class_1": 0.6283591389656067,
     "true_label": 1
   },
   {
@@ -3777,10 +3777,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test/1/197.jpg",
     "image_name": "197.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5025161802768707,
-    "prob_class_0": 0.5025161802768707,
-    "prob_class_1": 0.4974838197231293,
+    "predicted_class": 1,
+    "confidence": 0.6040637493133545,
+    "prob_class_0": 0.3959362506866455,
+    "prob_class_1": 0.6040637493133545,
     "true_label": 1
   },
   {
@@ -3789,9 +3789,9 @@
     "image_name": "198.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6181442737579346,
-    "prob_class_0": 0.38185572624206543,
-    "prob_class_1": 0.6181442737579346,
+    "confidence": 0.6291567087173462,
+    "prob_class_0": 0.3708432912826538,
+    "prob_class_1": 0.6291567087173462,
     "true_label": 1
   },
   {
@@ -3800,9 +3800,9 @@
     "image_name": "199.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5999882817268372,
-    "prob_class_0": 0.40001171827316284,
-    "prob_class_1": 0.5999882817268372,
+    "confidence": 0.5896292924880981,
+    "prob_class_0": 0.41037070751190186,
+    "prob_class_1": 0.5896292924880981,
     "true_label": 1
   },
   {
@@ -3811,9 +3811,9 @@
     "image_name": "202.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5725277066230774,
-    "prob_class_0": 0.4274722933769226,
-    "prob_class_1": 0.5725277066230774,
+    "confidence": 0.6242379546165466,
+    "prob_class_0": 0.37576204538345337,
+    "prob_class_1": 0.6242379546165466,
     "true_label": 1
   },
   {
@@ -3822,9 +3822,9 @@
     "image_name": "204.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6077007055282593,
-    "prob_class_0": 0.3922992944717407,
-    "prob_class_1": 0.6077007055282593,
+    "confidence": 0.6333590149879456,
+    "prob_class_0": 0.36664098501205444,
+    "prob_class_1": 0.6333590149879456,
     "true_label": 1
   },
   {
@@ -3833,9 +3833,9 @@
     "image_name": "205.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6396182775497437,
-    "prob_class_0": 0.36038172245025635,
-    "prob_class_1": 0.6396182775497437,
+    "confidence": 0.6558347940444946,
+    "prob_class_0": 0.34416520595550537,
+    "prob_class_1": 0.6558347940444946,
     "true_label": 1
   },
   {
@@ -3844,9 +3844,9 @@
     "image_name": "207.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5676101446151733,
-    "prob_class_0": 0.43238985538482666,
-    "prob_class_1": 0.5676101446151733,
+    "confidence": 0.6274595856666565,
+    "prob_class_0": 0.3725404143333435,
+    "prob_class_1": 0.6274595856666565,
     "true_label": 1
   },
   {
@@ -3855,9 +3855,9 @@
     "image_name": "208.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5996989607810974,
-    "prob_class_0": 0.4003010392189026,
-    "prob_class_1": 0.5996989607810974,
+    "confidence": 0.5917578339576721,
+    "prob_class_0": 0.4082421660423279,
+    "prob_class_1": 0.5917578339576721,
     "true_label": 1
   },
   {
@@ -3866,9 +3866,9 @@
     "image_name": "209.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5608474016189575,
-    "prob_class_0": 0.4391525983810425,
-    "prob_class_1": 0.5608474016189575,
+    "confidence": 0.6109922528266907,
+    "prob_class_0": 0.3890077471733093,
+    "prob_class_1": 0.6109922528266907,
     "true_label": 1
   },
   {
@@ -3877,9 +3877,9 @@
     "image_name": "210.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5985013246536255,
-    "prob_class_0": 0.4014986753463745,
-    "prob_class_1": 0.5985013246536255,
+    "confidence": 0.5857164263725281,
+    "prob_class_0": 0.4142835736274719,
+    "prob_class_1": 0.5857164263725281,
     "true_label": 1
   },
   {
@@ -3888,9 +3888,9 @@
     "image_name": "211.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6329375505447388,
-    "prob_class_0": 0.36706244945526123,
-    "prob_class_1": 0.6329375505447388,
+    "confidence": 0.6216374039649963,
+    "prob_class_0": 0.37836259603500366,
+    "prob_class_1": 0.6216374039649963,
     "true_label": 1
   },
   {
@@ -3899,9 +3899,9 @@
     "image_name": "212.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6241072416305542,
-    "prob_class_0": 0.3758927583694458,
-    "prob_class_1": 0.6241072416305542,
+    "confidence": 0.5983595252037048,
+    "prob_class_0": 0.40164047479629517,
+    "prob_class_1": 0.5983595252037048,
     "true_label": 1
   },
   {
@@ -3910,9 +3910,9 @@
     "image_name": "213.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5702288150787354,
-    "prob_class_0": 0.42977118492126465,
-    "prob_class_1": 0.5702288150787354,
+    "confidence": 0.652807354927063,
+    "prob_class_0": 0.347192645072937,
+    "prob_class_1": 0.652807354927063,
     "true_label": 1
   },
   {
@@ -3921,9 +3921,9 @@
     "image_name": "214.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6292365789413452,
-    "prob_class_0": 0.3707634210586548,
-    "prob_class_1": 0.6292365789413452,
+    "confidence": 0.634948194026947,
+    "prob_class_0": 0.365051805973053,
+    "prob_class_1": 0.634948194026947,
     "true_label": 1
   },
   {
@@ -3932,9 +3932,9 @@
     "image_name": "215.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6514165997505188,
-    "prob_class_0": 0.3485834002494812,
-    "prob_class_1": 0.6514165997505188,
+    "confidence": 0.6017153859138489,
+    "prob_class_0": 0.3982846140861511,
+    "prob_class_1": 0.6017153859138489,
     "true_label": 1
   },
   {
@@ -3943,9 +3943,9 @@
     "image_name": "217.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5541957020759583,
-    "prob_class_0": 0.44580429792404175,
-    "prob_class_1": 0.5541957020759583,
+    "confidence": 0.6064320802688599,
+    "prob_class_0": 0.39356791973114014,
+    "prob_class_1": 0.6064320802688599,
     "true_label": 1
   },
   {
@@ -3954,9 +3954,9 @@
     "image_name": "218.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5369620323181152,
-    "prob_class_0": 0.46303796768188477,
-    "prob_class_1": 0.5369620323181152,
+    "confidence": 0.609107494354248,
+    "prob_class_0": 0.39089250564575195,
+    "prob_class_1": 0.609107494354248,
     "true_label": 1
   },
   {
@@ -3965,9 +3965,9 @@
     "image_name": "219.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6017719507217407,
-    "prob_class_0": 0.3982280492782593,
-    "prob_class_1": 0.6017719507217407,
+    "confidence": 0.6060720086097717,
+    "prob_class_0": 0.39392799139022827,
+    "prob_class_1": 0.6060720086097717,
     "true_label": 1
   },
   {
@@ -3976,9 +3976,9 @@
     "image_name": "220.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.564420759677887,
-    "prob_class_0": 0.43557924032211304,
-    "prob_class_1": 0.564420759677887,
+    "confidence": 0.6156556010246277,
+    "prob_class_0": 0.3843443989753723,
+    "prob_class_1": 0.6156556010246277,
     "true_label": 1
   },
   {
@@ -3987,9 +3987,9 @@
     "image_name": "221.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5821340680122375,
-    "prob_class_0": 0.41786593198776245,
-    "prob_class_1": 0.5821340680122375,
+    "confidence": 0.6050257086753845,
+    "prob_class_0": 0.3949742913246155,
+    "prob_class_1": 0.6050257086753845,
     "true_label": 1
   },
   {
@@ -3998,9 +3998,9 @@
     "image_name": "223.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6162423491477966,
-    "prob_class_0": 0.38375765085220337,
-    "prob_class_1": 0.6162423491477966,
+    "confidence": 0.6242586970329285,
+    "prob_class_0": 0.37574130296707153,
+    "prob_class_1": 0.6242586970329285,
     "true_label": 1
   },
   {
@@ -4009,9 +4009,9 @@
     "image_name": "224.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5174746513366699,
-    "prob_class_0": 0.4825253486633301,
-    "prob_class_1": 0.5174746513366699,
+    "confidence": 0.6129723787307739,
+    "prob_class_0": 0.3870276212692261,
+    "prob_class_1": 0.6129723787307739,
     "true_label": 1
   },
   {
@@ -4020,9 +4020,9 @@
     "image_name": "226.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5297088027000427,
-    "prob_class_0": 0.4702911972999573,
-    "prob_class_1": 0.5297088027000427,
+    "confidence": 0.5967682600021362,
+    "prob_class_0": 0.40323173999786377,
+    "prob_class_1": 0.5967682600021362,
     "true_label": 1
   },
   {
@@ -4031,9 +4031,9 @@
     "image_name": "229.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6321695446968079,
-    "prob_class_0": 0.36783045530319214,
-    "prob_class_1": 0.6321695446968079,
+    "confidence": 0.6327085494995117,
+    "prob_class_0": 0.3672914505004883,
+    "prob_class_1": 0.6327085494995117,
     "true_label": 1
   },
   {
@@ -4042,9 +4042,9 @@
     "image_name": "230.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5875083208084106,
-    "prob_class_0": 0.41249167919158936,
-    "prob_class_1": 0.5875083208084106,
+    "confidence": 0.6071934700012207,
+    "prob_class_0": 0.3928065299987793,
+    "prob_class_1": 0.6071934700012207,
     "true_label": 1
   },
   {
@@ -4053,9 +4053,9 @@
     "image_name": "231.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6120997667312622,
-    "prob_class_0": 0.3879002332687378,
-    "prob_class_1": 0.6120997667312622,
+    "confidence": 0.612777054309845,
+    "prob_class_0": 0.38722294569015503,
+    "prob_class_1": 0.612777054309845,
     "true_label": 1
   },
   {
@@ -4064,9 +4064,9 @@
     "image_name": "232.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5446677803993225,
-    "prob_class_0": 0.4553322196006775,
-    "prob_class_1": 0.5446677803993225,
+    "confidence": 0.6234688758850098,
+    "prob_class_0": 0.37653112411499023,
+    "prob_class_1": 0.6234688758850098,
     "true_label": 1
   },
   {
@@ -4075,9 +4075,9 @@
     "image_name": "233.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6051788330078125,
-    "prob_class_0": 0.3948211669921875,
-    "prob_class_1": 0.6051788330078125,
+    "confidence": 0.6067142486572266,
+    "prob_class_0": 0.39328575134277344,
+    "prob_class_1": 0.6067142486572266,
     "true_label": 1
   },
   {
@@ -4086,9 +4086,9 @@
     "image_name": "234.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5314433574676514,
-    "prob_class_0": 0.46855664253234863,
-    "prob_class_1": 0.5314433574676514,
+    "confidence": 0.592520534992218,
+    "prob_class_0": 0.407479465007782,
+    "prob_class_1": 0.592520534992218,
     "true_label": 1
   },
   {
@@ -4097,9 +4097,9 @@
     "image_name": "236.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5167900919914246,
-    "prob_class_0": 0.48320990800857544,
-    "prob_class_1": 0.5167900919914246,
+    "confidence": 0.6150000095367432,
+    "prob_class_0": 0.38499999046325684,
+    "prob_class_1": 0.6150000095367432,
     "true_label": 1
   },
   {
@@ -4108,9 +4108,9 @@
     "image_name": "237.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5935981273651123,
-    "prob_class_0": 0.4064018726348877,
-    "prob_class_1": 0.5935981273651123,
+    "confidence": 0.6265888214111328,
+    "prob_class_0": 0.3734111785888672,
+    "prob_class_1": 0.6265888214111328,
     "true_label": 1
   },
   {
@@ -4119,9 +4119,9 @@
     "image_name": "243.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.618691086769104,
-    "prob_class_0": 0.381308913230896,
-    "prob_class_1": 0.618691086769104,
+    "confidence": 0.6416822671890259,
+    "prob_class_0": 0.3583177328109741,
+    "prob_class_1": 0.6416822671890259,
     "true_label": 1
   },
   {
@@ -4130,9 +4130,9 @@
     "image_name": "247.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5973877906799316,
-    "prob_class_0": 0.40261220932006836,
-    "prob_class_1": 0.5973877906799316,
+    "confidence": 0.5984790325164795,
+    "prob_class_0": 0.4015209674835205,
+    "prob_class_1": 0.5984790325164795,
     "true_label": 1
   },
   {
@@ -4141,9 +4141,9 @@
     "image_name": "248.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6299923062324524,
-    "prob_class_0": 0.3700076937675476,
-    "prob_class_1": 0.6299923062324524,
+    "confidence": 0.5956037044525146,
+    "prob_class_0": 0.40439629554748535,
+    "prob_class_1": 0.5956037044525146,
     "true_label": 1
   },
   {
@@ -4152,9 +4152,9 @@
     "image_name": "250.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6028145551681519,
-    "prob_class_0": 0.39718544483184814,
-    "prob_class_1": 0.6028145551681519,
+    "confidence": 0.6024982333183289,
+    "prob_class_0": 0.39750176668167114,
+    "prob_class_1": 0.6024982333183289,
     "true_label": 1
   },
   {
@@ -4163,9 +4163,9 @@
     "image_name": "251.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6707096099853516,
-    "prob_class_0": 0.32929039001464844,
-    "prob_class_1": 0.6707096099853516,
+    "confidence": 0.6039512157440186,
+    "prob_class_0": 0.39604878425598145,
+    "prob_class_1": 0.6039512157440186,
     "true_label": 1
   },
   {
@@ -4174,9 +4174,9 @@
     "image_name": "252.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6460696458816528,
-    "prob_class_0": 0.35393035411834717,
-    "prob_class_1": 0.6460696458816528,
+    "confidence": 0.6246717572212219,
+    "prob_class_0": 0.3753282427787781,
+    "prob_class_1": 0.6246717572212219,
     "true_label": 1
   },
   {
@@ -4185,9 +4185,9 @@
     "image_name": "253.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6076947450637817,
-    "prob_class_0": 0.39230525493621826,
-    "prob_class_1": 0.6076947450637817,
+    "confidence": 0.6036723256111145,
+    "prob_class_0": 0.3963276743888855,
+    "prob_class_1": 0.6036723256111145,
     "true_label": 1
   },
   {
@@ -4196,9 +4196,9 @@
     "image_name": "255.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.520523726940155,
-    "prob_class_0": 0.47947627305984497,
-    "prob_class_1": 0.520523726940155,
+    "confidence": 0.6137104630470276,
+    "prob_class_0": 0.3862895369529724,
+    "prob_class_1": 0.6137104630470276,
     "true_label": 1
   },
   {
@@ -4207,9 +4207,9 @@
     "image_name": "259.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5950683951377869,
-    "prob_class_0": 0.40493160486221313,
-    "prob_class_1": 0.5950683951377869,
+    "confidence": 0.6400141716003418,
+    "prob_class_0": 0.3599858283996582,
+    "prob_class_1": 0.6400141716003418,
     "true_label": 1
   },
   {
@@ -4218,9 +4218,9 @@
     "image_name": "262.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.612284779548645,
-    "prob_class_0": 0.387715220451355,
-    "prob_class_1": 0.612284779548645,
+    "confidence": 0.6176677942276001,
+    "prob_class_0": 0.3823322057723999,
+    "prob_class_1": 0.6176677942276001,
     "true_label": 1
   },
   {
@@ -4229,9 +4229,9 @@
     "image_name": "264.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5557878017425537,
-    "prob_class_0": 0.4442121982574463,
-    "prob_class_1": 0.5557878017425537,
+    "confidence": 0.6221218109130859,
+    "prob_class_0": 0.37787818908691406,
+    "prob_class_1": 0.6221218109130859,
     "true_label": 1
   },
   {
@@ -4240,9 +4240,9 @@
     "image_name": "267.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6223490834236145,
-    "prob_class_0": 0.3776509165763855,
-    "prob_class_1": 0.6223490834236145,
+    "confidence": 0.6130020618438721,
+    "prob_class_0": 0.38699793815612793,
+    "prob_class_1": 0.6130020618438721,
     "true_label": 1
   },
   {
@@ -4251,9 +4251,9 @@
     "image_name": "269.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5272052884101868,
-    "prob_class_0": 0.47279471158981323,
-    "prob_class_1": 0.5272052884101868,
+    "confidence": 0.605802059173584,
+    "prob_class_0": 0.394197940826416,
+    "prob_class_1": 0.605802059173584,
     "true_label": 1
   },
   {
@@ -4262,9 +4262,9 @@
     "image_name": "272.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6058698296546936,
-    "prob_class_0": 0.3941301703453064,
-    "prob_class_1": 0.6058698296546936,
+    "confidence": 0.6045307517051697,
+    "prob_class_0": 0.3954692482948303,
+    "prob_class_1": 0.6045307517051697,
     "true_label": 1
   },
   {
@@ -4273,9 +4273,9 @@
     "image_name": "273.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5783736705780029,
-    "prob_class_0": 0.42162632942199707,
-    "prob_class_1": 0.5783736705780029,
+    "confidence": 0.6224583983421326,
+    "prob_class_0": 0.37754160165786743,
+    "prob_class_1": 0.6224583983421326,
     "true_label": 1
   },
   {
@@ -4284,9 +4284,9 @@
     "image_name": "276.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6110310554504395,
-    "prob_class_0": 0.38896894454956055,
-    "prob_class_1": 0.6110310554504395,
+    "confidence": 0.6205869317054749,
+    "prob_class_0": 0.37941306829452515,
+    "prob_class_1": 0.6205869317054749,
     "true_label": 1
   },
   {
@@ -4295,9 +4295,9 @@
     "image_name": "277.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6023740172386169,
-    "prob_class_0": 0.39762598276138306,
-    "prob_class_1": 0.6023740172386169,
+    "confidence": 0.6183663010597229,
+    "prob_class_0": 0.3816336989402771,
+    "prob_class_1": 0.6183663010597229,
     "true_label": 1
   },
   {
@@ -4306,9 +4306,9 @@
     "image_name": "279.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6001402735710144,
-    "prob_class_0": 0.3998597264289856,
-    "prob_class_1": 0.6001402735710144,
+    "confidence": 0.6063237190246582,
+    "prob_class_0": 0.3936762809753418,
+    "prob_class_1": 0.6063237190246582,
     "true_label": 1
   },
   {
@@ -4317,9 +4317,9 @@
     "image_name": "280.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.504941463470459,
-    "prob_class_0": 0.495058536529541,
-    "prob_class_1": 0.504941463470459,
+    "confidence": 0.5783175826072693,
+    "prob_class_0": 0.4216824173927307,
+    "prob_class_1": 0.5783175826072693,
     "true_label": 1
   },
   {
@@ -4328,9 +4328,9 @@
     "image_name": "282.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6740503311157227,
-    "prob_class_0": 0.32594966888427734,
-    "prob_class_1": 0.6740503311157227,
+    "confidence": 0.6322286128997803,
+    "prob_class_0": 0.3677713871002197,
+    "prob_class_1": 0.6322286128997803,
     "true_label": 1
   },
   {
@@ -4339,9 +4339,9 @@
     "image_name": "283.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5477235317230225,
-    "prob_class_0": 0.45227646827697754,
-    "prob_class_1": 0.5477235317230225,
+    "confidence": 0.625827968120575,
+    "prob_class_0": 0.37417203187942505,
+    "prob_class_1": 0.625827968120575,
     "true_label": 1
   },
   {
@@ -4350,9 +4350,9 @@
     "image_name": "290.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5862943530082703,
-    "prob_class_0": 0.41370564699172974,
-    "prob_class_1": 0.5862943530082703,
+    "confidence": 0.6193256378173828,
+    "prob_class_0": 0.3806743621826172,
+    "prob_class_1": 0.6193256378173828,
     "true_label": 1
   },
   {
@@ -4361,9 +4361,9 @@
     "image_name": "291.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.62138831615448,
-    "prob_class_0": 0.37861168384552,
-    "prob_class_1": 0.62138831615448,
+    "confidence": 0.610090970993042,
+    "prob_class_0": 0.389909029006958,
+    "prob_class_1": 0.610090970993042,
     "true_label": 1
   },
   {
@@ -4372,9 +4372,9 @@
     "image_name": "292.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6030336618423462,
-    "prob_class_0": 0.3969663381576538,
-    "prob_class_1": 0.6030336618423462,
+    "confidence": 0.6576904058456421,
+    "prob_class_0": 0.3423095941543579,
+    "prob_class_1": 0.6576904058456421,
     "true_label": 1
   },
   {
@@ -4383,9 +4383,9 @@
     "image_name": "293.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.590020477771759,
-    "prob_class_0": 0.40997952222824097,
-    "prob_class_1": 0.590020477771759,
+    "confidence": 0.6170514225959778,
+    "prob_class_0": 0.3829485774040222,
+    "prob_class_1": 0.6170514225959778,
     "true_label": 1
   },
   {
@@ -4394,9 +4394,9 @@
     "image_name": "294.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6045491099357605,
-    "prob_class_0": 0.3954508900642395,
-    "prob_class_1": 0.6045491099357605,
+    "confidence": 0.6282943487167358,
+    "prob_class_0": 0.37170565128326416,
+    "prob_class_1": 0.6282943487167358,
     "true_label": 1
   },
   {
@@ -4405,9 +4405,9 @@
     "image_name": "296.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5810424089431763,
-    "prob_class_0": 0.41895759105682373,
-    "prob_class_1": 0.5810424089431763,
+    "confidence": 0.6059492230415344,
+    "prob_class_0": 0.3940507769584656,
+    "prob_class_1": 0.6059492230415344,
     "true_label": 1
   },
   {
@@ -4416,9 +4416,9 @@
     "image_name": "297.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5601000189781189,
-    "prob_class_0": 0.4398999810218811,
-    "prob_class_1": 0.5601000189781189,
+    "confidence": 0.6094076037406921,
+    "prob_class_0": 0.39059239625930786,
+    "prob_class_1": 0.6094076037406921,
     "true_label": 1
   },
   {
@@ -4427,9 +4427,9 @@
     "image_name": "300.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6197282075881958,
-    "prob_class_0": 0.3802717924118042,
-    "prob_class_1": 0.6197282075881958,
+    "confidence": 0.6051111221313477,
+    "prob_class_0": 0.39488887786865234,
+    "prob_class_1": 0.6051111221313477,
     "true_label": 1
   },
   {
@@ -4438,9 +4438,9 @@
     "image_name": "301.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6017248630523682,
-    "prob_class_0": 0.39827513694763184,
-    "prob_class_1": 0.6017248630523682,
+    "confidence": 0.670763373374939,
+    "prob_class_0": 0.32923662662506104,
+    "prob_class_1": 0.670763373374939,
     "true_label": 1
   },
   {
@@ -4449,9 +4449,9 @@
     "image_name": "302.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5940952301025391,
-    "prob_class_0": 0.40590476989746094,
-    "prob_class_1": 0.5940952301025391,
+    "confidence": 0.6292883157730103,
+    "prob_class_0": 0.37071168422698975,
+    "prob_class_1": 0.6292883157730103,
     "true_label": 1
   },
   {
@@ -4460,9 +4460,9 @@
     "image_name": "303.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5660409331321716,
-    "prob_class_0": 0.43395906686782837,
-    "prob_class_1": 0.5660409331321716,
+    "confidence": 0.5896788239479065,
+    "prob_class_0": 0.4103211760520935,
+    "prob_class_1": 0.5896788239479065,
     "true_label": 1
   },
   {
@@ -4471,9 +4471,9 @@
     "image_name": "304.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5925955176353455,
-    "prob_class_0": 0.40740448236465454,
-    "prob_class_1": 0.5925955176353455,
+    "confidence": 0.5872868299484253,
+    "prob_class_0": 0.4127131700515747,
+    "prob_class_1": 0.5872868299484253,
     "true_label": 1
   },
   {
@@ -4482,9 +4482,9 @@
     "image_name": "305.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5404435396194458,
-    "prob_class_0": 0.4595564603805542,
-    "prob_class_1": 0.5404435396194458,
+    "confidence": 0.6463260650634766,
+    "prob_class_0": 0.35367393493652344,
+    "prob_class_1": 0.6463260650634766,
     "true_label": 1
   },
   {
@@ -4493,9 +4493,9 @@
     "image_name": "308.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5979536771774292,
-    "prob_class_0": 0.4020463228225708,
-    "prob_class_1": 0.5979536771774292,
+    "confidence": 0.5984303951263428,
+    "prob_class_0": 0.4015696048736572,
+    "prob_class_1": 0.5984303951263428,
     "true_label": 1
   },
   {
@@ -4504,9 +4504,9 @@
     "image_name": "309.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.539926290512085,
-    "prob_class_0": 0.46007370948791504,
-    "prob_class_1": 0.539926290512085,
+    "confidence": 0.6447687745094299,
+    "prob_class_0": 0.35523122549057007,
+    "prob_class_1": 0.6447687745094299,
     "true_label": 1
   },
   {
@@ -4515,9 +4515,9 @@
     "image_name": "310.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5808441042900085,
-    "prob_class_0": 0.41915589570999146,
-    "prob_class_1": 0.5808441042900085,
+    "confidence": 0.5366352796554565,
+    "prob_class_0": 0.46336472034454346,
+    "prob_class_1": 0.5366352796554565,
     "true_label": 1
   },
   {
@@ -4526,9 +4526,9 @@
     "image_name": "312.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5856426954269409,
-    "prob_class_0": 0.4143573045730591,
-    "prob_class_1": 0.5856426954269409,
+    "confidence": 0.6221340298652649,
+    "prob_class_0": 0.3778659701347351,
+    "prob_class_1": 0.6221340298652649,
     "true_label": 1
   },
   {
@@ -4537,9 +4537,9 @@
     "image_name": "313.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6187626123428345,
-    "prob_class_0": 0.3812373876571655,
-    "prob_class_1": 0.6187626123428345,
+    "confidence": 0.6182376146316528,
+    "prob_class_0": 0.38176238536834717,
+    "prob_class_1": 0.6182376146316528,
     "true_label": 1
   },
   {
@@ -4548,9 +4548,9 @@
     "image_name": "316.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5983511805534363,
-    "prob_class_0": 0.4016488194465637,
-    "prob_class_1": 0.5983511805534363,
+    "confidence": 0.6235278248786926,
+    "prob_class_0": 0.3764721751213074,
+    "prob_class_1": 0.6235278248786926,
     "true_label": 1
   },
   {
@@ -4559,9 +4559,9 @@
     "image_name": "317.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5662598609924316,
-    "prob_class_0": 0.43374013900756836,
-    "prob_class_1": 0.5662598609924316,
+    "confidence": 0.6218754053115845,
+    "prob_class_0": 0.3781245946884155,
+    "prob_class_1": 0.6218754053115845,
     "true_label": 1
   },
   {
@@ -4570,9 +4570,9 @@
     "image_name": "321.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5685843825340271,
-    "prob_class_0": 0.4314156174659729,
-    "prob_class_1": 0.5685843825340271,
+    "confidence": 0.584550142288208,
+    "prob_class_0": 0.415449857711792,
+    "prob_class_1": 0.584550142288208,
     "true_label": 1
   },
   {
@@ -4581,9 +4581,9 @@
     "image_name": "323.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6168988347053528,
-    "prob_class_0": 0.3831011652946472,
-    "prob_class_1": 0.6168988347053528,
+    "confidence": 0.6207698583602905,
+    "prob_class_0": 0.3792301416397095,
+    "prob_class_1": 0.6207698583602905,
     "true_label": 1
   },
   {
@@ -4592,9 +4592,9 @@
     "image_name": "328.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5905992984771729,
-    "prob_class_0": 0.40940070152282715,
-    "prob_class_1": 0.5905992984771729,
+    "confidence": 0.6262376308441162,
+    "prob_class_0": 0.3737623691558838,
+    "prob_class_1": 0.6262376308441162,
     "true_label": 1
   },
   {
@@ -4603,9 +4603,9 @@
     "image_name": "332.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5155630707740784,
-    "prob_class_0": 0.48443692922592163,
-    "prob_class_1": 0.5155630707740784,
+    "confidence": 0.6364506483078003,
+    "prob_class_0": 0.3635493516921997,
+    "prob_class_1": 0.6364506483078003,
     "true_label": 1
   },
   {
@@ -4614,9 +4614,9 @@
     "image_name": "334.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5698062777519226,
-    "prob_class_0": 0.4301937222480774,
-    "prob_class_1": 0.5698062777519226,
+    "confidence": 0.6312026977539062,
+    "prob_class_0": 0.36879730224609375,
+    "prob_class_1": 0.6312026977539062,
     "true_label": 1
   },
   {
@@ -4625,9 +4625,9 @@
     "image_name": "336.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5925641059875488,
-    "prob_class_0": 0.40743589401245117,
-    "prob_class_1": 0.5925641059875488,
+    "confidence": 0.6144760251045227,
+    "prob_class_0": 0.3855239748954773,
+    "prob_class_1": 0.6144760251045227,
     "true_label": 1
   },
   {
@@ -4636,9 +4636,9 @@
     "image_name": "338.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.594563364982605,
-    "prob_class_0": 0.405436635017395,
-    "prob_class_1": 0.594563364982605,
+    "confidence": 0.6221566796302795,
+    "prob_class_0": 0.37784332036972046,
+    "prob_class_1": 0.6221566796302795,
     "true_label": 1
   },
   {
@@ -4647,9 +4647,9 @@
     "image_name": "340.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6020638346672058,
-    "prob_class_0": 0.3979361653327942,
-    "prob_class_1": 0.6020638346672058,
+    "confidence": 0.6213110089302063,
+    "prob_class_0": 0.3786889910697937,
+    "prob_class_1": 0.6213110089302063,
     "true_label": 1
   },
   {
@@ -4658,9 +4658,9 @@
     "image_name": "342.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5842974781990051,
-    "prob_class_0": 0.4157025218009949,
-    "prob_class_1": 0.5842974781990051,
+    "confidence": 0.6191213130950928,
+    "prob_class_0": 0.3808786869049072,
+    "prob_class_1": 0.6191213130950928,
     "true_label": 1
   },
   {
@@ -4669,9 +4669,9 @@
     "image_name": "343.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6042887568473816,
-    "prob_class_0": 0.3957112431526184,
-    "prob_class_1": 0.6042887568473816,
+    "confidence": 0.5868065357208252,
+    "prob_class_0": 0.4131934642791748,
+    "prob_class_1": 0.5868065357208252,
     "true_label": 1
   },
   {
@@ -4680,9 +4680,9 @@
     "image_name": "344.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5916744470596313,
-    "prob_class_0": 0.40832555294036865,
-    "prob_class_1": 0.5916744470596313,
+    "confidence": 0.640003502368927,
+    "prob_class_0": 0.359996497631073,
+    "prob_class_1": 0.640003502368927,
     "true_label": 1
   },
   {
@@ -4691,9 +4691,9 @@
     "image_name": "345.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5719952583312988,
-    "prob_class_0": 0.42800474166870117,
-    "prob_class_1": 0.5719952583312988,
+    "confidence": 0.5990675687789917,
+    "prob_class_0": 0.4009324312210083,
+    "prob_class_1": 0.5990675687789917,
     "true_label": 1
   },
   {
@@ -4702,9 +4702,9 @@
     "image_name": "349.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6077867150306702,
-    "prob_class_0": 0.39221328496932983,
-    "prob_class_1": 0.6077867150306702,
+    "confidence": 0.6716416478157043,
+    "prob_class_0": 0.32835835218429565,
+    "prob_class_1": 0.6716416478157043,
     "true_label": 1
   },
   {
@@ -4713,9 +4713,9 @@
     "image_name": "351.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6406297087669373,
-    "prob_class_0": 0.35937029123306274,
-    "prob_class_1": 0.6406297087669373,
+    "confidence": 0.609203040599823,
+    "prob_class_0": 0.390796959400177,
+    "prob_class_1": 0.609203040599823,
     "true_label": 1
   },
   {
@@ -4724,9 +4724,9 @@
     "image_name": "353.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5739194750785828,
-    "prob_class_0": 0.42608052492141724,
-    "prob_class_1": 0.5739194750785828,
+    "confidence": 0.6134929060935974,
+    "prob_class_0": 0.3865070939064026,
+    "prob_class_1": 0.6134929060935974,
     "true_label": 1
   },
   {
@@ -4735,9 +4735,9 @@
     "image_name": "356.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5841977596282959,
-    "prob_class_0": 0.4158022403717041,
-    "prob_class_1": 0.5841977596282959,
+    "confidence": 0.6429775357246399,
+    "prob_class_0": 0.3570224642753601,
+    "prob_class_1": 0.6429775357246399,
     "true_label": 1
   },
   {
@@ -4746,9 +4746,9 @@
     "image_name": "357.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5724555850028992,
-    "prob_class_0": 0.42754441499710083,
-    "prob_class_1": 0.5724555850028992,
+    "confidence": 0.6067104339599609,
+    "prob_class_0": 0.39328956604003906,
+    "prob_class_1": 0.6067104339599609,
     "true_label": 1
   },
   {
@@ -4757,9 +4757,9 @@
     "image_name": "358.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5500606298446655,
-    "prob_class_0": 0.4499393701553345,
-    "prob_class_1": 0.5500606298446655,
+    "confidence": 0.6323610544204712,
+    "prob_class_0": 0.3676389455795288,
+    "prob_class_1": 0.6323610544204712,
     "true_label": 1
   },
   {
@@ -4768,9 +4768,9 @@
     "image_name": "359.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5972951650619507,
-    "prob_class_0": 0.4027048349380493,
-    "prob_class_1": 0.5972951650619507,
+    "confidence": 0.6299955248832703,
+    "prob_class_0": 0.37000447511672974,
+    "prob_class_1": 0.6299955248832703,
     "true_label": 1
   },
   {
@@ -4779,9 +4779,9 @@
     "image_name": "360.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5250348448753357,
-    "prob_class_0": 0.4749651551246643,
-    "prob_class_1": 0.5250348448753357,
+    "confidence": 0.6007829308509827,
+    "prob_class_0": 0.39921706914901733,
+    "prob_class_1": 0.6007829308509827,
     "true_label": 1
   },
   {
@@ -4790,9 +4790,9 @@
     "image_name": "361.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5748715996742249,
-    "prob_class_0": 0.42512840032577515,
-    "prob_class_1": 0.5748715996742249,
+    "confidence": 0.6072371006011963,
+    "prob_class_0": 0.3927628993988037,
+    "prob_class_1": 0.6072371006011963,
     "true_label": 1
   },
   {
@@ -4801,9 +4801,9 @@
     "image_name": "362.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6044256091117859,
-    "prob_class_0": 0.3955743908882141,
-    "prob_class_1": 0.6044256091117859,
+    "confidence": 0.6052572131156921,
+    "prob_class_0": 0.39474278688430786,
+    "prob_class_1": 0.6052572131156921,
     "true_label": 1
   },
   {
@@ -4812,9 +4812,9 @@
     "image_name": "365.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.611506998538971,
-    "prob_class_0": 0.38849300146102905,
-    "prob_class_1": 0.611506998538971,
+    "confidence": 0.6146998405456543,
+    "prob_class_0": 0.3853001594543457,
+    "prob_class_1": 0.6146998405456543,
     "true_label": 1
   },
   {
@@ -4823,9 +4823,9 @@
     "image_name": "370.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5532177090644836,
-    "prob_class_0": 0.44678229093551636,
-    "prob_class_1": 0.5532177090644836,
+    "confidence": 0.616498589515686,
+    "prob_class_0": 0.38350141048431396,
+    "prob_class_1": 0.616498589515686,
     "true_label": 1
   },
   {
@@ -4834,9 +4834,9 @@
     "image_name": "372.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6134664416313171,
-    "prob_class_0": 0.38653355836868286,
-    "prob_class_1": 0.6134664416313171,
+    "confidence": 0.6007034182548523,
+    "prob_class_0": 0.3992965817451477,
+    "prob_class_1": 0.6007034182548523,
     "true_label": 1
   },
   {
@@ -4845,9 +4845,9 @@
     "image_name": "374.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6041219830513,
-    "prob_class_0": 0.39587801694869995,
-    "prob_class_1": 0.6041219830513,
+    "confidence": 0.6076967120170593,
+    "prob_class_0": 0.3923032879829407,
+    "prob_class_1": 0.6076967120170593,
     "true_label": 1
   },
   {
@@ -4856,9 +4856,9 @@
     "image_name": "379.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5944379568099976,
-    "prob_class_0": 0.40556204319000244,
-    "prob_class_1": 0.5944379568099976,
+    "confidence": 0.612370491027832,
+    "prob_class_0": 0.38762950897216797,
+    "prob_class_1": 0.612370491027832,
     "true_label": 1
   },
   {
@@ -4867,9 +4867,9 @@
     "image_name": "380.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5960353016853333,
-    "prob_class_0": 0.40396469831466675,
-    "prob_class_1": 0.5960353016853333,
+    "confidence": 0.6012948155403137,
+    "prob_class_0": 0.3987051844596863,
+    "prob_class_1": 0.6012948155403137,
     "true_label": 1
   },
   {
@@ -4878,9 +4878,9 @@
     "image_name": "381.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5450254678726196,
-    "prob_class_0": 0.45497453212738037,
-    "prob_class_1": 0.5450254678726196,
+    "confidence": 0.6150851845741272,
+    "prob_class_0": 0.3849148154258728,
+    "prob_class_1": 0.6150851845741272,
     "true_label": 1
   },
   {
@@ -4889,9 +4889,9 @@
     "image_name": "383.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6082876920700073,
-    "prob_class_0": 0.3917123079299927,
-    "prob_class_1": 0.6082876920700073,
+    "confidence": 0.576188862323761,
+    "prob_class_0": 0.423811137676239,
+    "prob_class_1": 0.576188862323761,
     "true_label": 1
   },
   {
@@ -4900,9 +4900,9 @@
     "image_name": "385.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5482102632522583,
-    "prob_class_0": 0.4517897367477417,
-    "prob_class_1": 0.5482102632522583,
+    "confidence": 0.6048187017440796,
+    "prob_class_0": 0.3951812982559204,
+    "prob_class_1": 0.6048187017440796,
     "true_label": 1
   },
   {
@@ -4911,9 +4911,9 @@
     "image_name": "387.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5757692456245422,
-    "prob_class_0": 0.42423075437545776,
-    "prob_class_1": 0.5757692456245422,
+    "confidence": 0.5953750014305115,
+    "prob_class_0": 0.4046249985694885,
+    "prob_class_1": 0.5953750014305115,
     "true_label": 1
   },
   {
@@ -4922,9 +4922,9 @@
     "image_name": "389.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5062960982322693,
-    "prob_class_0": 0.4937039017677307,
-    "prob_class_1": 0.5062960982322693,
+    "confidence": 0.6283499002456665,
+    "prob_class_0": 0.3716500997543335,
+    "prob_class_1": 0.6283499002456665,
     "true_label": 1
   },
   {
@@ -4933,9 +4933,9 @@
     "image_name": "390.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5715641379356384,
-    "prob_class_0": 0.4284358620643616,
-    "prob_class_1": 0.5715641379356384,
+    "confidence": 0.5952388048171997,
+    "prob_class_0": 0.4047611951828003,
+    "prob_class_1": 0.5952388048171997,
     "true_label": 1
   },
   {
@@ -4944,9 +4944,9 @@
     "image_name": "391.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6028797626495361,
-    "prob_class_0": 0.39712023735046387,
-    "prob_class_1": 0.6028797626495361,
+    "confidence": 0.6056963801383972,
+    "prob_class_0": 0.3943036198616028,
+    "prob_class_1": 0.6056963801383972,
     "true_label": 1
   },
   {
@@ -4955,9 +4955,9 @@
     "image_name": "393.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5861704349517822,
-    "prob_class_0": 0.4138295650482178,
-    "prob_class_1": 0.5861704349517822,
+    "confidence": 0.6377526521682739,
+    "prob_class_0": 0.3622473478317261,
+    "prob_class_1": 0.6377526521682739,
     "true_label": 1
   },
   {
@@ -4966,9 +4966,9 @@
     "image_name": "396.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6145838499069214,
-    "prob_class_0": 0.3854161500930786,
-    "prob_class_1": 0.6145838499069214,
+    "confidence": 0.623465359210968,
+    "prob_class_0": 0.376534640789032,
+    "prob_class_1": 0.623465359210968,
     "true_label": 1
   },
   {
@@ -4977,9 +4977,9 @@
     "image_name": "398.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5936182141304016,
-    "prob_class_0": 0.4063817858695984,
-    "prob_class_1": 0.5936182141304016,
+    "confidence": 0.6142209768295288,
+    "prob_class_0": 0.3857790231704712,
+    "prob_class_1": 0.6142209768295288,
     "true_label": 1
   },
   {
@@ -4988,9 +4988,9 @@
     "image_name": "399.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.595346212387085,
-    "prob_class_0": 0.40465378761291504,
-    "prob_class_1": 0.595346212387085,
+    "confidence": 0.6564760208129883,
+    "prob_class_0": 0.3435239791870117,
+    "prob_class_1": 0.6564760208129883,
     "true_label": 1
   },
   {
@@ -4999,9 +4999,9 @@
     "image_name": "400.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.623266339302063,
-    "prob_class_0": 0.376733660697937,
-    "prob_class_1": 0.623266339302063,
+    "confidence": 0.618294894695282,
+    "prob_class_0": 0.381705105304718,
+    "prob_class_1": 0.618294894695282,
     "true_label": 1
   },
   {
@@ -5010,9 +5010,9 @@
     "image_name": "403.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6158161163330078,
-    "prob_class_0": 0.3841838836669922,
-    "prob_class_1": 0.6158161163330078,
+    "confidence": 0.599046528339386,
+    "prob_class_0": 0.400953471660614,
+    "prob_class_1": 0.599046528339386,
     "true_label": 1
   },
   {
@@ -5021,9 +5021,9 @@
     "image_name": "410.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5339925289154053,
-    "prob_class_0": 0.4660074710845947,
-    "prob_class_1": 0.5339925289154053,
+    "confidence": 0.586388885974884,
+    "prob_class_0": 0.41361111402511597,
+    "prob_class_1": 0.586388885974884,
     "true_label": 1
   },
   {
@@ -5032,9 +5032,9 @@
     "image_name": "414.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5985972881317139,
-    "prob_class_0": 0.40140271186828613,
-    "prob_class_1": 0.5985972881317139,
+    "confidence": 0.6225302219390869,
+    "prob_class_0": 0.3774697780609131,
+    "prob_class_1": 0.6225302219390869,
     "true_label": 1
   },
   {
@@ -5043,9 +5043,9 @@
     "image_name": "415.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5297039747238159,
-    "prob_class_0": 0.4702960252761841,
-    "prob_class_1": 0.5297039747238159,
+    "confidence": 0.6156546473503113,
+    "prob_class_0": 0.3843453526496887,
+    "prob_class_1": 0.6156546473503113,
     "true_label": 1
   },
   {
@@ -5054,9 +5054,9 @@
     "image_name": "417.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6034969091415405,
-    "prob_class_0": 0.3965030908584595,
-    "prob_class_1": 0.6034969091415405,
+    "confidence": 0.6069689393043518,
+    "prob_class_0": 0.3930310606956482,
+    "prob_class_1": 0.6069689393043518,
     "true_label": 1
   },
   {
@@ -5065,9 +5065,9 @@
     "image_name": "418.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5466309189796448,
-    "prob_class_0": 0.4533690810203552,
-    "prob_class_1": 0.5466309189796448,
+    "confidence": 0.618327796459198,
+    "prob_class_0": 0.381672203540802,
+    "prob_class_1": 0.618327796459198,
     "true_label": 1
   },
   {
@@ -5076,9 +5076,9 @@
     "image_name": "419.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6103245615959167,
-    "prob_class_0": 0.38967543840408325,
-    "prob_class_1": 0.6103245615959167,
+    "confidence": 0.5891088843345642,
+    "prob_class_0": 0.4108911156654358,
+    "prob_class_1": 0.5891088843345642,
     "true_label": 1
   },
   {
@@ -5087,9 +5087,9 @@
     "image_name": "420.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.513428270816803,
-    "prob_class_0": 0.486571729183197,
-    "prob_class_1": 0.513428270816803,
+    "confidence": 0.6368505358695984,
+    "prob_class_0": 0.3631494641304016,
+    "prob_class_1": 0.6368505358695984,
     "true_label": 1
   },
   {
@@ -5098,9 +5098,9 @@
     "image_name": "421.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5948716998100281,
-    "prob_class_0": 0.4051283001899719,
-    "prob_class_1": 0.5948716998100281,
+    "confidence": 0.6210659146308899,
+    "prob_class_0": 0.3789340853691101,
+    "prob_class_1": 0.6210659146308899,
     "true_label": 1
   },
   {
@@ -5109,9 +5109,9 @@
     "image_name": "422.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5678399801254272,
-    "prob_class_0": 0.43216001987457275,
-    "prob_class_1": 0.5678399801254272,
+    "confidence": 0.6270290613174438,
+    "prob_class_0": 0.37297093868255615,
+    "prob_class_1": 0.6270290613174438,
     "true_label": 1
   },
   {
@@ -5120,9 +5120,9 @@
     "image_name": "423.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6145893931388855,
-    "prob_class_0": 0.3854106068611145,
-    "prob_class_1": 0.6145893931388855,
+    "confidence": 0.6102633476257324,
+    "prob_class_0": 0.3897366523742676,
+    "prob_class_1": 0.6102633476257324,
     "true_label": 1
   },
   {
@@ -5131,9 +5131,9 @@
     "image_name": "427.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.638252317905426,
-    "prob_class_0": 0.361747682094574,
-    "prob_class_1": 0.638252317905426,
+    "confidence": 0.6178573369979858,
+    "prob_class_0": 0.38214266300201416,
+    "prob_class_1": 0.6178573369979858,
     "true_label": 1
   },
   {
@@ -5142,9 +5142,9 @@
     "image_name": "428.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5612108111381531,
-    "prob_class_0": 0.4387891888618469,
-    "prob_class_1": 0.5612108111381531,
+    "confidence": 0.6090110540390015,
+    "prob_class_0": 0.39098894596099854,
+    "prob_class_1": 0.6090110540390015,
     "true_label": 1
   },
   {
@@ -5153,9 +5153,9 @@
     "image_name": "429.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6251567006111145,
-    "prob_class_0": 0.3748432993888855,
-    "prob_class_1": 0.6251567006111145,
+    "confidence": 0.6282455921173096,
+    "prob_class_0": 0.37175440788269043,
+    "prob_class_1": 0.6282455921173096,
     "true_label": 1
   },
   {
@@ -5164,9 +5164,9 @@
     "image_name": "430.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5263428688049316,
-    "prob_class_0": 0.47365713119506836,
-    "prob_class_1": 0.5263428688049316,
+    "confidence": 0.6608609557151794,
+    "prob_class_0": 0.33913904428482056,
+    "prob_class_1": 0.6608609557151794,
     "true_label": 1
   },
   {
@@ -5175,9 +5175,9 @@
     "image_name": "432.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5555363297462463,
-    "prob_class_0": 0.44446367025375366,
-    "prob_class_1": 0.5555363297462463,
+    "confidence": 0.5911821722984314,
+    "prob_class_0": 0.4088178277015686,
+    "prob_class_1": 0.5911821722984314,
     "true_label": 1
   },
   {
@@ -5186,9 +5186,9 @@
     "image_name": "434.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6124035120010376,
-    "prob_class_0": 0.3875964879989624,
-    "prob_class_1": 0.6124035120010376,
+    "confidence": 0.6551647186279297,
+    "prob_class_0": 0.3448352813720703,
+    "prob_class_1": 0.6551647186279297,
     "true_label": 1
   },
   {
@@ -5197,9 +5197,9 @@
     "image_name": "435.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5569016933441162,
-    "prob_class_0": 0.4430983066558838,
-    "prob_class_1": 0.5569016933441162,
+    "confidence": 0.6001783609390259,
+    "prob_class_0": 0.3998216390609741,
+    "prob_class_1": 0.6001783609390259,
     "true_label": 1
   },
   {
@@ -5208,9 +5208,9 @@
     "image_name": "438.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6026867628097534,
-    "prob_class_0": 0.3973132371902466,
-    "prob_class_1": 0.6026867628097534,
+    "confidence": 0.6206761598587036,
+    "prob_class_0": 0.3793238401412964,
+    "prob_class_1": 0.6206761598587036,
     "true_label": 1
   },
   {
@@ -5219,9 +5219,9 @@
     "image_name": "439.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6115646958351135,
-    "prob_class_0": 0.3884353041648865,
-    "prob_class_1": 0.6115646958351135,
+    "confidence": 0.610860288143158,
+    "prob_class_0": 0.38913971185684204,
+    "prob_class_1": 0.610860288143158,
     "true_label": 1
   },
   {
@@ -5230,9 +5230,9 @@
     "image_name": "441.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6350719928741455,
-    "prob_class_0": 0.3649280071258545,
-    "prob_class_1": 0.6350719928741455,
+    "confidence": 0.6622729897499084,
+    "prob_class_0": 0.33772701025009155,
+    "prob_class_1": 0.6622729897499084,
     "true_label": 1
   },
   {
@@ -5241,9 +5241,9 @@
     "image_name": "442.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.625769317150116,
-    "prob_class_0": 0.37423068284988403,
-    "prob_class_1": 0.625769317150116,
+    "confidence": 0.6245990991592407,
+    "prob_class_0": 0.3754009008407593,
+    "prob_class_1": 0.6245990991592407,
     "true_label": 1
   },
   {
@@ -5252,9 +5252,9 @@
     "image_name": "443.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5907852649688721,
-    "prob_class_0": 0.40921473503112793,
-    "prob_class_1": 0.5907852649688721,
+    "confidence": 0.6402146220207214,
+    "prob_class_0": 0.35978537797927856,
+    "prob_class_1": 0.6402146220207214,
     "true_label": 1
   },
   {
@@ -5263,9 +5263,9 @@
     "image_name": "444.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6426876783370972,
-    "prob_class_0": 0.35731232166290283,
-    "prob_class_1": 0.6426876783370972,
+    "confidence": 0.617834210395813,
+    "prob_class_0": 0.382165789604187,
+    "prob_class_1": 0.617834210395813,
     "true_label": 1
   },
   {
@@ -5274,9 +5274,9 @@
     "image_name": "445.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5470578074455261,
-    "prob_class_0": 0.4529421925544739,
-    "prob_class_1": 0.5470578074455261,
+    "confidence": 0.6011394262313843,
+    "prob_class_0": 0.3988605737686157,
+    "prob_class_1": 0.6011394262313843,
     "true_label": 1
   },
   {
@@ -5285,9 +5285,9 @@
     "image_name": "449.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5719664692878723,
-    "prob_class_0": 0.4280335307121277,
-    "prob_class_1": 0.5719664692878723,
+    "confidence": 0.639446496963501,
+    "prob_class_0": 0.360553503036499,
+    "prob_class_1": 0.639446496963501,
     "true_label": 1
   },
   {
@@ -5296,9 +5296,9 @@
     "image_name": "450.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5720648765563965,
-    "prob_class_0": 0.4279351234436035,
-    "prob_class_1": 0.5720648765563965,
+    "confidence": 0.6265665292739868,
+    "prob_class_0": 0.3734334707260132,
+    "prob_class_1": 0.6265665292739868,
     "true_label": 1
   },
   {
@@ -5307,9 +5307,9 @@
     "image_name": "457.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5906503796577454,
-    "prob_class_0": 0.40934962034225464,
-    "prob_class_1": 0.5906503796577454,
+    "confidence": 0.6336499452590942,
+    "prob_class_0": 0.36635005474090576,
+    "prob_class_1": 0.6336499452590942,
     "true_label": 1
   },
   {
@@ -5318,9 +5318,9 @@
     "image_name": "458.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5730038285255432,
-    "prob_class_0": 0.4269961714744568,
-    "prob_class_1": 0.5730038285255432,
+    "confidence": 0.5868942141532898,
+    "prob_class_0": 0.4131057858467102,
+    "prob_class_1": 0.5868942141532898,
     "true_label": 1
   },
   {
@@ -5329,9 +5329,9 @@
     "image_name": "463.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5402321815490723,
-    "prob_class_0": 0.45976781845092773,
-    "prob_class_1": 0.5402321815490723,
+    "confidence": 0.5968776345252991,
+    "prob_class_0": 0.4031223654747009,
+    "prob_class_1": 0.5968776345252991,
     "true_label": 1
   },
   {
@@ -5340,9 +5340,9 @@
     "image_name": "464.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6309853196144104,
-    "prob_class_0": 0.3690146803855896,
-    "prob_class_1": 0.6309853196144104,
+    "confidence": 0.6105451583862305,
+    "prob_class_0": 0.38945484161376953,
+    "prob_class_1": 0.6105451583862305,
     "true_label": 1
   },
   {
@@ -5351,9 +5351,9 @@
     "image_name": "467.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6175494194030762,
-    "prob_class_0": 0.38245058059692383,
-    "prob_class_1": 0.6175494194030762,
+    "confidence": 0.6521467566490173,
+    "prob_class_0": 0.34785324335098267,
+    "prob_class_1": 0.6521467566490173,
     "true_label": 1
   },
   {
@@ -5362,9 +5362,9 @@
     "image_name": "468.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5706479549407959,
-    "prob_class_0": 0.4293520450592041,
-    "prob_class_1": 0.5706479549407959,
+    "confidence": 0.6282000541687012,
+    "prob_class_0": 0.37179994583129883,
+    "prob_class_1": 0.6282000541687012,
     "true_label": 1
   },
   {
@@ -5373,9 +5373,9 @@
     "image_name": "471.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5173076391220093,
-    "prob_class_0": 0.4826923608779907,
-    "prob_class_1": 0.5173076391220093,
+    "confidence": 0.6221543550491333,
+    "prob_class_0": 0.3778456449508667,
+    "prob_class_1": 0.6221543550491333,
     "true_label": 1
   },
   {
@@ -5384,9 +5384,9 @@
     "image_name": "475.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5291232466697693,
-    "prob_class_0": 0.4708767533302307,
-    "prob_class_1": 0.5291232466697693,
+    "confidence": 0.6410859227180481,
+    "prob_class_0": 0.3589140772819519,
+    "prob_class_1": 0.6410859227180481,
     "true_label": 1
   },
   {
@@ -5395,9 +5395,9 @@
     "image_name": "476.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5879955291748047,
-    "prob_class_0": 0.4120044708251953,
-    "prob_class_1": 0.5879955291748047,
+    "confidence": 0.6097880601882935,
+    "prob_class_0": 0.39021193981170654,
+    "prob_class_1": 0.6097880601882935,
     "true_label": 1
   },
   {
@@ -5406,9 +5406,9 @@
     "image_name": "478.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6105347275733948,
-    "prob_class_0": 0.3894652724266052,
-    "prob_class_1": 0.6105347275733948,
+    "confidence": 0.5967051982879639,
+    "prob_class_0": 0.40329480171203613,
+    "prob_class_1": 0.5967051982879639,
     "true_label": 1
   },
   {
@@ -5417,9 +5417,9 @@
     "image_name": "480.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6100087761878967,
-    "prob_class_0": 0.38999122381210327,
-    "prob_class_1": 0.6100087761878967,
+    "confidence": 0.5845625996589661,
+    "prob_class_0": 0.41543740034103394,
+    "prob_class_1": 0.5845625996589661,
     "true_label": 1
   },
   {
@@ -5428,9 +5428,9 @@
     "image_name": "482.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6248477101325989,
-    "prob_class_0": 0.3751522898674011,
-    "prob_class_1": 0.6248477101325989,
+    "confidence": 0.6134966015815735,
+    "prob_class_0": 0.3865033984184265,
+    "prob_class_1": 0.6134966015815735,
     "true_label": 1
   },
   {
@@ -5439,9 +5439,9 @@
     "image_name": "484.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6182699799537659,
-    "prob_class_0": 0.38173002004623413,
-    "prob_class_1": 0.6182699799537659,
+    "confidence": 0.6018812656402588,
+    "prob_class_0": 0.3981187343597412,
+    "prob_class_1": 0.6018812656402588,
     "true_label": 1
   },
   {
@@ -5450,9 +5450,9 @@
     "image_name": "489.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5884301066398621,
-    "prob_class_0": 0.41156989336013794,
-    "prob_class_1": 0.5884301066398621,
+    "confidence": 0.6051015257835388,
+    "prob_class_0": 0.3948984742164612,
+    "prob_class_1": 0.6051015257835388,
     "true_label": 1
   },
   {
@@ -5461,9 +5461,9 @@
     "image_name": "491.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5656466484069824,
-    "prob_class_0": 0.4343533515930176,
-    "prob_class_1": 0.5656466484069824,
+    "confidence": 0.6045407652854919,
+    "prob_class_0": 0.39545923471450806,
+    "prob_class_1": 0.6045407652854919,
     "true_label": 1
   },
   {
@@ -5472,9 +5472,9 @@
     "image_name": "492.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5871238112449646,
-    "prob_class_0": 0.4128761887550354,
-    "prob_class_1": 0.5871238112449646,
+    "confidence": 0.6249409914016724,
+    "prob_class_0": 0.37505900859832764,
+    "prob_class_1": 0.6249409914016724,
     "true_label": 1
   },
   {
@@ -5483,9 +5483,9 @@
     "image_name": "495.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6313153505325317,
-    "prob_class_0": 0.36868464946746826,
-    "prob_class_1": 0.6313153505325317,
+    "confidence": 0.6652302145957947,
+    "prob_class_0": 0.3347697854042053,
+    "prob_class_1": 0.6652302145957947,
     "true_label": 1
   },
   {
@@ -5494,9 +5494,9 @@
     "image_name": "496.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.6062919497489929,
-    "prob_class_0": 0.3937080502510071,
-    "prob_class_1": 0.6062919497489929,
+    "confidence": 0.6151019334793091,
+    "prob_class_0": 0.3848980665206909,
+    "prob_class_1": 0.6151019334793091,
     "true_label": 1
   }
 ]
