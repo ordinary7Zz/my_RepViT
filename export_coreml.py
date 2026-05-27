@@ -20,7 +20,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     model = create_model(args.model, distillation=True)
     if args.ckpt:
-        model.load_state_dict(torch.load(args.ckpt)['model'])
+        model.load_state_dict(torch.load(args.ckpt, weights_only=False)['model'])
     utils.replace_batchnorm(model)
     model.eval()
 

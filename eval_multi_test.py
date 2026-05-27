@@ -83,7 +83,7 @@ def load_model(model_name, ckpt_path, num_classes=2, device="cuda"):
         pretrained=False,
     )
 
-    checkpoint = torch.load(ckpt_path, map_location="cpu")
+    checkpoint = torch.load(ckpt_path, map_location="cpu", weights_only=False)
     state_dict = checkpoint.get("model", checkpoint)
 
     model_state = model.state_dict()

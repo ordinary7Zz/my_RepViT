@@ -21,9 +21,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
     model = create_model(args.model)
     if args.ckpt:
-        model.load_state_dict(torch.load(args.ckpt)['model'])
+        model.load_state_dict(torch.load(args.ckpt, weights_only=False)['model'])
     if args.samckpt:
-        state = torch.load(args.samckpt, map_location='cpu')
+        state = torch.load(args.samckpt, map_location='cpu', weights_only=False)
         new_state = {}
         for k, v in state.items():
             if not 'image_encoder' in k:

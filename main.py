@@ -291,7 +291,7 @@ def main(args):
                 args.finetune, map_location='cpu', check_hash=True)
         else:
             print("Loading local checkpoint at {}".format(args.finetune))
-            checkpoint = torch.load(args.finetune, map_location='cpu')
+            checkpoint = torch.load(args.finetune, map_location='cpu', weights_only=False)
 
         checkpoint_model = checkpoint['model']
         state_dict = model.state_dict()
@@ -356,7 +356,7 @@ def main(args):
             checkpoint = torch.hub.load_state_dict_from_url(
                 args.teacher_path, map_location='cpu', check_hash=True)
         else:
-            checkpoint = torch.load(args.teacher_path, map_location='cpu')
+            checkpoint = torch.load(args.teacher_path, map_location='cpu', weights_only=False)
         teacher_model.load_state_dict(checkpoint['model'])
         teacher_model.to(device)
         teacher_model.eval()
@@ -383,7 +383,7 @@ def main(args):
                 args.resume, map_location='cpu', check_hash=True)
         else:
             print("Loading local checkpoint at {}".format(args.resume))
-            checkpoint = torch.load(args.resume, map_location='cpu')
+            checkpoint = torch.load(args.resume, map_location='cpu', weights_only=False)
         msg = model_without_ddp.load_state_dict(checkpoint['model'], strict=True)
         print(msg)
         if not args.eval and 'optimizer' in checkpoint and 'lr_scheduler' in checkpoint and 'epoch' in checkpoint:
