@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from main import get_args_parser, main
 
 
@@ -21,4 +23,5 @@ if __name__ == '__main__':
     args = parse_args()
     if args.output_dir:
         args.output_dir = f'{args.output_dir}/{args.model}_{args.input_size}_{args.weight_decay}_{args.lr}_{args.reprob}'
+        Path(args.output_dir).mkdir(parents=True, exist_ok=True)
     main(args)
