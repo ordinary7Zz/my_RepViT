@@ -1,8 +1,9 @@
 #!/bin/bash
 
-python main.py \
+python train_explicit_paths.py \
   --model repvit_m1_0 \
-  --data-path /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls \
+  --train-data-path /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/train \
+  --test-data-path /mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/Superimposed_multitask/dataset_3_cls/test \
   --batch-size 16 \
   --epochs 40 \
   --dist-eval \
