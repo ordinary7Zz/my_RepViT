@@ -1,8 +1,9 @@
 #!/bin/bash
 
-python main.py \
+python train_explicit_paths.py \
   --model repvit_m1_0 \
-  --data-path /mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_train \
+  --train-data-path /mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_train \
+  --test-data-path /mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test \
   --batch-size 16 \
   --epochs 10 \
   --dist-eval \

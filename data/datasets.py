@@ -61,28 +61,51 @@ class INatDataset(ImageFolder):
     # __getitem__ and __len__ inherited from ImageFolder
 
 
+def _get_explicit_split_root(args, is_train):
+    split_attr = 'train_data_path' if is_train else 'test_data_path'
+    split_root = getattr(args, split_attr, None)
+    if split_root:
+        return split_root
+    return None
+
+
+def _ensure_explicit_split_supported(args):
+    has_explicit_split = getattr(args, 'train_data_path', None) or getattr(args, 'test_data_path', None)
+    if has_explicit_split and args.data_set not in {'IMNET', 'IMNETEE', 'FLOWERS'}:
+        raise ValueError(f"Explicit train/test paths are only supported for IMNET, IMNETEE, and FLOWERS, got {args.data_set}")
+
+
 def build_dataset(is_train, args):
     transform = build_transform(is_train, args)
+    _ensure_explicit_split_supported(args)
 
     if args.data_set == 'CIFAR':
         dataset = datasets.CIFAR100(
             args.data_path, train=is_train, transform=transform)
         nb_classes = 100
     elif args.data_set == 'IMNET':
-        prefix = 'train' if is_train else 'val'
-        data_dir = os.path.join(args.data_path, f'{prefix}.tar')
-        if os.path.exists(data_dir):
-            dataset = TimmDatasetTar(data_dir, transform=transform)
+        explicit_root = _get_explicit_split_root(args, is_train)
+        if explicit_root is not None:
+            dataset = datasets.ImageFolder(explicit_root, transform=transform)
         else:
-            root = os.path.join(args.data_path, 'train' if is_train else 'val')
-            dataset = datasets.ImageFolder(root, transform=transform)
+            prefix = 'train' if is_train else 'val'
+            data_dir = os.path.join(args.data_path, f'{prefix}.tar')
+            if os.path.exists(data_dir):
+                dataset = TimmDatasetTar(data_dir, transform=transform)
+            else:
+                root = os.path.join(args.data_path, 'train' if is_train else 'val')
+                dataset = datasets.ImageFolder(root, transform=transform)
         nb_classes = 1000
     elif args.data_set == 'IMNETEE':
-        root = os.path.join(args.data_path, 'train' if is_train else 'val')
+        root = _get_explicit_split_root(args, is_train)
+        if root is None:
+            root = os.path.join(args.data_path, 'train' if is_train else 'val')
         dataset = datasets.ImageFolder(root, transform=transform)
         nb_classes = 10
     elif args.data_set == 'FLOWERS':
-        root = os.path.join(args.data_path, 'train' if is_train else 'test')
+        root = _get_explicit_split_root(args, is_train)
+        if root is None:
+            root = os.path.join(args.data_path, 'train' if is_train else 'test')
         dataset = datasets.ImageFolder(root, transform=transform)
         if is_train:
             dataset = torch.utils.data.ConcatDataset(
