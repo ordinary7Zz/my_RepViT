@@ -186,15 +186,27 @@ def get_args_parser():
     parser.add_argument('--project', default='repvit', type=str)
     return parser
 
-import wandb
+try:
+    import wandb
+except Exception:
+    wandb = None
+
 
 def main(args):
-    
+
     utils.init_distributed_mode(args)
 
-    if utils.is_main_process() and not args.eval:
-        wandb.init(project=args.project, config=args)
-        wandb.run.log_code('model')
+    use_wandb = utils.is_main_process() and not args.eval and wandb is not None and hasattr(wandb, 'init')
+    if utils.is_main_process() and not args.eval and not use_wandb:
+        print('wandb is unavailable, skipping experiment tracking')
+    if use_wandb:
+        try:
+            wandb.init(project=args.project, config=args)
+            if getattr(wandb, 'run', None) is not None and hasattr(wandb.run, 'log_code'):
+                wandb.run.log_code('model')
+        except Exception as exc:
+            use_wandb = False
+            print(f'wandb init failed, skipping experiment tracking: {exc}')
     if args.distillation_type != 'none' and args.finetune and not args.eval:
         raise NotImplementedError(
             "Finetuning with distillation not yet supported")
@@ -449,7 +461,7 @@ def main(args):
                         **{f'test_{k}': v for k, v in test_stats.items()},
                         'epoch': epoch,
                         'n_parameters': n_parameters}
-        if utils.is_main_process():
+        if utils.is_main_process() and use_wandb:
             wandb.log({**{f'train_{k}': v for k, v in train_stats.items()},
                     **{f'test_{k}': v for k, v in test_stats.items()},
                     'epoch': epoch,
@@ -461,7 +473,7 @@ def main(args):
     total_time = time.time() - start_time
     total_time_str = str(datetime.timedelta(seconds=int(total_time)))
     print('Training time {}'.format(total_time_str))
-    if utils.is_main_process():
+    if utils.is_main_process() and use_wandb:
         wandb.finish()
 
 def export_onnx(model, output_dir):
