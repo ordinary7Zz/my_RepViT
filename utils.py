@@ -110,11 +110,12 @@ class MetricLogger(object):
         i = 0
         if not header:
             header = ''
+        total = len(iterable)
         start_time = time.time()
         end = time.time()
         iter_time = SmoothedValue(fmt='{avg:.4f}')
         data_time = SmoothedValue(fmt='{avg:.4f}')
-        space_fmt = ':' + str(len(str(len(iterable)))) + 'd'
+        space_fmt = ':' + str(len(str(total))) + 'd'
         log_msg = [
             header,
             '[{0' + space_fmt + '}/{1}]',
@@ -131,26 +132,30 @@ class MetricLogger(object):
             data_time.update(time.time() - end)
             yield obj
             iter_time.update(time.time() - end)
-            if i % print_freq == 0 or i == len(iterable) - 1:
-                eta_seconds = iter_time.global_avg * (len(iterable) - i)
+            if i % print_freq == 0 or i == total - 1:
+                eta_seconds = iter_time.global_avg * (total - i)
                 eta_string = str(datetime.timedelta(seconds=int(eta_seconds)))
                 if torch.cuda.is_available():
                     print(log_msg.format(
-                        i, len(iterable), eta=eta_string,
+                        i, total, eta=eta_string,
                         meters=str(self),
                         time=str(iter_time), data=str(data_time),
                         memory=torch.cuda.max_memory_allocated() / MB))
                 else:
                     print(log_msg.format(
-                        i, len(iterable), eta=eta_string,
+                        i, total, eta=eta_string,
                         meters=str(self),
                         time=str(iter_time), data=str(data_time)))
             i += 1
             end = time.time()
         total_time = time.time() - start_time
         total_time_str = str(datetime.timedelta(seconds=int(total_time)))
+        if total == 0:
+            print('{} Total time: {} (0.0000 s / it)'.format(
+                header, total_time_str))
+            return
         print('{} Total time: {} ({:.4f} s / it)'.format(
-            header, total_time_str, total_time / len(iterable)))
+            header, total_time_str, total_time / total))
 
 def _load_checkpoint_for_ema(model_ema, checkpoint):
     """

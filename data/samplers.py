@@ -32,9 +32,14 @@ class RASampler(torch.utils.data.Sampler):
         self.num_samples = int(
             math.ceil(len(self.dataset) * 3.0 / self.num_replicas))
         self.total_size = self.num_samples * self.num_replicas
-        # self.num_selected_samples = int(math.ceil(len(self.dataset) / self.num_replicas))
-        self.num_selected_samples = int(math.floor(
-            len(self.dataset) // 256 * 256 / self.num_replicas))
+        dataset_size = len(self.dataset)
+        if dataset_size == 0:
+            self.num_selected_samples = 0
+        elif dataset_size < 256:
+            self.num_selected_samples = int(math.ceil(dataset_size / self.num_replicas))
+        else:
+            self.num_selected_samples = int(math.floor(
+                dataset_size // 256 * 256 / self.num_replicas))
         self.shuffle = shuffle
 
     def __iter__(self):
