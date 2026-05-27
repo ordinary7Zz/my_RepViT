@@ -103,6 +103,29 @@ bash myeval.sh
 
 该脚本调用 `eval_multi_test.py` 后，会在默认的 `test_log` 目录下生成评估日志文件，内容包括各测试集上的指标结果。
 
+### 数据集目录结构要求
+
+`myeval.sh` 使用 `torchvision.datasets.ImageFolder` 读取测试集，因此不需要额外的标签 JSON 文件，但要求每个测试集目录必须是 `ImageFolder` 格式。
+
+二分类任务推荐目录结构如下：
+
+```bash
+test_cls/
+  0/
+    xxx.png
+    yyy.png
+  1/
+    aaa.png
+    bbb.png
+```
+
+说明：
+
+- 每个子目录名代表一个类别。
+- `ImageFolder` 会自动根据子目录名生成类别索引。
+- 导出的真实标签来自目录结构本身，而不是外部标注文件。
+- 如果数据不是这种目录结构，而是标签保存在 CSV / JSON / TXT 中，则当前脚本不能直接使用，需要额外改读取逻辑。
+
 ---
 
 ## 3. myeval_json.sh
@@ -186,6 +209,29 @@ TN5K__2026_02_26_21_16_50__predictions.json
 - `predicted_class`
 - `confidence`
 - `prob_class_0`
+
+### 数据集目录结构要求
+
+`myeval_json.sh` 调用的 `infer_multi_to_json.py` 同样使用 `torchvision.datasets.ImageFolder` 读取测试集，因此不需要额外的标签 JSON 文件，但要求每个测试集目录必须是 `ImageFolder` 格式。
+
+二分类任务推荐目录结构如下：
+
+```bash
+test_cls/
+  0/
+    xxx.png
+    yyy.png
+  1/
+    aaa.png
+    bbb.png
+```
+
+说明：
+
+- 每个子目录名代表一个类别。
+- `true_label` 来自图片所在的类别目录。
+- `prob_class_1` 是模型输出的正类概率。
+- 如果你的标签保存在单独的 CSV / JSON / TXT 文件中，而不是按目录分好类，则当前脚本不能直接使用，需要改成“图片路径 + 外部标签文件”的读取方式。
 
 ---
 

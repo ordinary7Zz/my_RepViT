@@ -10,13 +10,12 @@ OUTPUT_DIR="./test_log/auroc_json"
 
 # 可以传入多个测试集目录（ImageFolder 格式）
 TEST_DIRS=(
-  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/DDTI_Classification/all_cls"
-  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/TN3K/test_cls"
-  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/ThyroidXL/test_cls"
-  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/TN5K/test_cls"
+  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/500_TestData_Malignancy_Cls/by_malignancy_test"
+  "/mnt/wangbd8/workspace/ThyroidAgent/Tiger-Model/dataset_json/Resnet_training_data/test"
+  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test"
 )
 
-TEST_NAMES=(DDTI TN3K ThyroidXL TN5K)
+TEST_NAMES=(BM FTCPTC LNMCN01)
 
 BATCH_SIZE=16
 NUM_WORKERS=4
