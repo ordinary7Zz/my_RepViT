@@ -248,7 +248,7 @@ from timm.models import register_model
 
 
 @register_model
-def repvit_m0_6(pretrained=False, num_classes = 1000, distillation=False):
+def repvit_m0_6(pretrained=False, num_classes = 1000, distillation=False, **kwargs):
     """
     Constructs a MobileNetV3-Large model
     """
@@ -274,7 +274,7 @@ def repvit_m0_6(pretrained=False, num_classes = 1000, distillation=False):
     return RepViT(cfgs, num_classes=num_classes, distillation=distillation)
 
 @register_model
-def repvit_m0_9(pretrained=False, num_classes = 1000, distillation=False):
+def repvit_m0_9(pretrained=False, num_classes = 1000, distillation=False, **kwargs):
     """
     Constructs a MobileNetV3-Large model
     """
@@ -310,7 +310,7 @@ def repvit_m0_9(pretrained=False, num_classes = 1000, distillation=False):
     return RepViT(cfgs, num_classes=num_classes, distillation=distillation)
 
 @register_model
-def repvit_m1_0(pretrained=False, num_classes = 1000, distillation=False):
+def repvit_m1_0(pretrained=False, num_classes = 1000, distillation=False, **kwargs):
     """
     Constructs a MobileNetV3-Large model
     """
@@ -347,7 +347,7 @@ def repvit_m1_0(pretrained=False, num_classes = 1000, distillation=False):
 
 
 @register_model
-def repvit_m1_1(pretrained=False, num_classes = 1000, distillation=False):
+def repvit_m1_1(pretrained=False, num_classes = 1000, distillation=False, **kwargs):
     """
     Constructs a MobileNetV3-Large model
     """
@@ -382,7 +382,7 @@ def repvit_m1_1(pretrained=False, num_classes = 1000, distillation=False):
 
 
 @register_model
-def repvit_m1_5(pretrained=False, num_classes = 1000, distillation=False):
+def repvit_m1_5(pretrained=False, num_classes = 1000, distillation=False, **kwargs):
     """
     Constructs a MobileNetV3-Large model
     """
@@ -436,7 +436,7 @@ def repvit_m1_5(pretrained=False, num_classes = 1000, distillation=False):
 
 
 @register_model
-def repvit_m2_3(pretrained=False, num_classes = 1000, distillation=False):
+def repvit_m2_3(pretrained=False, num_classes = 1000, distillation=False, **kwargs):
     """
     Constructs a MobileNetV3-Large model
     """
