@@ -1,0 +1,18 @@
+Saving evaluation output to: /mnt/wangbd8/workspace/ThyroidAgent/Classification_Models/RepViT/test_log/eval_multi_test_2026_02_26_21_16_50_2026_04_28_12_38_22.txt
+Loading model repvit_m1_0 from ./checkpoints/repvit_m1_0/2026_02_26_21_16_50/checkpoint_best.pth
+Removed incompatible keys from checkpoint (shape mismatch): ['classifier.classifier.l.weight', 'classifier.classifier.l.bias']
+Loaded state_dict with msg: _IncompatibleKeys(missing_keys=['classifier.classifier.l.weight', 'classifier.classifier.l.bias'], unexpected_keys=[])
+
+========== Evaluation ==========
+
+--- Dataset: DDTI (/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/DDTI_Classification/all_cls), size=349 ---
+AUROC: 0.6162 [0.5299, 0.6966]  AUPRC: 0.1924 [0.1474, 0.2857]  ACC: 0.1289 [0.1289, 0.1289]  PREC: 0.1289 [0.1289, 0.1289]  RECALL: 1.0000 [1.0000, 1.0000]  F1: 0.2284 [0.2284, 0.2284]  SPEC: 0.0000 [0.0000, 0.0000]  ECE: 0.4746 [0.4729, 0.4762]
+
+--- Dataset: TN3K (/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/TN3K/test_cls), size=614 ---
+AUROC: 0.5536 [0.5084, 0.5999]  AUPRC: 0.4275 [0.3903, 0.4803]  ACC: 0.3844 [0.3844, 0.3844]  PREC: 0.3844 [0.3844, 0.3844]  RECALL: 1.0000 [1.0000, 1.0000]  F1: 0.5553 [0.5553, 0.5553]  SPEC: 0.0000 [0.0000, 0.0000]  ECE: 0.2366 [0.2352, 0.2381]
+
+--- Dataset: ThyroidXL (/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/ThyroidXL/test_cls), size=2090 ---
+AUROC: 0.7774 [0.7587, 0.7962]  AUPRC: 0.7161 [0.6901, 0.7428]  ACC: 0.4641 [0.4641, 0.4641]  PREC: 0.4641 [0.4641, 0.4641]  RECALL: 1.0000 [1.0000, 1.0000]  F1: 0.6340 [0.6340, 0.6340]  SPEC: 0.0000 [0.0000, 0.0000]  ECE: 0.2031 [0.1853, 0.2208]
+
+--- Dataset: TN5K (/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/TN5K/test_cls), size=1000 ---
+AUROC: 0.6603 [0.6234, 0.6978]  AUPRC: 0.8403 [0.8183, 0.8619]  ACC: 0.7310 [0.7310, 0.7310]  PREC: 0.7310 [0.7310, 0.7310]  RECALL: 1.0000 [1.0000, 1.0000]  F1: 0.8446 [0.8446, 0.8446]  SPEC: 0.0000 [0.0000, 0.0000]  ECE: 0.1165 [0.1078, 0.1374]
