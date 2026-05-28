@@ -92,6 +92,15 @@ def save_metrics(metrics_summary, output_path):
         json.dump(metrics_summary, handle, ensure_ascii=False, indent=2)
 
 
+def format_metric(name, value, ci):
+    lower, upper = ci
+    if np.isnan(value):
+        return f"{name}: nan [nan, nan]"
+    if np.isnan(lower) or np.isnan(upper):
+        return f"{name}: {value:.4f} [nan, nan]"
+    return f"{name}: {value:.4f} [{lower:.4f}, {upper:.4f}]"
+
+
 def main():
     parser = argparse.ArgumentParser("Multi-dataset inference to AUROC JSON for RepViT binary classification")
 
