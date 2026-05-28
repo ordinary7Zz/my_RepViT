@@ -87,6 +87,7 @@ def build_dataset(is_train, args):
         explicit_root = _get_explicit_split_root(args, is_train)
         if explicit_root is not None:
             dataset = datasets.ImageFolder(explicit_root, transform=transform)
+            nb_classes = len(dataset.classes)
         else:
             prefix = 'train' if is_train else 'val'
             data_dir = os.path.join(args.data_path, f'{prefix}.tar')
@@ -95,7 +96,7 @@ def build_dataset(is_train, args):
             else:
                 root = os.path.join(args.data_path, 'train' if is_train else 'val')
                 dataset = datasets.ImageFolder(root, transform=transform)
-        nb_classes = 1000
+            nb_classes = 1000
     elif args.data_set == 'IMNETEE':
         root = _get_explicit_split_root(args, is_train)
         if root is None:
