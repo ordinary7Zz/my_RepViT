@@ -87,6 +87,11 @@ def save_records(records, output_path):
         json.dump(records, handle, ensure_ascii=False, indent=2)
 
 
+def save_metrics(metrics_summary, output_path):
+    with output_path.open("w", encoding="utf-8") as handle:
+        json.dump(metrics_summary, handle, ensure_ascii=False, indent=2)
+
+
 def main():
     parser = argparse.ArgumentParser("Multi-dataset inference to AUROC JSON for RepViT binary classification")
 
@@ -102,6 +107,11 @@ def main():
     parser.add_argument("--num-workers", type=int, default=4)
     parser.add_argument("--input-size", type=int, default=224)
     parser.add_argument("--device", type=str, default="cuda")
+    parser.add_argument("--threshold", type=float, default=0.5)
+    parser.add_argument("--ece-bins", type=int, default=10)
+    parser.add_argument("--bootstrap-iters", type=int, default=2000)
+    parser.add_argument("--ci-alpha", type=float, default=0.95)
+    parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--output-dir", type=str, default=None,
                         help="Directory to save per-dataset JSON files; defaults to test_log directory")
 
@@ -111,7 +121,13 @@ def main():
     from torch.utils.data import DataLoader
     from torchvision import datasets
 
-    from eval_multi_test import build_test_transform, load_model
+    from eval_multi_test import (
+        METRIC_ORDER,
+        bootstrap_ci,
+        build_test_transform,
+        compute_metrics,
+        load_model,
+    )
     import model  # noqa: F401  # 导入以注册 RepViT 模型到 timm
 
     output_dir = resolve_output_dir(args.output_dir, args.checkpoint)
@@ -157,13 +173,68 @@ def main():
         output_path = output_dir / filename
         save_records(records, output_path)
 
-        unique_labels = np.unique(y_true)
+        metrics_filename = f"{sanitize_filename(dataset_name)}__{sanitize_filename(checkpoint_stem)}__metrics.json"
+        metrics_output_path = output_dir / metrics_filename
+
+        if len(y_true) > 0:
+            metrics = compute_metrics(
+                y_true,
+                y_score,
+                threshold=args.threshold,
+                ece_bins=args.ece_bins,
+            )
+            if args.bootstrap_iters > 0:
+                ci = bootstrap_ci(
+                    y_true,
+                    y_score,
+                    threshold=args.threshold,
+                    ece_bins=args.ece_bins,
+                    n_boot=args.bootstrap_iters,
+                    alpha=args.ci_alpha,
+                    seed=args.seed,
+                )
+            else:
+                ci = {name: (float("nan"), float("nan")) for name in METRIC_ORDER}
+            label_set = np.unique(y_true).tolist()
+        else:
+            metrics = {name: float("nan") for name in METRIC_ORDER}
+            ci = {name: (float("nan"), float("nan")) for name in METRIC_ORDER}
+            label_set = []
+
+        metrics_summary = {
+            "record_type": "classification_metrics_summary",
+            "dataset_name": dataset_name,
+            "dataset_root": str(Path(test_root).resolve()),
+            "model": args.model,
+            "checkpoint": str(Path(args.checkpoint).resolve()),
+            "threshold": args.threshold,
+            "ece_bins": args.ece_bins,
+            "bootstrap_iters": args.bootstrap_iters,
+            "ci_alpha": args.ci_alpha,
+            "seed": args.seed,
+            "n_samples": int(len(y_true)),
+            "label_set": label_set,
+            "metrics": metrics,
+            "confidence_intervals": {
+                name: {
+                    "lower": ci[name][0],
+                    "upper": ci[name][1],
+                }
+                for name in METRIC_ORDER
+            },
+        }
+        save_metrics(metrics_summary, metrics_output_path)
+
+        print(
+            "  ".join(format_metric(metric_name, metrics[metric_name], ci[metric_name]) for metric_name in METRIC_ORDER)
+        )
         print(
             f"Saved {len(records)} records to {output_path} | "
-            f"label_set={unique_labels.tolist()} | "
+            f"Saved metrics to {metrics_output_path} | "
+            f"label_set={label_set} | "
             f"prob_range=[{float(np.min(y_score)):.6f}, {float(np.max(y_score)):.6f}]"
             if len(records) > 0
-            else f"Saved 0 records to {output_path}"
+            else f"Saved 0 records to {output_path} | Saved metrics to {metrics_output_path}"
         )
 
 
