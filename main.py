@@ -295,9 +295,9 @@ def main(args):
 
         checkpoint_model = checkpoint['model']
         state_dict = model.state_dict()
-        for k in ['head.l.weight', 'head.l.bias',
-                  'head_dist.l.weight', 'head_dist.l.bias']:
-            if k in checkpoint_model and checkpoint_model[k].shape != state_dict[k].shape:
+        for k in ['classifier.classifier.l.weight', 'classifier.classifier.l.bias',
+                  'classifier.classifier_dist.l.weight', 'classifier.classifier_dist.l.bias']:
+            if k in checkpoint_model and k in state_dict and checkpoint_model[k].shape != state_dict[k].shape:
                 print(f"Removing key {k} from pretrained checkpoint")
                 del checkpoint_model[k]
 
