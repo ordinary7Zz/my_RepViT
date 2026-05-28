@@ -1,0 +1,61 @@
+{
+  "record_type": "classification_metrics_summary",
+  "dataset_name": "FTCPTC",
+  "dataset_root": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test",
+  "model": "repvit_m1_0",
+  "checkpoint": "/mnt/wangbd8/workspace/ThyroidAgent/Classification_Models/RepViT/checkpoints/FTCPTC/repvit_m1_0_224_0.025_0.001_0.25/checkpoint_best.pth",
+  "threshold": 0.5,
+  "ece_bins": 10,
+  "bootstrap_iters": 2000,
+  "ci_alpha": 0.95,
+  "seed": 42,
+  "n_samples": 164,
+  "label_set": [
+    0,
+    1
+  ],
+  "metrics": {
+    "AUROC": 0.3170840787119857,
+    "AUPRC": 0.377445082162686,
+    "ACC": 0.38414634146341464,
+    "PREC": 0.3050847457627119,
+    "RECALL": 0.23076923076923078,
+    "F1": 0.26277372262773724,
+    "SPEC": 0.5232558139534884,
+    "ECE": 0.12583221386118632
+  },
+  "confidence_intervals": {
+    "AUROC": {
+      "lower": 0.2393709004174121,
+      "upper": 0.40295542635658915
+    },
+    "AUPRC": {
+      "lower": 0.34654665264373735,
+      "upper": 0.44393930772185475
+    },
+    "ACC": {
+      "lower": 0.3170731707317073,
+      "upper": 0.4573170731707317
+    },
+    "PREC": {
+      "lower": 0.20754716981132076,
+      "upper": 0.40350877192982454
+    },
+    "RECALL": {
+      "lower": 0.14102564102564102,
+      "upper": 0.32051282051282054
+    },
+    "F1": {
+      "lower": 0.16948500651890483,
+      "upper": 0.3537632074106237
+    },
+    "SPEC": {
+      "lower": 0.4186046511627907,
+      "upper": 0.627906976744186
+    },
+    "ECE": {
+      "lower": 0.05265850882704666,
+      "upper": 0.19358618242620695
+    }
+  }
+}

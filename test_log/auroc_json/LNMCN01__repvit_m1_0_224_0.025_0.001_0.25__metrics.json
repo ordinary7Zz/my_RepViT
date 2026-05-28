@@ -1,0 +1,61 @@
+{
+  "record_type": "classification_metrics_summary",
+  "dataset_name": "LNMCN01",
+  "dataset_root": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test",
+  "model": "repvit_m1_0",
+  "checkpoint": "/mnt/wangbd8/workspace/ThyroidAgent/Classification_Models/RepViT/checkpoints/LNMCN01/repvit_m1_0_224_0.025_0.001_0.25/checkpoint_best.pth",
+  "threshold": 0.5,
+  "ece_bins": 10,
+  "bootstrap_iters": 2000,
+  "ci_alpha": 0.95,
+  "seed": 42,
+  "n_samples": 158,
+  "label_set": [
+    0,
+    1
+  ],
+  "metrics": {
+    "AUROC": 0.404204107830552,
+    "AUPRC": 0.4821045439171472,
+    "ACC": 0.44936708860759494,
+    "PREC": 0.4778761061946903,
+    "RECALL": 0.6585365853658537,
+    "F1": 0.5538461538461539,
+    "SPEC": 0.2236842105263158,
+    "ECE": 0.07112444220464441
+  },
+  "confidence_intervals": {
+    "AUROC": {
+      "lower": 0.3197970154043646,
+      "upper": 0.4982549743260589
+    },
+    "AUPRC": {
+      "lower": 0.4279571301096775,
+      "upper": 0.5668890654015861
+    },
+    "ACC": {
+      "lower": 0.379746835443038,
+      "upper": 0.5189873417721519
+    },
+    "PREC": {
+      "lower": 0.42857142857142855,
+      "upper": 0.5254237288135594
+    },
+    "RECALL": {
+      "lower": 0.5609756097560976,
+      "upper": 0.7560975609756098
+    },
+    "F1": {
+      "lower": 0.48677248677248675,
+      "upper": 0.6169154228855721
+    },
+    "SPEC": {
+      "lower": 0.14473684210526316,
+      "upper": 0.31611842105262977
+    },
+    "ECE": {
+      "lower": 0.008314747306742271,
+      "upper": 0.1405008520553761
+    }
+  }
+}
