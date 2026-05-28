@@ -4,10 +4,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/10_Benign_center2.png",
     "image_name": "10_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5443414449691772,
-    "prob_class_0": 0.45565855503082275,
-    "prob_class_1": 0.5443414449691772,
+    "predicted_class": 0,
+    "confidence": 0.8360986709594727,
+    "prob_class_0": 0.8360986709594727,
+    "prob_class_1": 0.16390132904052734,
     "true_label": 0
   },
   {
@@ -16,9 +16,9 @@
     "image_name": "11_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5118055939674377,
-    "prob_class_0": 0.48819440603256226,
-    "prob_class_1": 0.5118055939674377,
+    "confidence": 0.6206269264221191,
+    "prob_class_0": 0.37937307357788086,
+    "prob_class_1": 0.6206269264221191,
     "true_label": 0
   },
   {
@@ -26,10 +26,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/12_Benign_center2.png",
     "image_name": "12_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5124053955078125,
-    "prob_class_0": 0.4875946044921875,
-    "prob_class_1": 0.5124053955078125,
+    "predicted_class": 0,
+    "confidence": 0.7337040305137634,
+    "prob_class_0": 0.7337040305137634,
+    "prob_class_1": 0.2662959694862366,
     "true_label": 0
   },
   {
@@ -37,10 +37,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/13_Benign_center2.png",
     "image_name": "13_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.500684380531311,
-    "prob_class_0": 0.49931561946868896,
-    "prob_class_1": 0.500684380531311,
+    "predicted_class": 0,
+    "confidence": 0.6428715586662292,
+    "prob_class_0": 0.6428715586662292,
+    "prob_class_1": 0.35712844133377075,
     "true_label": 0
   },
   {
@@ -48,10 +48,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/14_Benign_center2.png",
     "image_name": "14_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5064895749092102,
-    "prob_class_0": 0.4935104250907898,
-    "prob_class_1": 0.5064895749092102,
+    "predicted_class": 0,
+    "confidence": 0.5566278100013733,
+    "prob_class_0": 0.5566278100013733,
+    "prob_class_1": 0.4433721899986267,
     "true_label": 0
   },
   {
@@ -59,10 +59,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/15_Benign_center2.png",
     "image_name": "15_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5379739999771118,
-    "prob_class_0": 0.4620260000228882,
-    "prob_class_1": 0.5379739999771118,
+    "predicted_class": 0,
+    "confidence": 0.794900968670845,
+    "prob_class_0": 0.794900968670845,
+    "prob_class_1": 0.20509903132915497,
     "true_label": 0
   },
   {
@@ -70,10 +70,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/16_Benign_center2.png",
     "image_name": "16_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5398513078689575,
-    "prob_class_0": 0.4601486921310425,
-    "prob_class_1": 0.5398513078689575,
+    "predicted_class": 0,
+    "confidence": 0.7641091197729111,
+    "prob_class_0": 0.7641091197729111,
+    "prob_class_1": 0.23589088022708893,
     "true_label": 0
   },
   {
@@ -81,10 +81,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/17_Benign_center2.png",
     "image_name": "17_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5382705926895142,
-    "prob_class_0": 0.46172940731048584,
-    "prob_class_1": 0.5382705926895142,
+    "predicted_class": 0,
+    "confidence": 0.7421277463436127,
+    "prob_class_0": 0.7421277463436127,
+    "prob_class_1": 0.25787225365638733,
     "true_label": 0
   },
   {
@@ -92,10 +92,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/18_Benign_center2.png",
     "image_name": "18_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5043573975563049,
-    "prob_class_0": 0.49564260244369507,
-    "prob_class_1": 0.5043573975563049,
+    "predicted_class": 0,
+    "confidence": 0.7712609618902206,
+    "prob_class_0": 0.7712609618902206,
+    "prob_class_1": 0.22873903810977936,
     "true_label": 0
   },
   {
@@ -103,10 +103,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/19_Benign_center2.png",
     "image_name": "19_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5056422352790833,
-    "prob_class_0": 0.49435776472091675,
-    "prob_class_1": 0.5056422352790833,
+    "predicted_class": 0,
+    "confidence": 0.6569666266441345,
+    "prob_class_0": 0.6569666266441345,
+    "prob_class_1": 0.3430333733558655,
     "true_label": 0
   },
   {
@@ -114,10 +114,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/1_Benign_center2.png",
     "image_name": "1_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5059536099433899,
-    "prob_class_0": 0.5059536099433899,
-    "prob_class_1": 0.4940463900566101,
+    "predicted_class": 1,
+    "confidence": 0.6104612350463867,
+    "prob_class_0": 0.3895387649536133,
+    "prob_class_1": 0.6104612350463867,
     "true_label": 0
   },
   {
@@ -126,9 +126,9 @@
     "image_name": "20_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5166503190994263,
-    "prob_class_0": 0.5166503190994263,
-    "prob_class_1": 0.48334968090057373,
+    "confidence": 0.7180673182010651,
+    "prob_class_0": 0.7180673182010651,
+    "prob_class_1": 0.28193268179893494,
     "true_label": 0
   },
   {
@@ -136,10 +136,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/21_Benign_center2.png",
     "image_name": "21_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5330449938774109,
-    "prob_class_0": 0.4669550061225891,
-    "prob_class_1": 0.5330449938774109,
+    "predicted_class": 0,
+    "confidence": 0.6693987548351288,
+    "prob_class_0": 0.6693987548351288,
+    "prob_class_1": 0.3306012451648712,
     "true_label": 0
   },
   {
@@ -147,10 +147,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/22_Benign_center2.png",
     "image_name": "22_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5601838231086731,
-    "prob_class_0": 0.4398161768913269,
-    "prob_class_1": 0.5601838231086731,
+    "predicted_class": 0,
+    "confidence": 0.5412527918815613,
+    "prob_class_0": 0.5412527918815613,
+    "prob_class_1": 0.4587472081184387,
     "true_label": 0
   },
   {
@@ -158,10 +158,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/23_Benign_center2.png",
     "image_name": "23_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5164107084274292,
-    "prob_class_0": 0.4835892915725708,
-    "prob_class_1": 0.5164107084274292,
+    "predicted_class": 0,
+    "confidence": 0.533435583114624,
+    "prob_class_0": 0.533435583114624,
+    "prob_class_1": 0.466564416885376,
     "true_label": 0
   },
   {
@@ -170,9 +170,9 @@
     "image_name": "24_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5071774423122406,
-    "prob_class_0": 0.5071774423122406,
-    "prob_class_1": 0.4928225576877594,
+    "confidence": 0.6503636538982391,
+    "prob_class_0": 0.6503636538982391,
+    "prob_class_1": 0.34963634610176086,
     "true_label": 0
   },
   {
@@ -180,10 +180,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/25_Benign_center2.png",
     "image_name": "25_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5272422432899475,
-    "prob_class_0": 0.4727577567100525,
-    "prob_class_1": 0.5272422432899475,
+    "predicted_class": 0,
+    "confidence": 0.742558628320694,
+    "prob_class_0": 0.742558628320694,
+    "prob_class_1": 0.25744137167930603,
     "true_label": 0
   },
   {
@@ -191,10 +191,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/26_Benign_center2.png",
     "image_name": "26_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5266801118850708,
-    "prob_class_0": 0.4733198881149292,
-    "prob_class_1": 0.5266801118850708,
+    "predicted_class": 0,
+    "confidence": 0.5414606332778931,
+    "prob_class_0": 0.5414606332778931,
+    "prob_class_1": 0.45853936672210693,
     "true_label": 0
   },
   {
@@ -202,10 +202,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/27_Benign_center2.png",
     "image_name": "27_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5203052163124084,
-    "prob_class_0": 0.47969478368759155,
-    "prob_class_1": 0.5203052163124084,
+    "predicted_class": 0,
+    "confidence": 0.61482173204422,
+    "prob_class_0": 0.61482173204422,
+    "prob_class_1": 0.38517826795578003,
     "true_label": 0
   },
   {
@@ -213,10 +213,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/28_Benign_center2.png",
     "image_name": "28_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5121368765830994,
-    "prob_class_0": 0.48786312341690063,
-    "prob_class_1": 0.5121368765830994,
+    "predicted_class": 0,
+    "confidence": 0.6770278215408325,
+    "prob_class_0": 0.6770278215408325,
+    "prob_class_1": 0.3229721784591675,
     "true_label": 0
   },
   {
@@ -225,9 +225,9 @@
     "image_name": "29_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5071145296096802,
-    "prob_class_0": 0.4928854703903198,
-    "prob_class_1": 0.5071145296096802,
+    "confidence": 0.5527110695838928,
+    "prob_class_0": 0.4472889304161072,
+    "prob_class_1": 0.5527110695838928,
     "true_label": 0
   },
   {
@@ -235,10 +235,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/2_Benign_center2.png",
     "image_name": "2_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5132854580879211,
-    "prob_class_0": 0.48671454191207886,
-    "prob_class_1": 0.5132854580879211,
+    "predicted_class": 0,
+    "confidence": 0.525296688079834,
+    "prob_class_0": 0.525296688079834,
+    "prob_class_1": 0.474703311920166,
     "true_label": 0
   },
   {
@@ -247,9 +247,9 @@
     "image_name": "30_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5071263015270233,
-    "prob_class_0": 0.5071263015270233,
-    "prob_class_1": 0.4928736984729767,
+    "confidence": 0.6464131772518158,
+    "prob_class_0": 0.6464131772518158,
+    "prob_class_1": 0.3535868227481842,
     "true_label": 0
   },
   {
@@ -257,10 +257,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/31_Benign_center2.png",
     "image_name": "31_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5395861268043518,
-    "prob_class_0": 0.4604138731956482,
-    "prob_class_1": 0.5395861268043518,
+    "predicted_class": 0,
+    "confidence": 0.6512914299964905,
+    "prob_class_0": 0.6512914299964905,
+    "prob_class_1": 0.3487085700035095,
     "true_label": 0
   },
   {
@@ -269,9 +269,9 @@
     "image_name": "32_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5553726553916931,
-    "prob_class_0": 0.4446273446083069,
-    "prob_class_1": 0.5553726553916931,
+    "confidence": 0.5856437087059021,
+    "prob_class_0": 0.4143562912940979,
+    "prob_class_1": 0.5856437087059021,
     "true_label": 0
   },
   {
@@ -279,10 +279,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/33_Benign_center2.png",
     "image_name": "33_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5138474702835083,
-    "prob_class_0": 0.4861525297164917,
-    "prob_class_1": 0.5138474702835083,
+    "predicted_class": 0,
+    "confidence": 0.6648198366165161,
+    "prob_class_0": 0.6648198366165161,
+    "prob_class_1": 0.3351801633834839,
     "true_label": 0
   },
   {
@@ -290,10 +290,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/34_Benign_center2.png",
     "image_name": "34_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5039185881614685,
-    "prob_class_0": 0.4960814118385315,
-    "prob_class_1": 0.5039185881614685,
+    "predicted_class": 0,
+    "confidence": 0.6046716570854187,
+    "prob_class_0": 0.6046716570854187,
+    "prob_class_1": 0.3953283429145813,
     "true_label": 0
   },
   {
@@ -301,10 +301,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/35_Benign_center2.png",
     "image_name": "35_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5052283406257629,
-    "prob_class_0": 0.49477165937423706,
-    "prob_class_1": 0.5052283406257629,
+    "predicted_class": 0,
+    "confidence": 0.5398002862930298,
+    "prob_class_0": 0.5398002862930298,
+    "prob_class_1": 0.4601997137069702,
     "true_label": 0
   },
   {
@@ -312,10 +312,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/36_Benign_center2.png",
     "image_name": "36_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5495014786720276,
-    "prob_class_0": 0.4504985213279724,
-    "prob_class_1": 0.5495014786720276,
+    "predicted_class": 0,
+    "confidence": 0.7190471589565277,
+    "prob_class_0": 0.7190471589565277,
+    "prob_class_1": 0.2809528410434723,
     "true_label": 0
   },
   {
@@ -323,10 +323,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/37_Benign_center2.png",
     "image_name": "37_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5037130415439606,
-    "prob_class_0": 0.5037130415439606,
-    "prob_class_1": 0.49628695845603943,
+    "predicted_class": 1,
+    "confidence": 0.537441611289978,
+    "prob_class_0": 0.462558388710022,
+    "prob_class_1": 0.537441611289978,
     "true_label": 0
   },
   {
@@ -334,10 +334,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/38_Benign_center2.png",
     "image_name": "38_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5026894211769104,
-    "prob_class_0": 0.4973105788230896,
-    "prob_class_1": 0.5026894211769104,
+    "predicted_class": 0,
+    "confidence": 0.7409349977970123,
+    "prob_class_0": 0.7409349977970123,
+    "prob_class_1": 0.25906500220298767,
     "true_label": 0
   },
   {
@@ -345,10 +345,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/39_Benign_center2.png",
     "image_name": "39_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5419066548347473,
-    "prob_class_0": 0.4580933451652527,
-    "prob_class_1": 0.5419066548347473,
+    "predicted_class": 0,
+    "confidence": 0.5139538645744324,
+    "prob_class_0": 0.5139538645744324,
+    "prob_class_1": 0.4860461354255676,
     "true_label": 0
   },
   {
@@ -356,10 +356,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/3_Benign_center2.png",
     "image_name": "3_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5031428337097168,
-    "prob_class_0": 0.4968571662902832,
-    "prob_class_1": 0.5031428337097168,
+    "predicted_class": 0,
+    "confidence": 0.527304083108902,
+    "prob_class_0": 0.527304083108902,
+    "prob_class_1": 0.472695916891098,
     "true_label": 0
   },
   {
@@ -368,9 +368,9 @@
     "image_name": "40_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5172631442546844,
-    "prob_class_0": 0.5172631442546844,
-    "prob_class_1": 0.48273685574531555,
+    "confidence": 0.6579170823097229,
+    "prob_class_0": 0.6579170823097229,
+    "prob_class_1": 0.3420829176902771,
     "true_label": 0
   },
   {
@@ -378,10 +378,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/41_Benign_center2.png",
     "image_name": "41_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5168364644050598,
-    "prob_class_0": 0.4831635355949402,
-    "prob_class_1": 0.5168364644050598,
+    "predicted_class": 0,
+    "confidence": 0.7098588943481445,
+    "prob_class_0": 0.7098588943481445,
+    "prob_class_1": 0.29014110565185547,
     "true_label": 0
   },
   {
@@ -389,10 +389,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/42_Benign_center2.png",
     "image_name": "42_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5268728733062744,
-    "prob_class_0": 0.4731271266937256,
-    "prob_class_1": 0.5268728733062744,
+    "predicted_class": 0,
+    "confidence": 0.7531769275665283,
+    "prob_class_0": 0.7531769275665283,
+    "prob_class_1": 0.24682307243347168,
     "true_label": 0
   },
   {
@@ -401,9 +401,9 @@
     "image_name": "43_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.502130389213562,
-    "prob_class_0": 0.497869610786438,
-    "prob_class_1": 0.502130389213562,
+    "confidence": 0.542408287525177,
+    "prob_class_0": 0.457591712474823,
+    "prob_class_1": 0.542408287525177,
     "true_label": 0
   },
   {
@@ -411,10 +411,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/44_Benign_center2.png",
     "image_name": "44_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5079200863838196,
-    "prob_class_0": 0.4920799136161804,
-    "prob_class_1": 0.5079200863838196,
+    "predicted_class": 0,
+    "confidence": 0.6806721687316895,
+    "prob_class_0": 0.6806721687316895,
+    "prob_class_1": 0.31932783126831055,
     "true_label": 0
   },
   {
@@ -423,9 +423,9 @@
     "image_name": "45_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5072463154792786,
-    "prob_class_0": 0.5072463154792786,
-    "prob_class_1": 0.49275368452072144,
+    "confidence": 0.534917414188385,
+    "prob_class_0": 0.534917414188385,
+    "prob_class_1": 0.465082585811615,
     "true_label": 0
   },
   {
@@ -433,10 +433,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/46_Benign_center2.png",
     "image_name": "46_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5193290114402771,
-    "prob_class_0": 0.4806709885597229,
-    "prob_class_1": 0.5193290114402771,
+    "predicted_class": 0,
+    "confidence": 0.616342306137085,
+    "prob_class_0": 0.616342306137085,
+    "prob_class_1": 0.38365769386291504,
     "true_label": 0
   },
   {
@@ -444,10 +444,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/47_Benign_center2.png",
     "image_name": "47_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5240554213523865,
-    "prob_class_0": 0.4759445786476135,
-    "prob_class_1": 0.5240554213523865,
+    "predicted_class": 0,
+    "confidence": 0.5632689893245697,
+    "prob_class_0": 0.5632689893245697,
+    "prob_class_1": 0.4367310106754303,
     "true_label": 0
   },
   {
@@ -455,10 +455,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/48_Benign_center2.png",
     "image_name": "48_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5177447199821472,
-    "prob_class_0": 0.4822552800178528,
-    "prob_class_1": 0.5177447199821472,
+    "predicted_class": 0,
+    "confidence": 0.6398875117301941,
+    "prob_class_0": 0.6398875117301941,
+    "prob_class_1": 0.3601124882698059,
     "true_label": 0
   },
   {
@@ -466,10 +466,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/49_Benign_center2.png",
     "image_name": "49_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5351834893226624,
-    "prob_class_0": 0.46481651067733765,
-    "prob_class_1": 0.5351834893226624,
+    "predicted_class": 0,
+    "confidence": 0.7824173718690872,
+    "prob_class_0": 0.7824173718690872,
+    "prob_class_1": 0.21758262813091278,
     "true_label": 0
   },
   {
@@ -477,10 +477,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/4_Benign_center2.png",
     "image_name": "4_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5377182960510254,
-    "prob_class_0": 0.4622817039489746,
-    "prob_class_1": 0.5377182960510254,
+    "predicted_class": 0,
+    "confidence": 0.7372834384441376,
+    "prob_class_0": 0.7372834384441376,
+    "prob_class_1": 0.2627165615558624,
     "true_label": 0
   },
   {
@@ -488,10 +488,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/50_Benign_center2.png",
     "image_name": "50_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5313550233840942,
-    "prob_class_0": 0.46864497661590576,
-    "prob_class_1": 0.5313550233840942,
+    "predicted_class": 0,
+    "confidence": 0.7103144526481628,
+    "prob_class_0": 0.7103144526481628,
+    "prob_class_1": 0.28968554735183716,
     "true_label": 0
   },
   {
@@ -499,10 +499,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/51_Benign_center2.png",
     "image_name": "51_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5288485288619995,
-    "prob_class_0": 0.4711514711380005,
-    "prob_class_1": 0.5288485288619995,
+    "predicted_class": 0,
+    "confidence": 0.5494762063026428,
+    "prob_class_0": 0.5494762063026428,
+    "prob_class_1": 0.4505237936973572,
     "true_label": 0
   },
   {
@@ -510,10 +510,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/52_Benign_center2.png",
     "image_name": "52_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5139759182929993,
-    "prob_class_0": 0.48602408170700073,
-    "prob_class_1": 0.5139759182929993,
+    "predicted_class": 0,
+    "confidence": 0.5506148934364319,
+    "prob_class_0": 0.5506148934364319,
+    "prob_class_1": 0.4493851065635681,
     "true_label": 0
   },
   {
@@ -522,9 +522,9 @@
     "image_name": "53_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5221736431121826,
-    "prob_class_0": 0.4778263568878174,
-    "prob_class_1": 0.5221736431121826,
+    "confidence": 0.6457705497741699,
+    "prob_class_0": 0.3542294502258301,
+    "prob_class_1": 0.6457705497741699,
     "true_label": 0
   },
   {
@@ -532,10 +532,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/54_Benign_center2.png",
     "image_name": "54_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5349881649017334,
-    "prob_class_0": 0.4650118350982666,
-    "prob_class_1": 0.5349881649017334,
+    "predicted_class": 0,
+    "confidence": 0.6912358105182648,
+    "prob_class_0": 0.6912358105182648,
+    "prob_class_1": 0.30876418948173523,
     "true_label": 0
   },
   {
@@ -544,9 +544,9 @@
     "image_name": "55_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5010378062725067,
-    "prob_class_0": 0.5010378062725067,
-    "prob_class_1": 0.4989621937274933,
+    "confidence": 0.6663805246353149,
+    "prob_class_0": 0.6663805246353149,
+    "prob_class_1": 0.33361947536468506,
     "true_label": 0
   },
   {
@@ -555,9 +555,9 @@
     "image_name": "56_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5571103096008301,
-    "prob_class_0": 0.4428896903991699,
-    "prob_class_1": 0.5571103096008301,
+    "confidence": 0.659441351890564,
+    "prob_class_0": 0.34055864810943604,
+    "prob_class_1": 0.659441351890564,
     "true_label": 0
   },
   {
@@ -565,10 +565,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/57_Benign_center2.png",
     "image_name": "57_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5199537873268127,
-    "prob_class_0": 0.48004621267318726,
-    "prob_class_1": 0.5199537873268127,
+    "predicted_class": 0,
+    "confidence": 0.5690455138683319,
+    "prob_class_0": 0.5690455138683319,
+    "prob_class_1": 0.4309544861316681,
     "true_label": 0
   },
   {
@@ -577,9 +577,9 @@
     "image_name": "58_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.526332288980484,
-    "prob_class_0": 0.526332288980484,
-    "prob_class_1": 0.473667711019516,
+    "confidence": 0.616908609867096,
+    "prob_class_0": 0.616908609867096,
+    "prob_class_1": 0.38309139013290405,
     "true_label": 0
   },
   {
@@ -588,9 +588,9 @@
     "image_name": "59_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5302586853504181,
-    "prob_class_0": 0.5302586853504181,
-    "prob_class_1": 0.4697413146495819,
+    "confidence": 0.512583464384079,
+    "prob_class_0": 0.512583464384079,
+    "prob_class_1": 0.487416535615921,
     "true_label": 0
   },
   {
@@ -599,9 +599,9 @@
     "image_name": "5_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.529668927192688,
-    "prob_class_0": 0.470331072807312,
-    "prob_class_1": 0.529668927192688,
+    "confidence": 0.7274415493011475,
+    "prob_class_0": 0.27255845069885254,
+    "prob_class_1": 0.7274415493011475,
     "true_label": 0
   },
   {
@@ -610,9 +610,9 @@
     "image_name": "60_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5071795284748077,
-    "prob_class_0": 0.5071795284748077,
-    "prob_class_1": 0.49282047152519226,
+    "confidence": 0.5333886444568634,
+    "prob_class_0": 0.5333886444568634,
+    "prob_class_1": 0.4666113555431366,
     "true_label": 0
   },
   {
@@ -621,9 +621,9 @@
     "image_name": "61_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5014370381832123,
-    "prob_class_0": 0.5014370381832123,
-    "prob_class_1": 0.4985629618167877,
+    "confidence": 0.6779899001121521,
+    "prob_class_0": 0.6779899001121521,
+    "prob_class_1": 0.3220100998878479,
     "true_label": 0
   },
   {
@@ -631,10 +631,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/62_Benign_center2.png",
     "image_name": "62_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5176498889923096,
-    "prob_class_0": 0.48235011100769043,
-    "prob_class_1": 0.5176498889923096,
+    "predicted_class": 0,
+    "confidence": 0.6840602457523346,
+    "prob_class_0": 0.6840602457523346,
+    "prob_class_1": 0.3159397542476654,
     "true_label": 0
   },
   {
@@ -642,10 +642,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/63_Benign_center2.png",
     "image_name": "63_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5075929760932922,
-    "prob_class_0": 0.5075929760932922,
-    "prob_class_1": 0.49240702390670776,
+    "predicted_class": 1,
+    "confidence": 0.5443280935287476,
+    "prob_class_0": 0.45567190647125244,
+    "prob_class_1": 0.5443280935287476,
     "true_label": 0
   },
   {
@@ -653,10 +653,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/64_Benign_center2.png",
     "image_name": "64_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5024293661117554,
-    "prob_class_0": 0.49757063388824463,
-    "prob_class_1": 0.5024293661117554,
+    "predicted_class": 0,
+    "confidence": 0.5374360680580139,
+    "prob_class_0": 0.5374360680580139,
+    "prob_class_1": 0.4625639319419861,
     "true_label": 0
   },
   {
@@ -665,9 +665,9 @@
     "image_name": "65_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5020679533481598,
-    "prob_class_0": 0.5020679533481598,
-    "prob_class_1": 0.4979320466518402,
+    "confidence": 0.5217353999614716,
+    "prob_class_0": 0.5217353999614716,
+    "prob_class_1": 0.47826460003852844,
     "true_label": 0
   },
   {
@@ -675,10 +675,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/66_Benign_center2.png",
     "image_name": "66_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5073729157447815,
-    "prob_class_0": 0.5073729157447815,
-    "prob_class_1": 0.4926270842552185,
+    "predicted_class": 1,
+    "confidence": 0.6858868598937988,
+    "prob_class_0": 0.31411314010620117,
+    "prob_class_1": 0.6858868598937988,
     "true_label": 0
   },
   {
@@ -687,9 +687,9 @@
     "image_name": "67_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5028993487358093,
-    "prob_class_0": 0.4971006512641907,
-    "prob_class_1": 0.5028993487358093,
+    "confidence": 0.7097995281219482,
+    "prob_class_0": 0.29020047187805176,
+    "prob_class_1": 0.7097995281219482,
     "true_label": 0
   },
   {
@@ -697,10 +697,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/68_Benign_center2.png",
     "image_name": "68_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5346370935440063,
-    "prob_class_0": 0.46536290645599365,
-    "prob_class_1": 0.5346370935440063,
+    "predicted_class": 0,
+    "confidence": 0.6543624699115753,
+    "prob_class_0": 0.6543624699115753,
+    "prob_class_1": 0.3456375300884247,
     "true_label": 0
   },
   {
@@ -709,9 +709,9 @@
     "image_name": "69_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5381054282188416,
-    "prob_class_0": 0.46189457178115845,
-    "prob_class_1": 0.5381054282188416,
+    "confidence": 0.5086523294448853,
+    "prob_class_0": 0.49134767055511475,
+    "prob_class_1": 0.5086523294448853,
     "true_label": 0
   },
   {
@@ -719,10 +719,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/6_Benign_center2.png",
     "image_name": "6_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5373318195343018,
-    "prob_class_0": 0.46266818046569824,
-    "prob_class_1": 0.5373318195343018,
+    "predicted_class": 0,
+    "confidence": 0.638707160949707,
+    "prob_class_0": 0.638707160949707,
+    "prob_class_1": 0.36129283905029297,
     "true_label": 0
   },
   {
@@ -731,9 +731,9 @@
     "image_name": "70_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5535227656364441,
-    "prob_class_0": 0.4464772343635559,
-    "prob_class_1": 0.5535227656364441,
+    "confidence": 0.6325024366378784,
+    "prob_class_0": 0.3674975633621216,
+    "prob_class_1": 0.6325024366378784,
     "true_label": 0
   },
   {
@@ -741,10 +741,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/71_Benign_center2.png",
     "image_name": "71_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5170844793319702,
-    "prob_class_0": 0.4829155206680298,
-    "prob_class_1": 0.5170844793319702,
+    "predicted_class": 0,
+    "confidence": 0.7411668002605438,
+    "prob_class_0": 0.7411668002605438,
+    "prob_class_1": 0.2588331997394562,
     "true_label": 0
   },
   {
@@ -752,10 +752,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/72_Benign_center2.png",
     "image_name": "72_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5312389135360718,
-    "prob_class_0": 0.4687610864639282,
-    "prob_class_1": 0.5312389135360718,
+    "predicted_class": 0,
+    "confidence": 0.6749772429466248,
+    "prob_class_0": 0.6749772429466248,
+    "prob_class_1": 0.32502275705337524,
     "true_label": 0
   },
   {
@@ -763,10 +763,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/73_Benign_center2.png",
     "image_name": "73_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5192695260047913,
-    "prob_class_0": 0.5192695260047913,
-    "prob_class_1": 0.48073047399520874,
+    "predicted_class": 1,
+    "confidence": 0.6624475121498108,
+    "prob_class_0": 0.3375524878501892,
+    "prob_class_1": 0.6624475121498108,
     "true_label": 0
   },
   {
@@ -774,10 +774,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/74_Benign_center2.png",
     "image_name": "74_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5182492733001709,
-    "prob_class_0": 0.4817507266998291,
-    "prob_class_1": 0.5182492733001709,
+    "predicted_class": 0,
+    "confidence": 0.7464686632156372,
+    "prob_class_0": 0.7464686632156372,
+    "prob_class_1": 0.2535313367843628,
     "true_label": 0
   },
   {
@@ -786,9 +786,9 @@
     "image_name": "75_Benign_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5024495720863342,
-    "prob_class_0": 0.49755042791366577,
-    "prob_class_1": 0.5024495720863342,
+    "confidence": 0.5854724049568176,
+    "prob_class_0": 0.4145275950431824,
+    "prob_class_1": 0.5854724049568176,
     "true_label": 0
   },
   {
@@ -796,10 +796,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/76_Benign_center2.png",
     "image_name": "76_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5346943736076355,
-    "prob_class_0": 0.4653056263923645,
-    "prob_class_1": 0.5346943736076355,
+    "predicted_class": 0,
+    "confidence": 0.6242500245571136,
+    "prob_class_0": 0.6242500245571136,
+    "prob_class_1": 0.37574997544288635,
     "true_label": 0
   },
   {
@@ -807,10 +807,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/7_Benign_center2.png",
     "image_name": "7_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5381589531898499,
-    "prob_class_0": 0.46184104681015015,
-    "prob_class_1": 0.5381589531898499,
+    "predicted_class": 0,
+    "confidence": 0.587293803691864,
+    "prob_class_0": 0.587293803691864,
+    "prob_class_1": 0.412706196308136,
     "true_label": 0
   },
   {
@@ -818,10 +818,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/8_Benign_center2.png",
     "image_name": "8_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5298922061920166,
-    "prob_class_0": 0.4701077938079834,
-    "prob_class_1": 0.5298922061920166,
+    "predicted_class": 0,
+    "confidence": 0.7381796836853027,
+    "prob_class_0": 0.7381796836853027,
+    "prob_class_1": 0.26182031631469727,
     "true_label": 0
   },
   {
@@ -829,10 +829,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/0/9_Benign_center2.png",
     "image_name": "9_Benign_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5071876347064972,
-    "prob_class_0": 0.5071876347064972,
-    "prob_class_1": 0.4928123652935028,
+    "predicted_class": 1,
+    "confidence": 0.6299877166748047,
+    "prob_class_0": 0.3700122833251953,
+    "prob_class_1": 0.6299877166748047,
     "true_label": 0
   },
   {
@@ -840,10 +840,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/10_Malignant_center2.png",
     "image_name": "10_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5106824040412903,
-    "prob_class_0": 0.4893175959587097,
-    "prob_class_1": 0.5106824040412903,
+    "predicted_class": 0,
+    "confidence": 0.6147222518920898,
+    "prob_class_0": 0.6147222518920898,
+    "prob_class_1": 0.38527774810791016,
     "true_label": 1
   },
   {
@@ -851,10 +851,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/11_Malignant_center2.png",
     "image_name": "11_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5187590718269348,
-    "prob_class_0": 0.4812409281730652,
-    "prob_class_1": 0.5187590718269348,
+    "predicted_class": 0,
+    "confidence": 0.6648009121417999,
+    "prob_class_0": 0.6648009121417999,
+    "prob_class_1": 0.3351990878582001,
     "true_label": 1
   },
   {
@@ -863,9 +863,9 @@
     "image_name": "12_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.552248477935791,
-    "prob_class_0": 0.447751522064209,
-    "prob_class_1": 0.552248477935791,
+    "confidence": 0.7067517638206482,
+    "prob_class_0": 0.2932482361793518,
+    "prob_class_1": 0.7067517638206482,
     "true_label": 1
   },
   {
@@ -873,10 +873,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/13_Malignant_center2.png",
     "image_name": "13_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5273522734642029,
-    "prob_class_0": 0.5273522734642029,
-    "prob_class_1": 0.4726477265357971,
+    "predicted_class": 1,
+    "confidence": 0.7980473637580872,
+    "prob_class_0": 0.20195263624191284,
+    "prob_class_1": 0.7980473637580872,
     "true_label": 1
   },
   {
@@ -884,10 +884,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/14_Malignant_center2.png",
     "image_name": "14_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5146108269691467,
-    "prob_class_0": 0.48538917303085327,
-    "prob_class_1": 0.5146108269691467,
+    "predicted_class": 0,
+    "confidence": 0.6090715825557709,
+    "prob_class_0": 0.6090715825557709,
+    "prob_class_1": 0.3909284174442291,
     "true_label": 1
   },
   {
@@ -895,10 +895,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/15_Malignant_center2.png",
     "image_name": "15_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5008875131607056,
-    "prob_class_0": 0.5008875131607056,
-    "prob_class_1": 0.49911248683929443,
+    "predicted_class": 1,
+    "confidence": 0.8345348834991455,
+    "prob_class_0": 0.1654651165008545,
+    "prob_class_1": 0.8345348834991455,
     "true_label": 1
   },
   {
@@ -906,10 +906,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/16_Malignant_center2.png",
     "image_name": "16_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5339765548706055,
-    "prob_class_0": 0.5339765548706055,
-    "prob_class_1": 0.46602344512939453,
+    "predicted_class": 1,
+    "confidence": 0.5797774791717529,
+    "prob_class_0": 0.42022252082824707,
+    "prob_class_1": 0.5797774791717529,
     "true_label": 1
   },
   {
@@ -917,10 +917,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/17_Malignant_center2.png",
     "image_name": "17_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5240761041641235,
-    "prob_class_0": 0.5240761041641235,
-    "prob_class_1": 0.47592389583587646,
+    "predicted_class": 1,
+    "confidence": 0.5972778797149658,
+    "prob_class_0": 0.4027221202850342,
+    "prob_class_1": 0.5972778797149658,
     "true_label": 1
   },
   {
@@ -929,9 +929,9 @@
     "image_name": "18_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5361877083778381,
-    "prob_class_0": 0.46381229162216187,
-    "prob_class_1": 0.5361877083778381,
+    "confidence": 0.6592106819152832,
+    "prob_class_0": 0.3407893180847168,
+    "prob_class_1": 0.6592106819152832,
     "true_label": 1
   },
   {
@@ -940,9 +940,9 @@
     "image_name": "19_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5188945531845093,
-    "prob_class_0": 0.4811054468154907,
-    "prob_class_1": 0.5188945531845093,
+    "confidence": 0.6361131072044373,
+    "prob_class_0": 0.36388689279556274,
+    "prob_class_1": 0.6361131072044373,
     "true_label": 1
   },
   {
@@ -950,10 +950,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/1_Malignant_center2.png",
     "image_name": "1_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5159741044044495,
-    "prob_class_0": 0.5159741044044495,
-    "prob_class_1": 0.48402589559555054,
+    "predicted_class": 1,
+    "confidence": 0.7695023417472839,
+    "prob_class_0": 0.23049765825271606,
+    "prob_class_1": 0.7695023417472839,
     "true_label": 1
   },
   {
@@ -962,9 +962,9 @@
     "image_name": "20_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5126248598098755,
-    "prob_class_0": 0.4873751401901245,
-    "prob_class_1": 0.5126248598098755,
+    "confidence": 0.6279720067977905,
+    "prob_class_0": 0.3720279932022095,
+    "prob_class_1": 0.6279720067977905,
     "true_label": 1
   },
   {
@@ -973,9 +973,9 @@
     "image_name": "21_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5333389639854431,
-    "prob_class_0": 0.4666610360145569,
-    "prob_class_1": 0.5333389639854431,
+    "confidence": 0.6717365980148315,
+    "prob_class_0": 0.32826340198516846,
+    "prob_class_1": 0.6717365980148315,
     "true_label": 1
   },
   {
@@ -984,9 +984,9 @@
     "image_name": "22_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5114639103412628,
-    "prob_class_0": 0.5114639103412628,
-    "prob_class_1": 0.4885360896587372,
+    "confidence": 0.7124301195144653,
+    "prob_class_0": 0.7124301195144653,
+    "prob_class_1": 0.28756988048553467,
     "true_label": 1
   },
   {
@@ -994,10 +994,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/23_Malignant_center2.png",
     "image_name": "23_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5084433853626251,
-    "prob_class_0": 0.5084433853626251,
-    "prob_class_1": 0.4915566146373749,
+    "predicted_class": 1,
+    "confidence": 0.8241727948188782,
+    "prob_class_0": 0.17582720518112183,
+    "prob_class_1": 0.8241727948188782,
     "true_label": 1
   },
   {
@@ -1006,9 +1006,9 @@
     "image_name": "24_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5125534534454346,
-    "prob_class_0": 0.48744654655456543,
-    "prob_class_1": 0.5125534534454346,
+    "confidence": 0.5254464149475098,
+    "prob_class_0": 0.47455358505249023,
+    "prob_class_1": 0.5254464149475098,
     "true_label": 1
   },
   {
@@ -1017,9 +1017,9 @@
     "image_name": "25_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5085930824279785,
-    "prob_class_0": 0.4914069175720215,
-    "prob_class_1": 0.5085930824279785,
+    "confidence": 0.7430857419967651,
+    "prob_class_0": 0.25691425800323486,
+    "prob_class_1": 0.7430857419967651,
     "true_label": 1
   },
   {
@@ -1028,9 +1028,9 @@
     "image_name": "26_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5147822499275208,
-    "prob_class_0": 0.5147822499275208,
-    "prob_class_1": 0.48521775007247925,
+    "confidence": 0.5134615302085876,
+    "prob_class_0": 0.5134615302085876,
+    "prob_class_1": 0.48653846979141235,
     "true_label": 1
   },
   {
@@ -1038,10 +1038,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/27_Malignant_center2.png",
     "image_name": "27_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5174935758113861,
-    "prob_class_0": 0.5174935758113861,
-    "prob_class_1": 0.4825064241886139,
+    "predicted_class": 1,
+    "confidence": 0.5985515713691711,
+    "prob_class_0": 0.40144842863082886,
+    "prob_class_1": 0.5985515713691711,
     "true_label": 1
   },
   {
@@ -1050,9 +1050,9 @@
     "image_name": "28_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5057152509689331,
-    "prob_class_0": 0.4942847490310669,
-    "prob_class_1": 0.5057152509689331,
+    "confidence": 0.5694474577903748,
+    "prob_class_0": 0.43055254220962524,
+    "prob_class_1": 0.5694474577903748,
     "true_label": 1
   },
   {
@@ -1061,9 +1061,9 @@
     "image_name": "29_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5088115334510803,
-    "prob_class_0": 0.4911884665489197,
-    "prob_class_1": 0.5088115334510803,
+    "confidence": 0.5270457863807678,
+    "prob_class_0": 0.4729542136192322,
+    "prob_class_1": 0.5270457863807678,
     "true_label": 1
   },
   {
@@ -1072,9 +1072,9 @@
     "image_name": "2_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5052883625030518,
-    "prob_class_0": 0.49471163749694824,
-    "prob_class_1": 0.5052883625030518,
+    "confidence": 0.7632842659950256,
+    "prob_class_0": 0.23671573400497437,
+    "prob_class_1": 0.7632842659950256,
     "true_label": 1
   },
   {
@@ -1082,10 +1082,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/30_Malignant_center2.png",
     "image_name": "30_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.518897294998169,
-    "prob_class_0": 0.48110270500183105,
-    "prob_class_1": 0.518897294998169,
+    "predicted_class": 0,
+    "confidence": 0.5580182373523712,
+    "prob_class_0": 0.5580182373523712,
+    "prob_class_1": 0.4419817626476288,
     "true_label": 1
   },
   {
@@ -1093,10 +1093,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/31_Malignant_center2.png",
     "image_name": "31_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5105606913566589,
-    "prob_class_0": 0.48943930864334106,
-    "prob_class_1": 0.5105606913566589,
+    "predicted_class": 0,
+    "confidence": 0.6140734851360321,
+    "prob_class_0": 0.6140734851360321,
+    "prob_class_1": 0.3859265148639679,
     "true_label": 1
   },
   {
@@ -1104,10 +1104,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/32_Malignant_center2.png",
     "image_name": "32_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5313032269477844,
-    "prob_class_0": 0.5313032269477844,
-    "prob_class_1": 0.4686967730522156,
+    "predicted_class": 1,
+    "confidence": 0.658381998538971,
+    "prob_class_0": 0.34161800146102905,
+    "prob_class_1": 0.658381998538971,
     "true_label": 1
   },
   {
@@ -1116,9 +1116,9 @@
     "image_name": "33_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5094818472862244,
-    "prob_class_0": 0.49051815271377563,
-    "prob_class_1": 0.5094818472862244,
+    "confidence": 0.5177341103553772,
+    "prob_class_0": 0.4822658896446228,
+    "prob_class_1": 0.5177341103553772,
     "true_label": 1
   },
   {
@@ -1127,9 +1127,9 @@
     "image_name": "34_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5036312341690063,
-    "prob_class_0": 0.49636876583099365,
-    "prob_class_1": 0.5036312341690063,
+    "confidence": 0.6793695092201233,
+    "prob_class_0": 0.3206304907798767,
+    "prob_class_1": 0.6793695092201233,
     "true_label": 1
   },
   {
@@ -1138,9 +1138,9 @@
     "image_name": "35_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5209364295005798,
-    "prob_class_0": 0.47906357049942017,
-    "prob_class_1": 0.5209364295005798,
+    "confidence": 0.5318605899810791,
+    "prob_class_0": 0.4681394100189209,
+    "prob_class_1": 0.5318605899810791,
     "true_label": 1
   },
   {
@@ -1149,9 +1149,9 @@
     "image_name": "36_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.526176929473877,
-    "prob_class_0": 0.47382307052612305,
-    "prob_class_1": 0.526176929473877,
+    "confidence": 0.5416120290756226,
+    "prob_class_0": 0.45838797092437744,
+    "prob_class_1": 0.5416120290756226,
     "true_label": 1
   },
   {
@@ -1160,9 +1160,9 @@
     "image_name": "37_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5000656247138977,
-    "prob_class_0": 0.4999343752861023,
-    "prob_class_1": 0.5000656247138977,
+    "confidence": 0.6629136800765991,
+    "prob_class_0": 0.3370863199234009,
+    "prob_class_1": 0.6629136800765991,
     "true_label": 1
   },
   {
@@ -1170,10 +1170,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/38_Malignant_center2.png",
     "image_name": "38_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.501260370016098,
-    "prob_class_0": 0.501260370016098,
-    "prob_class_1": 0.498739629983902,
+    "predicted_class": 1,
+    "confidence": 0.7794791460037231,
+    "prob_class_0": 0.22052085399627686,
+    "prob_class_1": 0.7794791460037231,
     "true_label": 1
   },
   {
@@ -1182,9 +1182,9 @@
     "image_name": "39_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5058240294456482,
-    "prob_class_0": 0.4941759705543518,
-    "prob_class_1": 0.5058240294456482,
+    "confidence": 0.5081320405006409,
+    "prob_class_0": 0.49186795949935913,
+    "prob_class_1": 0.5081320405006409,
     "true_label": 1
   },
   {
@@ -1193,9 +1193,9 @@
     "image_name": "3_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5326941609382629,
-    "prob_class_0": 0.46730583906173706,
-    "prob_class_1": 0.5326941609382629,
+    "confidence": 0.5283344984054565,
+    "prob_class_0": 0.47166550159454346,
+    "prob_class_1": 0.5283344984054565,
     "true_label": 1
   },
   {
@@ -1203,10 +1203,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/40_Malignant_center2.png",
     "image_name": "40_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5059746503829956,
-    "prob_class_0": 0.5059746503829956,
-    "prob_class_1": 0.4940253496170044,
+    "predicted_class": 1,
+    "confidence": 0.8141077756881714,
+    "prob_class_0": 0.1858922243118286,
+    "prob_class_1": 0.8141077756881714,
     "true_label": 1
   },
   {
@@ -1214,10 +1214,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/41_Malignant_center2.png",
     "image_name": "41_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5084260106086731,
-    "prob_class_0": 0.4915739893913269,
-    "prob_class_1": 0.5084260106086731,
+    "predicted_class": 0,
+    "confidence": 0.5389490723609924,
+    "prob_class_0": 0.5389490723609924,
+    "prob_class_1": 0.46105092763900757,
     "true_label": 1
   },
   {
@@ -1226,9 +1226,9 @@
     "image_name": "42_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.512718141078949,
-    "prob_class_0": 0.487281858921051,
-    "prob_class_1": 0.512718141078949,
+    "confidence": 0.6267430186271667,
+    "prob_class_0": 0.37325698137283325,
+    "prob_class_1": 0.6267430186271667,
     "true_label": 1
   },
   {
@@ -1236,10 +1236,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/43_Malignant_center2.png",
     "image_name": "43_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5231976807117462,
-    "prob_class_0": 0.5231976807117462,
-    "prob_class_1": 0.4768023192882538,
+    "predicted_class": 1,
+    "confidence": 0.5723904967308044,
+    "prob_class_0": 0.42760950326919556,
+    "prob_class_1": 0.5723904967308044,
     "true_label": 1
   },
   {
@@ -1248,9 +1248,9 @@
     "image_name": "44_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5154253840446472,
-    "prob_class_0": 0.4845746159553528,
-    "prob_class_1": 0.5154253840446472,
+    "confidence": 0.5896607637405396,
+    "prob_class_0": 0.41033923625946045,
+    "prob_class_1": 0.5896607637405396,
     "true_label": 1
   },
   {
@@ -1258,10 +1258,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/45_Malignant_center2.png",
     "image_name": "45_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5296679437160492,
-    "prob_class_0": 0.5296679437160492,
-    "prob_class_1": 0.4703320562839508,
+    "predicted_class": 1,
+    "confidence": 0.6912147998809814,
+    "prob_class_0": 0.30878520011901855,
+    "prob_class_1": 0.6912147998809814,
     "true_label": 1
   },
   {
@@ -1270,9 +1270,9 @@
     "image_name": "46_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5386618971824646,
-    "prob_class_0": 0.4613381028175354,
-    "prob_class_1": 0.5386618971824646,
+    "confidence": 0.53871089220047,
+    "prob_class_0": 0.46128910779953003,
+    "prob_class_1": 0.53871089220047,
     "true_label": 1
   },
   {
@@ -1280,10 +1280,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/47_Malignant_center2.png",
     "image_name": "47_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5025445818901062,
-    "prob_class_0": 0.5025445818901062,
-    "prob_class_1": 0.4974554181098938,
+    "predicted_class": 1,
+    "confidence": 0.6280208230018616,
+    "prob_class_0": 0.3719791769981384,
+    "prob_class_1": 0.6280208230018616,
     "true_label": 1
   },
   {
@@ -1292,9 +1292,9 @@
     "image_name": "48_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5018399953842163,
-    "prob_class_0": 0.4981600046157837,
-    "prob_class_1": 0.5018399953842163,
+    "confidence": 0.6478853821754456,
+    "prob_class_0": 0.35211461782455444,
+    "prob_class_1": 0.6478853821754456,
     "true_label": 1
   },
   {
@@ -1303,9 +1303,9 @@
     "image_name": "49_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5529651045799255,
-    "prob_class_0": 0.44703489542007446,
-    "prob_class_1": 0.5529651045799255,
+    "confidence": 0.5729256868362427,
+    "prob_class_0": 0.4270743131637573,
+    "prob_class_1": 0.5729256868362427,
     "true_label": 1
   },
   {
@@ -1313,10 +1313,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/4_Malignant_center2.png",
     "image_name": "4_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5070058107376099,
-    "prob_class_0": 0.5070058107376099,
-    "prob_class_1": 0.49299418926239014,
+    "predicted_class": 1,
+    "confidence": 0.5708146095275879,
+    "prob_class_0": 0.4291853904724121,
+    "prob_class_1": 0.5708146095275879,
     "true_label": 1
   },
   {
@@ -1325,9 +1325,9 @@
     "image_name": "50_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5423983335494995,
-    "prob_class_0": 0.4576016664505005,
-    "prob_class_1": 0.5423983335494995,
+    "confidence": 0.6111823320388794,
+    "prob_class_0": 0.3888176679611206,
+    "prob_class_1": 0.6111823320388794,
     "true_label": 1
   },
   {
@@ -1335,10 +1335,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/51_Malignant_center2.png",
     "image_name": "51_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.542456865310669,
-    "prob_class_0": 0.45754313468933105,
-    "prob_class_1": 0.542456865310669,
+    "predicted_class": 0,
+    "confidence": 0.6494850516319275,
+    "prob_class_0": 0.6494850516319275,
+    "prob_class_1": 0.3505149483680725,
     "true_label": 1
   },
   {
@@ -1347,9 +1347,9 @@
     "image_name": "52_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5190557837486267,
-    "prob_class_0": 0.4809442162513733,
-    "prob_class_1": 0.5190557837486267,
+    "confidence": 0.5954786539077759,
+    "prob_class_0": 0.4045213460922241,
+    "prob_class_1": 0.5954786539077759,
     "true_label": 1
   },
   {
@@ -1357,10 +1357,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/53_Malignant_center2.png",
     "image_name": "53_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5234963297843933,
-    "prob_class_0": 0.4765036702156067,
-    "prob_class_1": 0.5234963297843933,
+    "predicted_class": 0,
+    "confidence": 0.7263382971286774,
+    "prob_class_0": 0.7263382971286774,
+    "prob_class_1": 0.27366170287132263,
     "true_label": 1
   },
   {
@@ -1368,10 +1368,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/54_Malignant_center2.png",
     "image_name": "54_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5164546966552734,
-    "prob_class_0": 0.5164546966552734,
-    "prob_class_1": 0.48354530334472656,
+    "predicted_class": 1,
+    "confidence": 0.7900300025939941,
+    "prob_class_0": 0.20996999740600586,
+    "prob_class_1": 0.7900300025939941,
     "true_label": 1
   },
   {
@@ -1380,9 +1380,9 @@
     "image_name": "55_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5118615031242371,
-    "prob_class_0": 0.48813849687576294,
-    "prob_class_1": 0.5118615031242371,
+    "confidence": 0.6874635815620422,
+    "prob_class_0": 0.31253641843795776,
+    "prob_class_1": 0.6874635815620422,
     "true_label": 1
   },
   {
@@ -1390,10 +1390,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/56_Malignant_center2.png",
     "image_name": "56_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5114191770553589,
-    "prob_class_0": 0.5114191770553589,
-    "prob_class_1": 0.4885808229446411,
+    "predicted_class": 1,
+    "confidence": 0.7921517491340637,
+    "prob_class_0": 0.20784825086593628,
+    "prob_class_1": 0.7921517491340637,
     "true_label": 1
   },
   {
@@ -1402,9 +1402,9 @@
     "image_name": "57_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5098139643669128,
-    "prob_class_0": 0.49018603563308716,
-    "prob_class_1": 0.5098139643669128,
+    "confidence": 0.5472051501274109,
+    "prob_class_0": 0.4527948498725891,
+    "prob_class_1": 0.5472051501274109,
     "true_label": 1
   },
   {
@@ -1412,10 +1412,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/58_Malignant_center2.png",
     "image_name": "58_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5263258218765259,
-    "prob_class_0": 0.5263258218765259,
-    "prob_class_1": 0.4736741781234741,
+    "predicted_class": 1,
+    "confidence": 0.7161274552345276,
+    "prob_class_0": 0.2838725447654724,
+    "prob_class_1": 0.7161274552345276,
     "true_label": 1
   },
   {
@@ -1424,9 +1424,9 @@
     "image_name": "59_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5015000104904175,
-    "prob_class_0": 0.4984999895095825,
-    "prob_class_1": 0.5015000104904175,
+    "confidence": 0.553371787071228,
+    "prob_class_0": 0.446628212928772,
+    "prob_class_1": 0.553371787071228,
     "true_label": 1
   },
   {
@@ -1435,9 +1435,9 @@
     "image_name": "5_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5467811822891235,
-    "prob_class_0": 0.45321881771087646,
-    "prob_class_1": 0.5467811822891235,
+    "confidence": 0.7264482378959656,
+    "prob_class_0": 0.2735517621040344,
+    "prob_class_1": 0.7264482378959656,
     "true_label": 1
   },
   {
@@ -1446,9 +1446,9 @@
     "image_name": "60_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5034053921699524,
-    "prob_class_0": 0.5034053921699524,
-    "prob_class_1": 0.4965946078300476,
+    "confidence": 0.6118385791778564,
+    "prob_class_0": 0.6118385791778564,
+    "prob_class_1": 0.38816142082214355,
     "true_label": 1
   },
   {
@@ -1456,10 +1456,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/61_Malignant_center2.png",
     "image_name": "61_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5181766152381897,
-    "prob_class_0": 0.4818233847618103,
-    "prob_class_1": 0.5181766152381897,
+    "predicted_class": 0,
+    "confidence": 0.5007203221321106,
+    "prob_class_0": 0.5007203221321106,
+    "prob_class_1": 0.4992796778678894,
     "true_label": 1
   },
   {
@@ -1467,10 +1467,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/62_Malignant_center2.png",
     "image_name": "62_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5141199231147766,
-    "prob_class_0": 0.4858800768852234,
-    "prob_class_1": 0.5141199231147766,
+    "predicted_class": 0,
+    "confidence": 0.7034749686717987,
+    "prob_class_0": 0.7034749686717987,
+    "prob_class_1": 0.2965250313282013,
     "true_label": 1
   },
   {
@@ -1478,10 +1478,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/63_Malignant_center2.png",
     "image_name": "63_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.512340247631073,
-    "prob_class_0": 0.512340247631073,
-    "prob_class_1": 0.487659752368927,
+    "predicted_class": 1,
+    "confidence": 0.7812677025794983,
+    "prob_class_0": 0.2187322974205017,
+    "prob_class_1": 0.7812677025794983,
     "true_label": 1
   },
   {
@@ -1489,10 +1489,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/64_Malignant_center2.png",
     "image_name": "64_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5579681992530823,
-    "prob_class_0": 0.4420318007469177,
-    "prob_class_1": 0.5579681992530823,
+    "predicted_class": 0,
+    "confidence": 0.5039048194885254,
+    "prob_class_0": 0.5039048194885254,
+    "prob_class_1": 0.4960951805114746,
     "true_label": 1
   },
   {
@@ -1500,10 +1500,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/65_Malignant_center2.png",
     "image_name": "65_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5203599035739899,
-    "prob_class_0": 0.5203599035739899,
-    "prob_class_1": 0.47964009642601013,
+    "predicted_class": 1,
+    "confidence": 0.5962616205215454,
+    "prob_class_0": 0.4037383794784546,
+    "prob_class_1": 0.5962616205215454,
     "true_label": 1
   },
   {
@@ -1511,10 +1511,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/66_Malignant_center2.png",
     "image_name": "66_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5422347486019135,
-    "prob_class_0": 0.5422347486019135,
-    "prob_class_1": 0.45776525139808655,
+    "predicted_class": 1,
+    "confidence": 0.7819150686264038,
+    "prob_class_0": 0.2180849313735962,
+    "prob_class_1": 0.7819150686264038,
     "true_label": 1
   },
   {
@@ -1523,9 +1523,9 @@
     "image_name": "67_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.522943377494812,
-    "prob_class_0": 0.477056622505188,
-    "prob_class_1": 0.522943377494812,
+    "confidence": 0.5781870484352112,
+    "prob_class_0": 0.4218129515647888,
+    "prob_class_1": 0.5781870484352112,
     "true_label": 1
   },
   {
@@ -1533,10 +1533,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/68_Malignant_center2.png",
     "image_name": "68_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5180533230304718,
-    "prob_class_0": 0.5180533230304718,
-    "prob_class_1": 0.4819466769695282,
+    "predicted_class": 1,
+    "confidence": 0.7306666374206543,
+    "prob_class_0": 0.2693333625793457,
+    "prob_class_1": 0.7306666374206543,
     "true_label": 1
   },
   {
@@ -1545,9 +1545,9 @@
     "image_name": "69_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5182798504829407,
-    "prob_class_0": 0.4817201495170593,
-    "prob_class_1": 0.5182798504829407,
+    "confidence": 0.6008943319320679,
+    "prob_class_0": 0.39910566806793213,
+    "prob_class_1": 0.6008943319320679,
     "true_label": 1
   },
   {
@@ -1555,10 +1555,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/6_Malignant_center2.png",
     "image_name": "6_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5234199464321136,
-    "prob_class_0": 0.5234199464321136,
-    "prob_class_1": 0.47658005356788635,
+    "predicted_class": 1,
+    "confidence": 0.779646635055542,
+    "prob_class_0": 0.220353364944458,
+    "prob_class_1": 0.779646635055542,
     "true_label": 1
   },
   {
@@ -1567,9 +1567,9 @@
     "image_name": "70_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5324087738990784,
-    "prob_class_0": 0.46759122610092163,
-    "prob_class_1": 0.5324087738990784,
+    "confidence": 0.65984708070755,
+    "prob_class_0": 0.34015291929244995,
+    "prob_class_1": 0.65984708070755,
     "true_label": 1
   },
   {
@@ -1578,9 +1578,9 @@
     "image_name": "71_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5101720094680786,
-    "prob_class_0": 0.4898279905319214,
-    "prob_class_1": 0.5101720094680786,
+    "confidence": 0.5318729877471924,
+    "prob_class_0": 0.4681270122528076,
+    "prob_class_1": 0.5318729877471924,
     "true_label": 1
   },
   {
@@ -1589,9 +1589,9 @@
     "image_name": "72_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5034193396568298,
-    "prob_class_0": 0.5034193396568298,
-    "prob_class_1": 0.49658066034317017,
+    "confidence": 0.5077295005321503,
+    "prob_class_0": 0.5077295005321503,
+    "prob_class_1": 0.49227049946784973,
     "true_label": 1
   },
   {
@@ -1600,9 +1600,9 @@
     "image_name": "73_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5062112808227539,
-    "prob_class_0": 0.4937887191772461,
-    "prob_class_1": 0.5062112808227539,
+    "confidence": 0.8243935704231262,
+    "prob_class_0": 0.17560642957687378,
+    "prob_class_1": 0.8243935704231262,
     "true_label": 1
   },
   {
@@ -1610,10 +1610,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/74_Malignant_center2.png",
     "image_name": "74_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.529296875,
-    "prob_class_0": 0.470703125,
-    "prob_class_1": 0.529296875,
+    "predicted_class": 0,
+    "confidence": 0.7105035781860352,
+    "prob_class_0": 0.7105035781860352,
+    "prob_class_1": 0.28949642181396484,
     "true_label": 1
   },
   {
@@ -1621,10 +1621,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/75_Malignant_center2.png",
     "image_name": "75_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5045871138572693,
-    "prob_class_0": 0.4954128861427307,
-    "prob_class_1": 0.5045871138572693,
+    "predicted_class": 0,
+    "confidence": 0.5606213808059692,
+    "prob_class_0": 0.5606213808059692,
+    "prob_class_1": 0.43937861919403076,
     "true_label": 1
   },
   {
@@ -1632,10 +1632,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/76_Malignant_center2.png",
     "image_name": "76_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5166693329811096,
-    "prob_class_0": 0.4833306670188904,
-    "prob_class_1": 0.5166693329811096,
+    "predicted_class": 0,
+    "confidence": 0.6318168640136719,
+    "prob_class_0": 0.6318168640136719,
+    "prob_class_1": 0.3681831359863281,
     "true_label": 1
   },
   {
@@ -1643,10 +1643,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/77_Malignant_center2.png",
     "image_name": "77_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5256259441375732,
-    "prob_class_0": 0.47437405586242676,
-    "prob_class_1": 0.5256259441375732,
+    "predicted_class": 0,
+    "confidence": 0.7832103371620178,
+    "prob_class_0": 0.7832103371620178,
+    "prob_class_1": 0.21678966283798218,
     "true_label": 1
   },
   {
@@ -1654,10 +1654,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/78_Malignant_center2.png",
     "image_name": "78_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5443819761276245,
-    "prob_class_0": 0.4556180238723755,
-    "prob_class_1": 0.5443819761276245,
+    "predicted_class": 0,
+    "confidence": 0.755283772945404,
+    "prob_class_0": 0.755283772945404,
+    "prob_class_1": 0.24471622705459595,
     "true_label": 1
   },
   {
@@ -1665,10 +1665,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/79_Malignant_center2.png",
     "image_name": "79_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5478190183639526,
-    "prob_class_0": 0.45218098163604736,
-    "prob_class_1": 0.5478190183639526,
+    "predicted_class": 0,
+    "confidence": 0.7289160192012787,
+    "prob_class_0": 0.7289160192012787,
+    "prob_class_1": 0.2710839807987213,
     "true_label": 1
   },
   {
@@ -1677,9 +1677,9 @@
     "image_name": "7_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5411991477012634,
-    "prob_class_0": 0.4588008522987366,
-    "prob_class_1": 0.5411991477012634,
+    "confidence": 0.7606676816940308,
+    "prob_class_0": 0.23933231830596924,
+    "prob_class_1": 0.7606676816940308,
     "true_label": 1
   },
   {
@@ -1688,9 +1688,9 @@
     "image_name": "80_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5064862370491028,
-    "prob_class_0": 0.4935137629508972,
-    "prob_class_1": 0.5064862370491028,
+    "confidence": 0.7749939560890198,
+    "prob_class_0": 0.22500604391098022,
+    "prob_class_1": 0.7749939560890198,
     "true_label": 1
   },
   {
@@ -1699,9 +1699,9 @@
     "image_name": "81_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5652770400047302,
-    "prob_class_0": 0.4347229599952698,
-    "prob_class_1": 0.5652770400047302,
+    "confidence": 0.5108501315116882,
+    "prob_class_0": 0.48914986848831177,
+    "prob_class_1": 0.5108501315116882,
     "true_label": 1
   },
   {
@@ -1709,10 +1709,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/82_Malignant_center2.png",
     "image_name": "82_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5005718469619751,
-    "prob_class_0": 0.5005718469619751,
-    "prob_class_1": 0.4994281530380249,
+    "predicted_class": 1,
+    "confidence": 0.668648898601532,
+    "prob_class_0": 0.331351101398468,
+    "prob_class_1": 0.668648898601532,
     "true_label": 1
   },
   {
@@ -1720,10 +1720,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/8_Malignant_center2.png",
     "image_name": "8_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5552906394004822,
-    "prob_class_0": 0.5552906394004822,
-    "prob_class_1": 0.4447093605995178,
+    "predicted_class": 1,
+    "confidence": 0.683790385723114,
+    "prob_class_0": 0.316209614276886,
+    "prob_class_1": 0.683790385723114,
     "true_label": 1
   },
   {
@@ -1731,10 +1731,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Lymph_Node_Metastasis_fake/by_LNM_CN01_test/1/9_Malignant_center2.png",
     "image_name": "9_Malignant_center2.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5008683204650879,
-    "prob_class_0": 0.4991316795349121,
-    "prob_class_1": 0.5008683204650879,
+    "predicted_class": 0,
+    "confidence": 0.5363178551197052,
+    "prob_class_0": 0.5363178551197052,
+    "prob_class_1": 0.4636821448802948,
     "true_label": 1
   }
 ]

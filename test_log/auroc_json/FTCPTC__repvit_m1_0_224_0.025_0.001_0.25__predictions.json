@@ -5,9 +5,9 @@
     "image_name": "2023__何灿彬__何灿彬_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5082663297653198,
-    "prob_class_0": 0.4917336702346802,
-    "prob_class_1": 0.5082663297653198,
+    "confidence": 0.6274501085281372,
+    "prob_class_0": 0.3725498914718628,
+    "prob_class_1": 0.6274501085281372,
     "true_label": 0
   },
   {
@@ -15,10 +15,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__何灿彬__何灿彬_01_0009_0009.jpg",
     "image_name": "2023__何灿彬__何灿彬_01_0009_0009.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5028102397918701,
-    "prob_class_0": 0.5028102397918701,
-    "prob_class_1": 0.4971897602081299,
+    "predicted_class": 1,
+    "confidence": 0.5718654990196228,
+    "prob_class_0": 0.4281345009803772,
+    "prob_class_1": 0.5718654990196228,
     "true_label": 0
   },
   {
@@ -27,9 +27,9 @@
     "image_name": "2023__何灿彬__何灿彬_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5103965997695923,
-    "prob_class_0": 0.4896034002304077,
-    "prob_class_1": 0.5103965997695923,
+    "confidence": 0.6136969923973083,
+    "prob_class_0": 0.38630300760269165,
+    "prob_class_1": 0.6136969923973083,
     "true_label": 0
   },
   {
@@ -37,10 +37,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__何灿彬__何灿彬_01_0013_0013.jpg",
     "image_name": "2023__何灿彬__何灿彬_01_0013_0013.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5055718719959259,
-    "prob_class_0": 0.5055718719959259,
-    "prob_class_1": 0.4944281280040741,
+    "predicted_class": 1,
+    "confidence": 0.5789120197296143,
+    "prob_class_0": 0.42108798027038574,
+    "prob_class_1": 0.5789120197296143,
     "true_label": 0
   },
   {
@@ -49,9 +49,9 @@
     "image_name": "2023__何灿彬__何灿彬_01_0014_0014.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5032266974449158,
-    "prob_class_0": 0.49677330255508423,
-    "prob_class_1": 0.5032266974449158,
+    "confidence": 0.5951763391494751,
+    "prob_class_0": 0.4048236608505249,
+    "prob_class_1": 0.5951763391494751,
     "true_label": 0
   },
   {
@@ -59,10 +59,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__何灿彬__何灿彬_01_0015_0015.jpg",
     "image_name": "2023__何灿彬__何灿彬_01_0015_0015.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5122654438018799,
-    "prob_class_0": 0.4877345561981201,
-    "prob_class_1": 0.5122654438018799,
+    "predicted_class": 0,
+    "confidence": 0.5063118934631348,
+    "prob_class_0": 0.5063118934631348,
+    "prob_class_1": 0.49368810653686523,
     "true_label": 0
   },
   {
@@ -71,9 +71,9 @@
     "image_name": "2023__何灿彬__何灿彬_01_0027_0027.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5117948651313782,
-    "prob_class_0": 0.4882051348686218,
-    "prob_class_1": 0.5117948651313782,
+    "confidence": 0.5510779023170471,
+    "prob_class_0": 0.4489220976829529,
+    "prob_class_1": 0.5510779023170471,
     "true_label": 0
   },
   {
@@ -81,10 +81,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__傅玲婷__傅玲婷_01_0006_0006.jpg",
     "image_name": "2023__傅玲婷__傅玲婷_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5054953098297119,
-    "prob_class_0": 0.5054953098297119,
-    "prob_class_1": 0.4945046901702881,
+    "predicted_class": 1,
+    "confidence": 0.6104357242584229,
+    "prob_class_0": 0.38956427574157715,
+    "prob_class_1": 0.6104357242584229,
     "true_label": 0
   },
   {
@@ -93,9 +93,9 @@
     "image_name": "2023__冼洁能__冼洁能_01_0002_0002.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5025061368942261,
-    "prob_class_0": 0.4974938631057739,
-    "prob_class_1": 0.5025061368942261,
+    "confidence": 0.5372796058654785,
+    "prob_class_0": 0.4627203941345215,
+    "prob_class_1": 0.5372796058654785,
     "true_label": 0
   },
   {
@@ -104,9 +104,9 @@
     "image_name": "2023__冼洁能__冼洁能_01_0009_0009.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5094197392463684,
-    "prob_class_0": 0.4905802607536316,
-    "prob_class_1": 0.5094197392463684,
+    "confidence": 0.5685165524482727,
+    "prob_class_0": 0.4314834475517273,
+    "prob_class_1": 0.5685165524482727,
     "true_label": 0
   },
   {
@@ -115,9 +115,9 @@
     "image_name": "2023__冼洁能__冼洁能_01_0010_0010.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.514482855796814,
-    "prob_class_0": 0.48551714420318604,
-    "prob_class_1": 0.514482855796814,
+    "confidence": 0.5229851007461548,
+    "prob_class_0": 0.4770148992538452,
+    "prob_class_1": 0.5229851007461548,
     "true_label": 0
   },
   {
@@ -126,9 +126,9 @@
     "image_name": "2023__冼洁能__冼洁能_01_0011_0011.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5014541149139404,
-    "prob_class_0": 0.5014541149139404,
-    "prob_class_1": 0.49854588508605957,
+    "confidence": 0.5335092544555664,
+    "prob_class_0": 0.5335092544555664,
+    "prob_class_1": 0.4664907455444336,
     "true_label": 0
   },
   {
@@ -136,10 +136,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__冼洁能__冼洁能_01_0015_0015.jpg",
     "image_name": "2023__冼洁能__冼洁能_01_0015_0015.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.504887044429779,
-    "prob_class_0": 0.49511295557022095,
-    "prob_class_1": 0.504887044429779,
+    "predicted_class": 0,
+    "confidence": 0.5243243277072906,
+    "prob_class_0": 0.5243243277072906,
+    "prob_class_1": 0.47567567229270935,
     "true_label": 0
   },
   {
@@ -148,9 +148,9 @@
     "image_name": "2023__冼洁能__冼洁能_01_0016_0016.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5066235661506653,
-    "prob_class_0": 0.4933764338493347,
-    "prob_class_1": 0.5066235661506653,
+    "confidence": 0.601205587387085,
+    "prob_class_0": 0.39879441261291504,
+    "prob_class_1": 0.601205587387085,
     "true_label": 0
   },
   {
@@ -159,9 +159,9 @@
     "image_name": "2023__冼洁能__冼洁能_01_0017_0017.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5147646963596344,
-    "prob_class_0": 0.5147646963596344,
-    "prob_class_1": 0.4852353036403656,
+    "confidence": 0.5032969415187836,
+    "prob_class_0": 0.5032969415187836,
+    "prob_class_1": 0.49670305848121643,
     "true_label": 0
   },
   {
@@ -169,10 +169,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__刘燕__刘燕_01_0007_0007.jpg",
     "image_name": "2023__刘燕__刘燕_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5119194686412811,
-    "prob_class_0": 0.5119194686412811,
-    "prob_class_1": 0.48808053135871887,
+    "predicted_class": 1,
+    "confidence": 0.5507734417915344,
+    "prob_class_0": 0.4492265582084656,
+    "prob_class_1": 0.5507734417915344,
     "true_label": 0
   },
   {
@@ -181,9 +181,9 @@
     "image_name": "2023__刘燕__刘燕_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5044489502906799,
-    "prob_class_0": 0.49555104970932007,
-    "prob_class_1": 0.5044489502906799,
+    "confidence": 0.5479678511619568,
+    "prob_class_0": 0.4520321488380432,
+    "prob_class_1": 0.5479678511619568,
     "true_label": 0
   },
   {
@@ -191,10 +191,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__刘燕__刘燕_01_0017_0017.jpg",
     "image_name": "2023__刘燕__刘燕_01_0017_0017.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5273407995700836,
-    "prob_class_0": 0.5273407995700836,
-    "prob_class_1": 0.4726592004299164,
+    "predicted_class": 1,
+    "confidence": 0.513331413269043,
+    "prob_class_0": 0.48666858673095703,
+    "prob_class_1": 0.513331413269043,
     "true_label": 0
   },
   {
@@ -202,10 +202,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__刘燕__刘燕_01_0019_0019.jpg",
     "image_name": "2023__刘燕__刘燕_01_0019_0019.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5057523548603058,
-    "prob_class_0": 0.5057523548603058,
-    "prob_class_1": 0.4942476451396942,
+    "predicted_class": 1,
+    "confidence": 0.523765504360199,
+    "prob_class_0": 0.476234495639801,
+    "prob_class_1": 0.523765504360199,
     "true_label": 0
   },
   {
@@ -213,10 +213,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__单炎华__单炎华_01_0004_0004.jpg",
     "image_name": "2023__单炎华__单炎华_01_0004_0004.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5026976764202118,
-    "prob_class_0": 0.5026976764202118,
-    "prob_class_1": 0.4973023235797882,
+    "predicted_class": 1,
+    "confidence": 0.5571432113647461,
+    "prob_class_0": 0.4428567886352539,
+    "prob_class_1": 0.5571432113647461,
     "true_label": 0
   },
   {
@@ -224,10 +224,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__单炎华__单炎华_01_0007_0007.jpg",
     "image_name": "2023__单炎华__单炎华_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.500650942325592,
-    "prob_class_0": 0.500650942325592,
-    "prob_class_1": 0.49934905767440796,
+    "predicted_class": 1,
+    "confidence": 0.5199254155158997,
+    "prob_class_0": 0.48007458448410034,
+    "prob_class_1": 0.5199254155158997,
     "true_label": 0
   },
   {
@@ -236,9 +236,9 @@
     "image_name": "2023__单炎华__单炎华_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5057346224784851,
-    "prob_class_0": 0.4942653775215149,
-    "prob_class_1": 0.5057346224784851,
+    "confidence": 0.5475975275039673,
+    "prob_class_0": 0.4524024724960327,
+    "prob_class_1": 0.5475975275039673,
     "true_label": 0
   },
   {
@@ -246,10 +246,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__司徒海勇__司徒海勇_01_0005_0005.jpg",
     "image_name": "2023__司徒海勇__司徒海勇_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5075278282165527,
-    "prob_class_0": 0.5075278282165527,
-    "prob_class_1": 0.49247217178344727,
+    "predicted_class": 1,
+    "confidence": 0.5055907368659973,
+    "prob_class_0": 0.4944092631340027,
+    "prob_class_1": 0.5055907368659973,
     "true_label": 0
   },
   {
@@ -257,10 +257,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__司徒海勇__司徒海勇_01_0007_0007.jpg",
     "image_name": "2023__司徒海勇__司徒海勇_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5117221474647522,
-    "prob_class_0": 0.5117221474647522,
-    "prob_class_1": 0.4882778525352478,
+    "predicted_class": 1,
+    "confidence": 0.5798894762992859,
+    "prob_class_0": 0.4201105237007141,
+    "prob_class_1": 0.5798894762992859,
     "true_label": 0
   },
   {
@@ -269,9 +269,9 @@
     "image_name": "2023__司徒海勇__司徒海勇_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5096144676208496,
-    "prob_class_0": 0.4903855323791504,
-    "prob_class_1": 0.5096144676208496,
+    "confidence": 0.5636572241783142,
+    "prob_class_0": 0.4363427758216858,
+    "prob_class_1": 0.5636572241783142,
     "true_label": 0
   },
   {
@@ -280,9 +280,9 @@
     "image_name": "2023__孔淑平__孔淑平_01_0016_0016.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5307367444038391,
-    "prob_class_0": 0.4692632555961609,
-    "prob_class_1": 0.5307367444038391,
+    "confidence": 0.5112012624740601,
+    "prob_class_0": 0.48879873752593994,
+    "prob_class_1": 0.5112012624740601,
     "true_label": 0
   },
   {
@@ -291,9 +291,9 @@
     "image_name": "2023__孔淑平__孔淑平_01_0017_0017.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5091160535812378,
-    "prob_class_0": 0.4908839464187622,
-    "prob_class_1": 0.5091160535812378,
+    "confidence": 0.5557977557182312,
+    "prob_class_0": 0.4442022442817688,
+    "prob_class_1": 0.5557977557182312,
     "true_label": 0
   },
   {
@@ -302,9 +302,9 @@
     "image_name": "2023__孔淑平__孔淑平_01_0018_0018.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5155770778656006,
-    "prob_class_0": 0.4844229221343994,
-    "prob_class_1": 0.5155770778656006,
+    "confidence": 0.5293468832969666,
+    "prob_class_0": 0.47065311670303345,
+    "prob_class_1": 0.5293468832969666,
     "true_label": 0
   },
   {
@@ -312,10 +312,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__孔淑平__孔淑平_01_0023_0023.jpg",
     "image_name": "2023__孔淑平__孔淑平_01_0023_0023.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.50351881980896,
-    "prob_class_0": 0.49648118019104004,
-    "prob_class_1": 0.50351881980896,
+    "predicted_class": 0,
+    "confidence": 0.5080539286136627,
+    "prob_class_0": 0.5080539286136627,
+    "prob_class_1": 0.4919460713863373,
     "true_label": 0
   },
   {
@@ -324,9 +324,9 @@
     "image_name": "2023__张惠芳__张惠芳_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5050338804721832,
-    "prob_class_0": 0.5050338804721832,
-    "prob_class_1": 0.4949661195278168,
+    "confidence": 0.5030833780765533,
+    "prob_class_0": 0.5030833780765533,
+    "prob_class_1": 0.49691662192344666,
     "true_label": 0
   },
   {
@@ -334,10 +334,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__张惠芳__张惠芳_01_0007_0007.jpg",
     "image_name": "2023__张惠芳__张惠芳_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5023497939109802,
-    "prob_class_0": 0.5023497939109802,
-    "prob_class_1": 0.4976502060890198,
+    "predicted_class": 1,
+    "confidence": 0.5240781903266907,
+    "prob_class_0": 0.4759218096733093,
+    "prob_class_1": 0.5240781903266907,
     "true_label": 0
   },
   {
@@ -345,10 +345,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__张惠芳__张惠芳_01_0012_0012.jpg",
     "image_name": "2023__张惠芳__张惠芳_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5179620981216431,
-    "prob_class_0": 0.5179620981216431,
-    "prob_class_1": 0.48203790187835693,
+    "predicted_class": 1,
+    "confidence": 0.5758280754089355,
+    "prob_class_0": 0.42417192459106445,
+    "prob_class_1": 0.5758280754089355,
     "true_label": 0
   },
   {
@@ -356,10 +356,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__张惠芳__张惠芳_01_0013_0013.jpg",
     "image_name": "2023__张惠芳__张惠芳_01_0013_0013.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5165713727474213,
-    "prob_class_0": 0.5165713727474213,
-    "prob_class_1": 0.48342862725257874,
+    "predicted_class": 1,
+    "confidence": 0.6261383891105652,
+    "prob_class_0": 0.3738616108894348,
+    "prob_class_1": 0.6261383891105652,
     "true_label": 0
   },
   {
@@ -368,9 +368,9 @@
     "image_name": "2023__李万宽__李万宽_01_0002_0002.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5207711458206177,
-    "prob_class_0": 0.5207711458206177,
-    "prob_class_1": 0.4792288541793823,
+    "confidence": 0.5537084937095642,
+    "prob_class_0": 0.5537084937095642,
+    "prob_class_1": 0.4462915062904358,
     "true_label": 0
   },
   {
@@ -379,9 +379,9 @@
     "image_name": "2023__林韵怡__林韵怡_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5145759582519531,
-    "prob_class_0": 0.4854240417480469,
-    "prob_class_1": 0.5145759582519531,
+    "confidence": 0.5496664643287659,
+    "prob_class_0": 0.45033353567123413,
+    "prob_class_1": 0.5496664643287659,
     "true_label": 0
   },
   {
@@ -389,10 +389,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__梁慧平__梁慧平_01_0013_0013.jpg",
     "image_name": "2023__梁慧平__梁慧平_01_0013_0013.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5063906908035278,
-    "prob_class_0": 0.5063906908035278,
-    "prob_class_1": 0.49360930919647217,
+    "predicted_class": 1,
+    "confidence": 0.5619339346885681,
+    "prob_class_0": 0.4380660653114319,
+    "prob_class_1": 0.5619339346885681,
     "true_label": 0
   },
   {
@@ -400,10 +400,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__欧宝琴__欧宝琴_01_0004_0004.jpg",
     "image_name": "2023__欧宝琴__欧宝琴_01_0004_0004.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5023463666439056,
-    "prob_class_0": 0.5023463666439056,
-    "prob_class_1": 0.49765363335609436,
+    "predicted_class": 1,
+    "confidence": 0.565182626247406,
+    "prob_class_0": 0.434817373752594,
+    "prob_class_1": 0.565182626247406,
     "true_label": 0
   },
   {
@@ -411,10 +411,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__欧宝琴__欧宝琴_01_0005_0005.jpg",
     "image_name": "2023__欧宝琴__欧宝琴_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5063001811504364,
-    "prob_class_0": 0.5063001811504364,
-    "prob_class_1": 0.4936998188495636,
+    "predicted_class": 1,
+    "confidence": 0.6235849261283875,
+    "prob_class_0": 0.37641507387161255,
+    "prob_class_1": 0.6235849261283875,
     "true_label": 0
   },
   {
@@ -422,10 +422,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__欧宝琴__欧宝琴_01_0016_0016.jpg",
     "image_name": "2023__欧宝琴__欧宝琴_01_0016_0016.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.502206563949585,
-    "prob_class_0": 0.502206563949585,
-    "prob_class_1": 0.49779343605041504,
+    "predicted_class": 1,
+    "confidence": 0.5728699564933777,
+    "prob_class_0": 0.4271300435066223,
+    "prob_class_1": 0.5728699564933777,
     "true_label": 0
   },
   {
@@ -434,9 +434,9 @@
     "image_name": "2023__欧宝琴__欧宝琴_01_0018_0018.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.508364737033844,
-    "prob_class_0": 0.491635262966156,
-    "prob_class_1": 0.508364737033844,
+    "confidence": 0.5677595138549805,
+    "prob_class_0": 0.43224048614501953,
+    "prob_class_1": 0.5677595138549805,
     "true_label": 0
   },
   {
@@ -445,9 +445,9 @@
     "image_name": "2023__江杰新__江杰新_01_0003_0003.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5011507272720337,
-    "prob_class_0": 0.4988492727279663,
-    "prob_class_1": 0.5011507272720337,
+    "confidence": 0.5671161413192749,
+    "prob_class_0": 0.4328838586807251,
+    "prob_class_1": 0.5671161413192749,
     "true_label": 0
   },
   {
@@ -455,10 +455,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__江杰新__江杰新_01_0008_0008.jpg",
     "image_name": "2023__江杰新__江杰新_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5165121257305145,
-    "prob_class_0": 0.5165121257305145,
-    "prob_class_1": 0.4834878742694855,
+    "predicted_class": 1,
+    "confidence": 0.6101664900779724,
+    "prob_class_0": 0.3898335099220276,
+    "prob_class_1": 0.6101664900779724,
     "true_label": 0
   },
   {
@@ -467,9 +467,9 @@
     "image_name": "2023__江杰新__江杰新_01_0020_0020.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.502359926700592,
-    "prob_class_0": 0.49764007329940796,
-    "prob_class_1": 0.502359926700592,
+    "confidence": 0.636864185333252,
+    "prob_class_0": 0.36313581466674805,
+    "prob_class_1": 0.636864185333252,
     "true_label": 0
   },
   {
@@ -478,9 +478,9 @@
     "image_name": "2023__江杰新__江杰新_01_0021_0021.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5057880878448486,
-    "prob_class_0": 0.49421191215515137,
-    "prob_class_1": 0.5057880878448486,
+    "confidence": 0.6578317284584045,
+    "prob_class_0": 0.34216827154159546,
+    "prob_class_1": 0.6578317284584045,
     "true_label": 0
   },
   {
@@ -489,9 +489,9 @@
     "image_name": "2023__苏玉儿__苏玉儿_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5035966038703918,
-    "prob_class_0": 0.49640339612960815,
-    "prob_class_1": 0.5035966038703918,
+    "confidence": 0.5365732312202454,
+    "prob_class_0": 0.46342676877975464,
+    "prob_class_1": 0.5365732312202454,
     "true_label": 0
   },
   {
@@ -500,9 +500,9 @@
     "image_name": "2023__钱丽霞__钱丽霞_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5021077990531921,
-    "prob_class_0": 0.49789220094680786,
-    "prob_class_1": 0.5021077990531921,
+    "confidence": 0.6295220851898193,
+    "prob_class_0": 0.37047791481018066,
+    "prob_class_1": 0.6295220851898193,
     "true_label": 0
   },
   {
@@ -510,10 +510,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__陈小娇__陈小娇_01_0010_0010.jpg",
     "image_name": "2023__陈小娇__陈小娇_01_0010_0010.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5031712055206299,
-    "prob_class_0": 0.4968287944793701,
-    "prob_class_1": 0.5031712055206299,
+    "predicted_class": 0,
+    "confidence": 0.5062734186649323,
+    "prob_class_0": 0.5062734186649323,
+    "prob_class_1": 0.49372658133506775,
     "true_label": 0
   },
   {
@@ -521,10 +521,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__陈小娇__陈小娇_01_0011_0011.jpg",
     "image_name": "2023__陈小娇__陈小娇_01_0011_0011.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5044869482517242,
-    "prob_class_0": 0.5044869482517242,
-    "prob_class_1": 0.49551305174827576,
+    "predicted_class": 1,
+    "confidence": 0.6413222551345825,
+    "prob_class_0": 0.3586777448654175,
+    "prob_class_1": 0.6413222551345825,
     "true_label": 0
   },
   {
@@ -532,10 +532,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__陈小娇__陈小娇_01_0012_0012.jpg",
     "image_name": "2023__陈小娇__陈小娇_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5045037269592285,
-    "prob_class_0": 0.5045037269592285,
-    "prob_class_1": 0.4954962730407715,
+    "predicted_class": 1,
+    "confidence": 0.5969923138618469,
+    "prob_class_0": 0.4030076861381531,
+    "prob_class_1": 0.5969923138618469,
     "true_label": 0
   },
   {
@@ -544,9 +544,9 @@
     "image_name": "2023__陈文__陈文_01_0015_0015.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5028254389762878,
-    "prob_class_0": 0.49717456102371216,
-    "prob_class_1": 0.5028254389762878,
+    "confidence": 0.5232873558998108,
+    "prob_class_0": 0.4767126441001892,
+    "prob_class_1": 0.5232873558998108,
     "true_label": 0
   },
   {
@@ -555,9 +555,9 @@
     "image_name": "2023__陈文__陈文_01_0016_0016.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5092234015464783,
-    "prob_class_0": 0.49077659845352173,
-    "prob_class_1": 0.5092234015464783,
+    "confidence": 0.5485354065895081,
+    "prob_class_0": 0.45146459341049194,
+    "prob_class_1": 0.5485354065895081,
     "true_label": 0
   },
   {
@@ -565,10 +565,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__陈水连__陈水连_01_0005_0005.jpg",
     "image_name": "2023__陈水连__陈水连_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5005199015140533,
-    "prob_class_0": 0.5005199015140533,
-    "prob_class_1": 0.49948009848594666,
+    "predicted_class": 1,
+    "confidence": 0.6076985597610474,
+    "prob_class_0": 0.39230144023895264,
+    "prob_class_1": 0.6076985597610474,
     "true_label": 0
   },
   {
@@ -577,9 +577,9 @@
     "image_name": "2023__陈水连__陈水连_01_0018_0018.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5162097215652466,
-    "prob_class_0": 0.4837902784347534,
-    "prob_class_1": 0.5162097215652466,
+    "confidence": 0.5247657299041748,
+    "prob_class_0": 0.4752342700958252,
+    "prob_class_1": 0.5247657299041748,
     "true_label": 0
   },
   {
@@ -587,10 +587,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄惠群__黄惠群_01_0002_0002.jpg",
     "image_name": "2023__黄惠群__黄惠群_01_0002_0002.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5044306814670563,
-    "prob_class_0": 0.5044306814670563,
-    "prob_class_1": 0.4955693185329437,
+    "predicted_class": 1,
+    "confidence": 0.5982350707054138,
+    "prob_class_0": 0.4017649292945862,
+    "prob_class_1": 0.5982350707054138,
     "true_label": 0
   },
   {
@@ -598,10 +598,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄爱君__黄爱君_01_0001_0001.jpg",
     "image_name": "2023__黄爱君__黄爱君_01_0001_0001.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5087067484855652,
-    "prob_class_0": 0.5087067484855652,
-    "prob_class_1": 0.4912932515144348,
+    "predicted_class": 1,
+    "confidence": 0.5953123569488525,
+    "prob_class_0": 0.40468764305114746,
+    "prob_class_1": 0.5953123569488525,
     "true_label": 0
   },
   {
@@ -609,10 +609,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄爱君__黄爱君_01_0002_0002.jpg",
     "image_name": "2023__黄爱君__黄爱君_01_0002_0002.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5117542743682861,
-    "prob_class_0": 0.5117542743682861,
-    "prob_class_1": 0.48824572563171387,
+    "predicted_class": 1,
+    "confidence": 0.5149224996566772,
+    "prob_class_0": 0.48507750034332275,
+    "prob_class_1": 0.5149224996566772,
     "true_label": 0
   },
   {
@@ -620,10 +620,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄爱君__黄爱君_01_0003_0003.jpg",
     "image_name": "2023__黄爱君__黄爱君_01_0003_0003.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5067947506904602,
-    "prob_class_0": 0.5067947506904602,
-    "prob_class_1": 0.4932052493095398,
+    "predicted_class": 1,
+    "confidence": 0.5477040410041809,
+    "prob_class_0": 0.4522959589958191,
+    "prob_class_1": 0.5477040410041809,
     "true_label": 0
   },
   {
@@ -631,10 +631,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄爱君__黄爱君_01_0004_0004.jpg",
     "image_name": "2023__黄爱君__黄爱君_01_0004_0004.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.520900160074234,
-    "prob_class_0": 0.520900160074234,
-    "prob_class_1": 0.479099839925766,
+    "predicted_class": 1,
+    "confidence": 0.6016709208488464,
+    "prob_class_0": 0.39832907915115356,
+    "prob_class_1": 0.6016709208488464,
     "true_label": 0
   },
   {
@@ -643,9 +643,9 @@
     "image_name": "2023__黄爱君__黄爱君_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.520090639591217,
-    "prob_class_0": 0.520090639591217,
-    "prob_class_1": 0.47990936040878296,
+    "confidence": 0.5314671695232391,
+    "prob_class_0": 0.5314671695232391,
+    "prob_class_1": 0.46853283047676086,
     "true_label": 0
   },
   {
@@ -653,10 +653,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄爱君__黄爱君_01_0006_0006.jpg",
     "image_name": "2023__黄爱君__黄爱君_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5189447104930878,
-    "prob_class_0": 0.5189447104930878,
-    "prob_class_1": 0.48105528950691223,
+    "predicted_class": 1,
+    "confidence": 0.5548516511917114,
+    "prob_class_0": 0.4451483488082886,
+    "prob_class_1": 0.5548516511917114,
     "true_label": 0
   },
   {
@@ -664,10 +664,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄爱君__黄爱君_01_0007_0007.jpg",
     "image_name": "2023__黄爱君__黄爱君_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5051529109477997,
-    "prob_class_0": 0.5051529109477997,
-    "prob_class_1": 0.4948470890522003,
+    "predicted_class": 1,
+    "confidence": 0.5379542708396912,
+    "prob_class_0": 0.46204572916030884,
+    "prob_class_1": 0.5379542708396912,
     "true_label": 0
   },
   {
@@ -676,9 +676,9 @@
     "image_name": "2023__黄辉廉__黄辉廉_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5034012794494629,
-    "prob_class_0": 0.4965987205505371,
-    "prob_class_1": 0.5034012794494629,
+    "confidence": 0.5968130826950073,
+    "prob_class_0": 0.4031869173049927,
+    "prob_class_1": 0.5968130826950073,
     "true_label": 0
   },
   {
@@ -686,10 +686,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄辉廉__黄辉廉_01_0007_0007.jpg",
     "image_name": "2023__黄辉廉__黄辉廉_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5162353813648224,
-    "prob_class_0": 0.5162353813648224,
-    "prob_class_1": 0.4837646186351776,
+    "predicted_class": 1,
+    "confidence": 0.5066542625427246,
+    "prob_class_0": 0.4933457374572754,
+    "prob_class_1": 0.5066542625427246,
     "true_label": 0
   },
   {
@@ -697,10 +697,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄辉廉__黄辉廉_01_0009_0009.jpg",
     "image_name": "2023__黄辉廉__黄辉廉_01_0009_0009.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5158450305461884,
-    "prob_class_0": 0.5158450305461884,
-    "prob_class_1": 0.48415496945381165,
+    "predicted_class": 1,
+    "confidence": 0.532518208026886,
+    "prob_class_0": 0.467481791973114,
+    "prob_class_1": 0.532518208026886,
     "true_label": 0
   },
   {
@@ -709,9 +709,9 @@
     "image_name": "2023__黄辉廉__黄辉廉_01_0010_0010.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5009860992431641,
-    "prob_class_0": 0.49901390075683594,
-    "prob_class_1": 0.5009860992431641,
+    "confidence": 0.587837815284729,
+    "prob_class_0": 0.412162184715271,
+    "prob_class_1": 0.587837815284729,
     "true_label": 0
   },
   {
@@ -719,10 +719,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/2023__黄辉廉__黄辉廉_01_0013_0013.jpg",
     "image_name": "2023__黄辉廉__黄辉廉_01_0013_0013.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5015923082828522,
-    "prob_class_0": 0.5015923082828522,
-    "prob_class_1": 0.4984076917171478,
+    "predicted_class": 1,
+    "confidence": 0.5482182502746582,
+    "prob_class_0": 0.4517817497253418,
+    "prob_class_1": 0.5482182502746582,
     "true_label": 0
   },
   {
@@ -730,10 +730,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171018074055.png",
     "image_name": "FangDai__PTC__A_b17171018074055.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.511864960193634,
-    "prob_class_0": 0.48813503980636597,
-    "prob_class_1": 0.511864960193634,
+    "predicted_class": 0,
+    "confidence": 0.528884619474411,
+    "prob_class_0": 0.528884619474411,
+    "prob_class_1": 0.471115380525589,
     "true_label": 0
   },
   {
@@ -741,10 +741,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171018074117.png",
     "image_name": "FangDai__PTC__A_b17171018074117.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5099486708641052,
-    "prob_class_0": 0.4900513291358948,
-    "prob_class_1": 0.5099486708641052,
+    "predicted_class": 0,
+    "confidence": 0.5324737429618835,
+    "prob_class_0": 0.5324737429618835,
+    "prob_class_1": 0.46752625703811646,
     "true_label": 0
   },
   {
@@ -752,10 +752,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171018103941.png",
     "image_name": "FangDai__PTC__A_b17171018103941.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5086517333984375,
-    "prob_class_0": 0.5086517333984375,
-    "prob_class_1": 0.4913482666015625,
+    "predicted_class": 1,
+    "confidence": 0.5088557600975037,
+    "prob_class_0": 0.49114423990249634,
+    "prob_class_1": 0.5088557600975037,
     "true_label": 0
   },
   {
@@ -763,10 +763,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171018155334.png",
     "image_name": "FangDai__PTC__A_b17171018155334.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5076234340667725,
-    "prob_class_0": 0.49237656593322754,
-    "prob_class_1": 0.5076234340667725,
+    "predicted_class": 0,
+    "confidence": 0.5303591787815094,
+    "prob_class_0": 0.5303591787815094,
+    "prob_class_1": 0.4696408212184906,
     "true_label": 0
   },
   {
@@ -774,10 +774,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171018155546.png",
     "image_name": "FangDai__PTC__A_b17171018155546.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.505722850561142,
-    "prob_class_0": 0.505722850561142,
-    "prob_class_1": 0.49427714943885803,
+    "predicted_class": 1,
+    "confidence": 0.5200935006141663,
+    "prob_class_0": 0.47990649938583374,
+    "prob_class_1": 0.5200935006141663,
     "true_label": 0
   },
   {
@@ -785,10 +785,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171019074311.png",
     "image_name": "FangDai__PTC__A_b17171019074311.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.504047155380249,
-    "prob_class_0": 0.504047155380249,
-    "prob_class_1": 0.495952844619751,
+    "predicted_class": 1,
+    "confidence": 0.6084316968917847,
+    "prob_class_0": 0.39156830310821533,
+    "prob_class_1": 0.6084316968917847,
     "true_label": 0
   },
   {
@@ -797,9 +797,9 @@
     "image_name": "FangDai__PTC__A_b17171019075456.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.510000467300415,
-    "prob_class_0": 0.48999953269958496,
-    "prob_class_1": 0.510000467300415,
+    "confidence": 0.5795302391052246,
+    "prob_class_0": 0.4204697608947754,
+    "prob_class_1": 0.5795302391052246,
     "true_label": 0
   },
   {
@@ -808,9 +808,9 @@
     "image_name": "FangDai__PTC__A_b17171019075543.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5089316368103027,
-    "prob_class_0": 0.49106836318969727,
-    "prob_class_1": 0.5089316368103027,
+    "confidence": 0.5006076693534851,
+    "prob_class_0": 0.4993923306465149,
+    "prob_class_1": 0.5006076693534851,
     "true_label": 0
   },
   {
@@ -818,10 +818,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171019075801.png",
     "image_name": "FangDai__PTC__A_b17171019075801.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5156923532485962,
-    "prob_class_0": 0.5156923532485962,
-    "prob_class_1": 0.4843076467514038,
+    "predicted_class": 1,
+    "confidence": 0.5281487703323364,
+    "prob_class_0": 0.4718512296676636,
+    "prob_class_1": 0.5281487703323364,
     "true_label": 0
   },
   {
@@ -830,9 +830,9 @@
     "image_name": "FangDai__PTC__A_b17171019092726.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5013734102249146,
-    "prob_class_0": 0.49862658977508545,
-    "prob_class_1": 0.5013734102249146,
+    "confidence": 0.5214921832084656,
+    "prob_class_0": 0.4785078167915344,
+    "prob_class_1": 0.5214921832084656,
     "true_label": 0
   },
   {
@@ -840,10 +840,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171019092848.png",
     "image_name": "FangDai__PTC__A_b17171019092848.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5080387592315674,
-    "prob_class_0": 0.4919612407684326,
-    "prob_class_1": 0.5080387592315674,
+    "predicted_class": 0,
+    "confidence": 0.5831064581871033,
+    "prob_class_0": 0.5831064581871033,
+    "prob_class_1": 0.41689354181289673,
     "true_label": 0
   },
   {
@@ -852,9 +852,9 @@
     "image_name": "FangDai__PTC__A_b17171021112137.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5198884904384613,
-    "prob_class_0": 0.5198884904384613,
-    "prob_class_1": 0.4801115095615387,
+    "confidence": 0.5350093841552734,
+    "prob_class_0": 0.5350093841552734,
+    "prob_class_1": 0.46499061584472656,
     "true_label": 0
   },
   {
@@ -863,9 +863,9 @@
     "image_name": "FangDai__PTC__A_b17171021112331.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.511564165353775,
-    "prob_class_0": 0.511564165353775,
-    "prob_class_1": 0.488435834646225,
+    "confidence": 0.6278538703918457,
+    "prob_class_0": 0.6278538703918457,
+    "prob_class_1": 0.3721461296081543,
     "true_label": 0
   },
   {
@@ -873,10 +873,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171023083335.png",
     "image_name": "FangDai__PTC__A_b17171023083335.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5045597553253174,
-    "prob_class_0": 0.5045597553253174,
-    "prob_class_1": 0.4954402446746826,
+    "predicted_class": 1,
+    "confidence": 0.523688554763794,
+    "prob_class_0": 0.47631144523620605,
+    "prob_class_1": 0.523688554763794,
     "true_label": 0
   },
   {
@@ -885,9 +885,9 @@
     "image_name": "FangDai__PTC__A_b17171023083403.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5026069283485413,
-    "prob_class_0": 0.49739307165145874,
-    "prob_class_1": 0.5026069283485413,
+    "confidence": 0.5098904967308044,
+    "prob_class_0": 0.49010950326919556,
+    "prob_class_1": 0.5098904967308044,
     "true_label": 0
   },
   {
@@ -895,10 +895,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171023085148.png",
     "image_name": "FangDai__PTC__A_b17171023085148.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5074285864830017,
-    "prob_class_0": 0.4925714135169983,
-    "prob_class_1": 0.5074285864830017,
+    "predicted_class": 0,
+    "confidence": 0.5212249159812927,
+    "prob_class_0": 0.5212249159812927,
+    "prob_class_1": 0.4787750840187073,
     "true_label": 0
   },
   {
@@ -906,10 +906,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171023085247.png",
     "image_name": "FangDai__PTC__A_b17171023085247.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.522274911403656,
-    "prob_class_0": 0.477725088596344,
-    "prob_class_1": 0.522274911403656,
+    "predicted_class": 0,
+    "confidence": 0.5296344757080078,
+    "prob_class_0": 0.5296344757080078,
+    "prob_class_1": 0.4703655242919922,
     "true_label": 0
   },
   {
@@ -918,9 +918,9 @@
     "image_name": "FangDai__PTC__A_b17171024083510.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.501297265291214,
-    "prob_class_0": 0.501297265291214,
-    "prob_class_1": 0.498702734708786,
+    "confidence": 0.5452304184436798,
+    "prob_class_0": 0.5452304184436798,
+    "prob_class_1": 0.4547695815563202,
     "true_label": 0
   },
   {
@@ -928,10 +928,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171024083633.png",
     "image_name": "FangDai__PTC__A_b17171024083633.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5000160932540894,
-    "prob_class_0": 0.49998390674591064,
-    "prob_class_1": 0.5000160932540894,
+    "predicted_class": 0,
+    "confidence": 0.5564623475074768,
+    "prob_class_0": 0.5564623475074768,
+    "prob_class_1": 0.4435376524925232,
     "true_label": 0
   },
   {
@@ -939,10 +939,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/0/FangDai__PTC__A_b17171026073152.png",
     "image_name": "FangDai__PTC__A_b17171026073152.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5136694014072418,
-    "prob_class_0": 0.5136694014072418,
-    "prob_class_1": 0.4863305985927582,
+    "predicted_class": 1,
+    "confidence": 0.5272136330604553,
+    "prob_class_0": 0.4727863669395447,
+    "prob_class_1": 0.5272136330604553,
     "true_label": 0
   },
   {
@@ -950,10 +950,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__严朝婷__严朝婷_01_0005_0005.jpg",
     "image_name": "2023__严朝婷__严朝婷_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5010079741477966,
-    "prob_class_0": 0.49899202585220337,
-    "prob_class_1": 0.5010079741477966,
+    "predicted_class": 0,
+    "confidence": 0.5254916846752167,
+    "prob_class_0": 0.5254916846752167,
+    "prob_class_1": 0.4745083153247833,
     "true_label": 1
   },
   {
@@ -961,10 +961,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__卢巧逢__卢巧逢_01_0012_0012.jpg",
     "image_name": "2023__卢巧逢__卢巧逢_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5117010176181793,
-    "prob_class_0": 0.5117010176181793,
-    "prob_class_1": 0.4882989823818207,
+    "predicted_class": 1,
+    "confidence": 0.5788398385047913,
+    "prob_class_0": 0.42116016149520874,
+    "prob_class_1": 0.5788398385047913,
     "true_label": 1
   },
   {
@@ -973,9 +973,9 @@
     "image_name": "2023__卢巧逢__卢巧逢_01_0013_0013.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5057455897331238,
-    "prob_class_0": 0.4942544102668762,
-    "prob_class_1": 0.5057455897331238,
+    "confidence": 0.5882629156112671,
+    "prob_class_0": 0.4117370843887329,
+    "prob_class_1": 0.5882629156112671,
     "true_label": 1
   },
   {
@@ -983,10 +983,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__卢巧逢__卢巧逢_01_0023_0023.jpg",
     "image_name": "2023__卢巧逢__卢巧逢_01_0023_0023.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5174881219863892,
-    "prob_class_0": 0.5174881219863892,
-    "prob_class_1": 0.48251187801361084,
+    "predicted_class": 1,
+    "confidence": 0.650420606136322,
+    "prob_class_0": 0.349579393863678,
+    "prob_class_1": 0.650420606136322,
     "true_label": 1
   },
   {
@@ -994,10 +994,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__卢巧逢__卢巧逢_01_0024_0024.jpg",
     "image_name": "2023__卢巧逢__卢巧逢_01_0024_0024.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5183027982711792,
-    "prob_class_0": 0.5183027982711792,
-    "prob_class_1": 0.4816972017288208,
+    "predicted_class": 1,
+    "confidence": 0.640609085559845,
+    "prob_class_0": 0.35939091444015503,
+    "prob_class_1": 0.640609085559845,
     "true_label": 1
   },
   {
@@ -1006,9 +1006,9 @@
     "image_name": "2023__卢巧逢__卢巧逢_01_0025_0025.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5044270753860474,
-    "prob_class_0": 0.49557292461395264,
-    "prob_class_1": 0.5044270753860474,
+    "confidence": 0.6283791661262512,
+    "prob_class_0": 0.3716208338737488,
+    "prob_class_1": 0.6283791661262512,
     "true_label": 1
   },
   {
@@ -1016,10 +1016,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__卢巧逢__卢巧逢_01_0027_0027.jpg",
     "image_name": "2023__卢巧逢__卢巧逢_01_0027_0027.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5304644703865051,
-    "prob_class_0": 0.5304644703865051,
-    "prob_class_1": 0.4695355296134949,
+    "predicted_class": 1,
+    "confidence": 0.538278341293335,
+    "prob_class_0": 0.46172165870666504,
+    "prob_class_1": 0.538278341293335,
     "true_label": 1
   },
   {
@@ -1028,9 +1028,9 @@
     "image_name": "2023__周巧章__周巧章_01_0013_0013.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5044622123241425,
-    "prob_class_0": 0.5044622123241425,
-    "prob_class_1": 0.49553778767585754,
+    "confidence": 0.5236838757991791,
+    "prob_class_0": 0.5236838757991791,
+    "prob_class_1": 0.4763161242008209,
     "true_label": 1
   },
   {
@@ -1038,10 +1038,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__庄叶如__庄叶如_01_0004_0004.jpg",
     "image_name": "2023__庄叶如__庄叶如_01_0004_0004.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5091552436351776,
-    "prob_class_0": 0.5091552436351776,
-    "prob_class_1": 0.4908447563648224,
+    "predicted_class": 1,
+    "confidence": 0.5495456457138062,
+    "prob_class_0": 0.45045435428619385,
+    "prob_class_1": 0.5495456457138062,
     "true_label": 1
   },
   {
@@ -1049,10 +1049,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__庄叶如__庄叶如_01_0005_0005.jpg",
     "image_name": "2023__庄叶如__庄叶如_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5081571042537689,
-    "prob_class_0": 0.5081571042537689,
-    "prob_class_1": 0.4918428957462311,
+    "predicted_class": 1,
+    "confidence": 0.5686525106430054,
+    "prob_class_0": 0.43134748935699463,
+    "prob_class_1": 0.5686525106430054,
     "true_label": 1
   },
   {
@@ -1061,9 +1061,9 @@
     "image_name": "2023__庄叶如__庄叶如_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5119481086730957,
-    "prob_class_0": 0.5119481086730957,
-    "prob_class_1": 0.4880518913269043,
+    "confidence": 0.5245236158370972,
+    "prob_class_0": 0.5245236158370972,
+    "prob_class_1": 0.47547638416290283,
     "true_label": 1
   },
   {
@@ -1072,9 +1072,9 @@
     "image_name": "2023__庄叶如__庄叶如_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5138677954673767,
-    "prob_class_0": 0.4861322045326233,
-    "prob_class_1": 0.5138677954673767,
+    "confidence": 0.5832211971282959,
+    "prob_class_0": 0.4167788028717041,
+    "prob_class_1": 0.5832211971282959,
     "true_label": 1
   },
   {
@@ -1082,10 +1082,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__徐诗婷__徐诗婷_01_0006_0006.jpg",
     "image_name": "2023__徐诗婷__徐诗婷_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5100442171096802,
-    "prob_class_0": 0.5100442171096802,
-    "prob_class_1": 0.4899557828903198,
+    "predicted_class": 1,
+    "confidence": 0.6256416440010071,
+    "prob_class_0": 0.3743583559989929,
+    "prob_class_1": 0.6256416440010071,
     "true_label": 1
   },
   {
@@ -1093,10 +1093,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__徐诗婷__徐诗婷_01_0007_0007.jpg",
     "image_name": "2023__徐诗婷__徐诗婷_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5006199181079865,
-    "prob_class_0": 0.5006199181079865,
-    "prob_class_1": 0.49938008189201355,
+    "predicted_class": 1,
+    "confidence": 0.646207869052887,
+    "prob_class_0": 0.35379213094711304,
+    "prob_class_1": 0.646207869052887,
     "true_label": 1
   },
   {
@@ -1105,9 +1105,9 @@
     "image_name": "2023__徐诗婷__徐诗婷_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5123806595802307,
-    "prob_class_0": 0.4876193404197693,
-    "prob_class_1": 0.5123806595802307,
+    "confidence": 0.5838515162467957,
+    "prob_class_0": 0.41614848375320435,
+    "prob_class_1": 0.5838515162467957,
     "true_label": 1
   },
   {
@@ -1115,10 +1115,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__易土弟__易土弟_01_0005_0005.jpg",
     "image_name": "2023__易土弟__易土弟_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 1,
-    "confidence": 0.5105234980583191,
-    "prob_class_0": 0.4894765019416809,
-    "prob_class_1": 0.5105234980583191,
+    "predicted_class": 0,
+    "confidence": 0.5555648803710938,
+    "prob_class_0": 0.5555648803710938,
+    "prob_class_1": 0.44443511962890625,
     "true_label": 1
   },
   {
@@ -1126,10 +1126,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__曾斌斌__曾斌斌_01_0003_0003.jpg",
     "image_name": "2023__曾斌斌__曾斌斌_01_0003_0003.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5010056793689728,
-    "prob_class_0": 0.5010056793689728,
-    "prob_class_1": 0.4989943206310272,
+    "predicted_class": 1,
+    "confidence": 0.5867477059364319,
+    "prob_class_0": 0.4132522940635681,
+    "prob_class_1": 0.5867477059364319,
     "true_label": 1
   },
   {
@@ -1137,10 +1137,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__李妹英__李妹英_01_0005_0005.jpg",
     "image_name": "2023__李妹英__李妹英_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5137246251106262,
-    "prob_class_0": 0.5137246251106262,
-    "prob_class_1": 0.4862753748893738,
+    "predicted_class": 1,
+    "confidence": 0.5973405838012695,
+    "prob_class_0": 0.40265941619873047,
+    "prob_class_1": 0.5973405838012695,
     "true_label": 1
   },
   {
@@ -1148,10 +1148,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__李妹英__李妹英_01_0008_0008.jpg",
     "image_name": "2023__李妹英__李妹英_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.507783055305481,
-    "prob_class_0": 0.507783055305481,
-    "prob_class_1": 0.49221694469451904,
+    "predicted_class": 1,
+    "confidence": 0.6324620246887207,
+    "prob_class_0": 0.3675379753112793,
+    "prob_class_1": 0.6324620246887207,
     "true_label": 1
   },
   {
@@ -1159,10 +1159,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__李泽文__李泽文_01_0019_0019.jpg",
     "image_name": "2023__李泽文__李泽文_01_0019_0019.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.516119658946991,
-    "prob_class_0": 0.516119658946991,
-    "prob_class_1": 0.48388034105300903,
+    "predicted_class": 1,
+    "confidence": 0.5450395345687866,
+    "prob_class_0": 0.4549604654312134,
+    "prob_class_1": 0.5450395345687866,
     "true_label": 1
   },
   {
@@ -1170,10 +1170,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__李泽文__李泽文_01_0020_0020.jpg",
     "image_name": "2023__李泽文__李泽文_01_0020_0020.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5072567462921143,
-    "prob_class_0": 0.5072567462921143,
-    "prob_class_1": 0.49274325370788574,
+    "predicted_class": 1,
+    "confidence": 0.5690363645553589,
+    "prob_class_0": 0.4309636354446411,
+    "prob_class_1": 0.5690363645553589,
     "true_label": 1
   },
   {
@@ -1181,10 +1181,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__李琼__李琼_01_0015_0014.jpg",
     "image_name": "2023__李琼__李琼_01_0015_0014.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5133419334888458,
-    "prob_class_0": 0.5133419334888458,
-    "prob_class_1": 0.4866580665111542,
+    "predicted_class": 1,
+    "confidence": 0.5928899049758911,
+    "prob_class_0": 0.4071100950241089,
+    "prob_class_1": 0.5928899049758911,
     "true_label": 1
   },
   {
@@ -1192,10 +1192,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__梁舜洁__梁舜洁_01_0004_0004.jpg",
     "image_name": "2023__梁舜洁__梁舜洁_01_0004_0004.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5079435706138611,
-    "prob_class_0": 0.5079435706138611,
-    "prob_class_1": 0.4920564293861389,
+    "predicted_class": 1,
+    "confidence": 0.5513434410095215,
+    "prob_class_0": 0.4486565589904785,
+    "prob_class_1": 0.5513434410095215,
     "true_label": 1
   },
   {
@@ -1204,9 +1204,9 @@
     "image_name": "2023__梁舜洁__梁舜洁_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5184072554111481,
-    "prob_class_0": 0.5184072554111481,
-    "prob_class_1": 0.48159274458885193,
+    "confidence": 0.5583043396472931,
+    "prob_class_0": 0.5583043396472931,
+    "prob_class_1": 0.4416956603527069,
     "true_label": 1
   },
   {
@@ -1214,10 +1214,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__欧嘉宝__欧嘉宝_01_0004_0004.jpg",
     "image_name": "2023__欧嘉宝__欧嘉宝_01_0004_0004.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5042086839675903,
-    "prob_class_0": 0.5042086839675903,
-    "prob_class_1": 0.49579131603240967,
+    "predicted_class": 1,
+    "confidence": 0.6321486830711365,
+    "prob_class_0": 0.3678513169288635,
+    "prob_class_1": 0.6321486830711365,
     "true_label": 1
   },
   {
@@ -1226,9 +1226,9 @@
     "image_name": "2023__欧嘉宝__欧嘉宝_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5024619102478027,
-    "prob_class_0": 0.49753808975219727,
-    "prob_class_1": 0.5024619102478027,
+    "confidence": 0.6053135395050049,
+    "prob_class_0": 0.3946864604949951,
+    "prob_class_1": 0.6053135395050049,
     "true_label": 1
   },
   {
@@ -1237,9 +1237,9 @@
     "image_name": "2023__欧嘉宝__欧嘉宝_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5086339712142944,
-    "prob_class_0": 0.49136602878570557,
-    "prob_class_1": 0.5086339712142944,
+    "confidence": 0.5802274942398071,
+    "prob_class_0": 0.41977250576019287,
+    "prob_class_1": 0.5802274942398071,
     "true_label": 1
   },
   {
@@ -1247,10 +1247,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__欧嘉宝__欧嘉宝_01_0016_0016.jpg",
     "image_name": "2023__欧嘉宝__欧嘉宝_01_0016_0016.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5265299379825592,
-    "prob_class_0": 0.5265299379825592,
-    "prob_class_1": 0.4734700620174408,
+    "predicted_class": 1,
+    "confidence": 0.515862762928009,
+    "prob_class_0": 0.48413723707199097,
+    "prob_class_1": 0.515862762928009,
     "true_label": 1
   },
   {
@@ -1259,9 +1259,9 @@
     "image_name": "2023__欧嘉宝__欧嘉宝_01_0017_0017.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.502700924873352,
-    "prob_class_0": 0.49729907512664795,
-    "prob_class_1": 0.502700924873352,
+    "confidence": 0.5885723233222961,
+    "prob_class_0": 0.41142767667770386,
+    "prob_class_1": 0.5885723233222961,
     "true_label": 1
   },
   {
@@ -1269,10 +1269,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__肖家英__肖家英_01_0011_0011.jpg",
     "image_name": "2023__肖家英__肖家英_01_0011_0011.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5113923847675323,
-    "prob_class_0": 0.5113923847675323,
-    "prob_class_1": 0.48860761523246765,
+    "predicted_class": 1,
+    "confidence": 0.6224377155303955,
+    "prob_class_0": 0.3775622844696045,
+    "prob_class_1": 0.6224377155303955,
     "true_label": 1
   },
   {
@@ -1280,10 +1280,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__肖家英__肖家英_01_0012_0012.jpg",
     "image_name": "2023__肖家英__肖家英_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5159362256526947,
-    "prob_class_0": 0.5159362256526947,
-    "prob_class_1": 0.4840637743473053,
+    "predicted_class": 1,
+    "confidence": 0.5326735377311707,
+    "prob_class_0": 0.46732646226882935,
+    "prob_class_1": 0.5326735377311707,
     "true_label": 1
   },
   {
@@ -1291,10 +1291,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__范秋香__范秋香_01_0009_0009.jpg",
     "image_name": "2023__范秋香__范秋香_01_0009_0009.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5024487972259521,
-    "prob_class_0": 0.5024487972259521,
-    "prob_class_1": 0.49755120277404785,
+    "predicted_class": 1,
+    "confidence": 0.5520596504211426,
+    "prob_class_0": 0.4479403495788574,
+    "prob_class_1": 0.5520596504211426,
     "true_label": 1
   },
   {
@@ -1302,10 +1302,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__董云珊__董云珊_01_0002_0002.jpg",
     "image_name": "2023__董云珊__董云珊_01_0002_0002.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5045669674873352,
-    "prob_class_0": 0.5045669674873352,
-    "prob_class_1": 0.4954330325126648,
+    "predicted_class": 1,
+    "confidence": 0.5327163338661194,
+    "prob_class_0": 0.4672836661338806,
+    "prob_class_1": 0.5327163338661194,
     "true_label": 1
   },
   {
@@ -1314,9 +1314,9 @@
     "image_name": "2023__董云珊__董云珊_01_0003_0003.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5079907774925232,
-    "prob_class_0": 0.4920092225074768,
-    "prob_class_1": 0.5079907774925232,
+    "confidence": 0.6069468855857849,
+    "prob_class_0": 0.3930531144142151,
+    "prob_class_1": 0.6069468855857849,
     "true_label": 1
   },
   {
@@ -1324,10 +1324,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__董云珊__董云珊_01_0005_0005.jpg",
     "image_name": "2023__董云珊__董云珊_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5141664743423462,
-    "prob_class_0": 0.5141664743423462,
-    "prob_class_1": 0.4858335256576538,
+    "predicted_class": 1,
+    "confidence": 0.5118030905723572,
+    "prob_class_0": 0.4881969094276428,
+    "prob_class_1": 0.5118030905723572,
     "true_label": 1
   },
   {
@@ -1335,10 +1335,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__董云珊__董云珊_01_0006_0006.jpg",
     "image_name": "2023__董云珊__董云珊_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5007821917533875,
-    "prob_class_0": 0.5007821917533875,
-    "prob_class_1": 0.49921780824661255,
+    "predicted_class": 1,
+    "confidence": 0.565126895904541,
+    "prob_class_0": 0.434873104095459,
+    "prob_class_1": 0.565126895904541,
     "true_label": 1
   },
   {
@@ -1346,10 +1346,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__郭春花__郭春花_01_0005_0005.jpg",
     "image_name": "2023__郭春花__郭春花_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5081331431865692,
-    "prob_class_0": 0.5081331431865692,
-    "prob_class_1": 0.4918668568134308,
+    "predicted_class": 1,
+    "confidence": 0.5813465118408203,
+    "prob_class_0": 0.4186534881591797,
+    "prob_class_1": 0.5813465118408203,
     "true_label": 1
   },
   {
@@ -1357,10 +1357,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__郭春花__郭春花_01_0006_0006.jpg",
     "image_name": "2023__郭春花__郭春花_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5187820792198181,
-    "prob_class_0": 0.5187820792198181,
-    "prob_class_1": 0.4812179207801819,
+    "predicted_class": 1,
+    "confidence": 0.6256853342056274,
+    "prob_class_0": 0.37431466579437256,
+    "prob_class_1": 0.6256853342056274,
     "true_label": 1
   },
   {
@@ -1368,10 +1368,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__郭春花__郭春花_01_0007_0007.jpg",
     "image_name": "2023__郭春花__郭春花_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5089497566223145,
-    "prob_class_0": 0.5089497566223145,
-    "prob_class_1": 0.49105024337768555,
+    "predicted_class": 1,
+    "confidence": 0.6201542615890503,
+    "prob_class_0": 0.3798457384109497,
+    "prob_class_1": 0.6201542615890503,
     "true_label": 1
   },
   {
@@ -1380,9 +1380,9 @@
     "image_name": "2023__陈积健__陈积健_01_0001_0001.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5055224597454071,
-    "prob_class_0": 0.5055224597454071,
-    "prob_class_1": 0.4944775402545929,
+    "confidence": 0.5284660160541534,
+    "prob_class_0": 0.5284660160541534,
+    "prob_class_1": 0.47153398394584656,
     "true_label": 1
   },
   {
@@ -1391,9 +1391,9 @@
     "image_name": "2023__陈笑君__陈笑君_01_0001_0001.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5008676052093506,
-    "prob_class_0": 0.4991323947906494,
-    "prob_class_1": 0.5008676052093506,
+    "confidence": 0.5241650938987732,
+    "prob_class_0": 0.4758349061012268,
+    "prob_class_1": 0.5241650938987732,
     "true_label": 1
   },
   {
@@ -1402,9 +1402,9 @@
     "image_name": "2023__陈笑君__陈笑君_01_0002_0002.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5174784064292908,
-    "prob_class_0": 0.5174784064292908,
-    "prob_class_1": 0.48252159357070923,
+    "confidence": 0.5117722451686859,
+    "prob_class_0": 0.5117722451686859,
+    "prob_class_1": 0.4882277548313141,
     "true_label": 1
   },
   {
@@ -1412,10 +1412,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__陈笑君__陈笑君_01_0003_0003.jpg",
     "image_name": "2023__陈笑君__陈笑君_01_0003_0003.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5109010338783264,
-    "prob_class_0": 0.5109010338783264,
-    "prob_class_1": 0.4890989661216736,
+    "predicted_class": 1,
+    "confidence": 0.5853245258331299,
+    "prob_class_0": 0.4146754741668701,
+    "prob_class_1": 0.5853245258331299,
     "true_label": 1
   },
   {
@@ -1424,9 +1424,9 @@
     "image_name": "2023__陈笑君__陈笑君_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5072096586227417,
-    "prob_class_0": 0.4927903413772583,
-    "prob_class_1": 0.5072096586227417,
+    "confidence": 0.5783925652503967,
+    "prob_class_0": 0.42160743474960327,
+    "prob_class_1": 0.5783925652503967,
     "true_label": 1
   },
   {
@@ -1434,10 +1434,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__陈运瑞__陈运瑞_01_0006_0006.jpg",
     "image_name": "2023__陈运瑞__陈运瑞_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5093583166599274,
-    "prob_class_0": 0.5093583166599274,
-    "prob_class_1": 0.49064168334007263,
+    "predicted_class": 1,
+    "confidence": 0.5511543154716492,
+    "prob_class_0": 0.44884568452835083,
+    "prob_class_1": 0.5511543154716492,
     "true_label": 1
   },
   {
@@ -1445,10 +1445,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄建怡__黄建怡_01_0005_0005.jpg",
     "image_name": "2023__黄建怡__黄建怡_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5065624713897705,
-    "prob_class_0": 0.5065624713897705,
-    "prob_class_1": 0.4934375286102295,
+    "predicted_class": 1,
+    "confidence": 0.6350111365318298,
+    "prob_class_0": 0.36498886346817017,
+    "prob_class_1": 0.6350111365318298,
     "true_label": 1
   },
   {
@@ -1456,10 +1456,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄建怡__黄建怡_01_0006_0006.jpg",
     "image_name": "2023__黄建怡__黄建怡_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.507520467042923,
-    "prob_class_0": 0.507520467042923,
-    "prob_class_1": 0.492479532957077,
+    "predicted_class": 1,
+    "confidence": 0.6395348906517029,
+    "prob_class_0": 0.3604651093482971,
+    "prob_class_1": 0.6395348906517029,
     "true_label": 1
   },
   {
@@ -1467,10 +1467,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄建怡__黄建怡_01_0007_0007.jpg",
     "image_name": "2023__黄建怡__黄建怡_01_0007_0007.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5151584446430206,
-    "prob_class_0": 0.5151584446430206,
-    "prob_class_1": 0.48484155535697937,
+    "predicted_class": 1,
+    "confidence": 0.6263908743858337,
+    "prob_class_0": 0.37360912561416626,
+    "prob_class_1": 0.6263908743858337,
     "true_label": 1
   },
   {
@@ -1478,10 +1478,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄建怡__黄建怡_01_0011_0011.jpg",
     "image_name": "2023__黄建怡__黄建怡_01_0011_0011.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5188300609588623,
-    "prob_class_0": 0.5188300609588623,
-    "prob_class_1": 0.4811699390411377,
+    "predicted_class": 1,
+    "confidence": 0.6068114042282104,
+    "prob_class_0": 0.39318859577178955,
+    "prob_class_1": 0.6068114042282104,
     "true_label": 1
   },
   {
@@ -1489,10 +1489,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄文华__黄文华_01_0002_0002.jpg",
     "image_name": "2023__黄文华__黄文华_01_0002_0002.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5201613903045654,
-    "prob_class_0": 0.5201613903045654,
-    "prob_class_1": 0.47983860969543457,
+    "predicted_class": 1,
+    "confidence": 0.5723623633384705,
+    "prob_class_0": 0.42763763666152954,
+    "prob_class_1": 0.5723623633384705,
     "true_label": 1
   },
   {
@@ -1500,10 +1500,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄文华__黄文华_01_0005_0005.jpg",
     "image_name": "2023__黄文华__黄文华_01_0005_0005.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5238652229309082,
-    "prob_class_0": 0.5238652229309082,
-    "prob_class_1": 0.4761347770690918,
+    "predicted_class": 1,
+    "confidence": 0.5173232555389404,
+    "prob_class_0": 0.48267674446105957,
+    "prob_class_1": 0.5173232555389404,
     "true_label": 1
   },
   {
@@ -1511,10 +1511,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄文华__黄文华_01_0006_0006.jpg",
     "image_name": "2023__黄文华__黄文华_01_0006_0006.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5083897411823273,
-    "prob_class_0": 0.5083897411823273,
-    "prob_class_1": 0.49161025881767273,
+    "predicted_class": 1,
+    "confidence": 0.5518442988395691,
+    "prob_class_0": 0.4481557011604309,
+    "prob_class_1": 0.5518442988395691,
     "true_label": 1
   },
   {
@@ -1523,9 +1523,9 @@
     "image_name": "2023__黄文华__黄文华_01_0008_0008.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5196369886398315,
-    "prob_class_0": 0.5196369886398315,
-    "prob_class_1": 0.48036301136016846,
+    "confidence": 0.5178759098052979,
+    "prob_class_0": 0.5178759098052979,
+    "prob_class_1": 0.48212409019470215,
     "true_label": 1
   },
   {
@@ -1533,10 +1533,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄文华__黄文华_01_0011_0011.jpg",
     "image_name": "2023__黄文华__黄文华_01_0011_0011.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5076444149017334,
-    "prob_class_0": 0.5076444149017334,
-    "prob_class_1": 0.4923555850982666,
+    "predicted_class": 1,
+    "confidence": 0.5187193155288696,
+    "prob_class_0": 0.48128068447113037,
+    "prob_class_1": 0.5187193155288696,
     "true_label": 1
   },
   {
@@ -1545,9 +1545,9 @@
     "image_name": "2023__黄文华__黄文华_01_0012_0012.jpg",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5025178790092468,
-    "prob_class_0": 0.4974821209907532,
-    "prob_class_1": 0.5025178790092468,
+    "confidence": 0.5753252506256104,
+    "prob_class_0": 0.42467474937438965,
+    "prob_class_1": 0.5753252506256104,
     "true_label": 1
   },
   {
@@ -1555,10 +1555,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄文华__黄文华_01_0038_0036.jpg",
     "image_name": "2023__黄文华__黄文华_01_0038_0036.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5044357776641846,
-    "prob_class_0": 0.5044357776641846,
-    "prob_class_1": 0.49556422233581543,
+    "predicted_class": 1,
+    "confidence": 0.5125157833099365,
+    "prob_class_0": 0.4874842166900635,
+    "prob_class_1": 0.5125157833099365,
     "true_label": 1
   },
   {
@@ -1566,10 +1566,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄文华__黄文华_01_0039_0037.jpg",
     "image_name": "2023__黄文华__黄文华_01_0039_0037.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5226505100727081,
-    "prob_class_0": 0.5226505100727081,
-    "prob_class_1": 0.47734948992729187,
+    "predicted_class": 1,
+    "confidence": 0.5408939123153687,
+    "prob_class_0": 0.45910608768463135,
+    "prob_class_1": 0.5408939123153687,
     "true_label": 1
   },
   {
@@ -1577,10 +1577,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/2023__黄文华__黄文华_01_0041_0039.jpg",
     "image_name": "2023__黄文华__黄文华_01_0041_0039.jpg",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5357308387756348,
-    "prob_class_0": 0.5357308387756348,
-    "prob_class_1": 0.46426916122436523,
+    "predicted_class": 1,
+    "confidence": 0.5510736107826233,
+    "prob_class_0": 0.4489263892173767,
+    "prob_class_1": 0.5510736107826233,
     "true_label": 1
   },
   {
@@ -1588,10 +1588,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600667771_20170614_US_1_5.png",
     "image_name": "FangDai__FTC__B_600667771_20170614_US_1_5.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5130569338798523,
-    "prob_class_0": 0.5130569338798523,
-    "prob_class_1": 0.4869430661201477,
+    "predicted_class": 1,
+    "confidence": 0.5918877124786377,
+    "prob_class_0": 0.4081122875213623,
+    "prob_class_1": 0.5918877124786377,
     "true_label": 1
   },
   {
@@ -1600,9 +1600,9 @@
     "image_name": "FangDai__FTC__B_600750495_20171027_US_1_6.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5260202288627625,
-    "prob_class_0": 0.47397977113723755,
-    "prob_class_1": 0.5260202288627625,
+    "confidence": 0.5683180093765259,
+    "prob_class_0": 0.4316819906234741,
+    "prob_class_1": 0.5683180093765259,
     "true_label": 1
   },
   {
@@ -1611,9 +1611,9 @@
     "image_name": "FangDai__FTC__B_600750495_20171027_US_1_8.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5022456645965576,
-    "prob_class_0": 0.4977543354034424,
-    "prob_class_1": 0.5022456645965576,
+    "confidence": 0.548119068145752,
+    "prob_class_0": 0.45188093185424805,
+    "prob_class_1": 0.548119068145752,
     "true_label": 1
   },
   {
@@ -1622,9 +1622,9 @@
     "image_name": "FangDai__FTC__B_600797960_20180131_US_1_2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5108017921447754,
-    "prob_class_0": 0.5108017921447754,
-    "prob_class_1": 0.4891982078552246,
+    "confidence": 0.527476966381073,
+    "prob_class_0": 0.527476966381073,
+    "prob_class_1": 0.472523033618927,
     "true_label": 1
   },
   {
@@ -1632,10 +1632,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600797960_20180131_US_1_4.png",
     "image_name": "FangDai__FTC__B_600797960_20180131_US_1_4.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5143263041973114,
-    "prob_class_0": 0.5143263041973114,
-    "prob_class_1": 0.4856736958026886,
+    "predicted_class": 1,
+    "confidence": 0.5060067772865295,
+    "prob_class_0": 0.49399322271347046,
+    "prob_class_1": 0.5060067772865295,
     "true_label": 1
   },
   {
@@ -1644,9 +1644,9 @@
     "image_name": "FangDai__FTC__B_600798437_20180201_US_1_10.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5038650631904602,
-    "prob_class_0": 0.4961349368095398,
-    "prob_class_1": 0.5038650631904602,
+    "confidence": 0.5436004400253296,
+    "prob_class_0": 0.4563995599746704,
+    "prob_class_1": 0.5436004400253296,
     "true_label": 1
   },
   {
@@ -1655,9 +1655,9 @@
     "image_name": "FangDai__FTC__B_600798437_20180201_US_1_2.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5133213400840759,
-    "prob_class_0": 0.4866786599159241,
-    "prob_class_1": 0.5133213400840759,
+    "confidence": 0.6341881155967712,
+    "prob_class_0": 0.36581188440322876,
+    "prob_class_1": 0.6341881155967712,
     "true_label": 1
   },
   {
@@ -1665,10 +1665,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600798437_20180201_US_1_8.png",
     "image_name": "FangDai__FTC__B_600798437_20180201_US_1_8.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5043034553527832,
-    "prob_class_0": 0.5043034553527832,
-    "prob_class_1": 0.4956965446472168,
+    "predicted_class": 1,
+    "confidence": 0.6602030992507935,
+    "prob_class_0": 0.33979690074920654,
+    "prob_class_1": 0.6602030992507935,
     "true_label": 1
   },
   {
@@ -1676,10 +1676,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600861957_20180625_US_1_5.png",
     "image_name": "FangDai__FTC__B_600861957_20180625_US_1_5.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5096666514873505,
-    "prob_class_0": 0.5096666514873505,
-    "prob_class_1": 0.49033334851264954,
+    "predicted_class": 1,
+    "confidence": 0.6587033867835999,
+    "prob_class_0": 0.34129661321640015,
+    "prob_class_1": 0.6587033867835999,
     "true_label": 1
   },
   {
@@ -1688,9 +1688,9 @@
     "image_name": "FangDai__FTC__B_600861957_20180625_US_1_6.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 1,
-    "confidence": 0.5006834864616394,
-    "prob_class_0": 0.4993165135383606,
-    "prob_class_1": 0.5006834864616394,
+    "confidence": 0.5161229372024536,
+    "prob_class_0": 0.4838770627975464,
+    "prob_class_1": 0.5161229372024536,
     "true_label": 1
   },
   {
@@ -1699,9 +1699,9 @@
     "image_name": "FangDai__FTC__B_600861957_20180625_US_1_7.png",
     "selected_model": "repvit_m1_0",
     "predicted_class": 0,
-    "confidence": 0.5198695659637451,
-    "prob_class_0": 0.5198695659637451,
-    "prob_class_1": 0.4801304340362549,
+    "confidence": 0.5394414365291595,
+    "prob_class_0": 0.5394414365291595,
+    "prob_class_1": 0.46055856347084045,
     "true_label": 1
   },
   {
@@ -1709,10 +1709,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600871983_20180712_US_1_10.png",
     "image_name": "FangDai__FTC__B_600871983_20180712_US_1_10.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.508855938911438,
-    "prob_class_0": 0.508855938911438,
-    "prob_class_1": 0.491144061088562,
+    "predicted_class": 1,
+    "confidence": 0.5480086803436279,
+    "prob_class_0": 0.45199131965637207,
+    "prob_class_1": 0.5480086803436279,
     "true_label": 1
   },
   {
@@ -1720,10 +1720,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600871983_20180712_US_1_11.png",
     "image_name": "FangDai__FTC__B_600871983_20180712_US_1_11.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5285090506076813,
-    "prob_class_0": 0.5285090506076813,
-    "prob_class_1": 0.4714909493923187,
+    "predicted_class": 1,
+    "confidence": 0.5697505474090576,
+    "prob_class_0": 0.4302494525909424,
+    "prob_class_1": 0.5697505474090576,
     "true_label": 1
   },
   {
@@ -1731,10 +1731,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600871983_20180712_US_1_12.png",
     "image_name": "FangDai__FTC__B_600871983_20180712_US_1_12.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5140222907066345,
-    "prob_class_0": 0.5140222907066345,
-    "prob_class_1": 0.4859777092933655,
+    "predicted_class": 1,
+    "confidence": 0.5865216255187988,
+    "prob_class_0": 0.41347837448120117,
+    "prob_class_1": 0.5865216255187988,
     "true_label": 1
   },
   {
@@ -1742,10 +1742,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600871983_20180712_US_1_13.png",
     "image_name": "FangDai__FTC__B_600871983_20180712_US_1_13.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5225338935852051,
-    "prob_class_0": 0.5225338935852051,
-    "prob_class_1": 0.4774661064147949,
+    "predicted_class": 1,
+    "confidence": 0.6012444496154785,
+    "prob_class_0": 0.3987555503845215,
+    "prob_class_1": 0.6012444496154785,
     "true_label": 1
   },
   {
@@ -1753,10 +1753,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600871983_20180712_US_1_6.png",
     "image_name": "FangDai__FTC__B_600871983_20180712_US_1_6.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5093161761760712,
-    "prob_class_0": 0.5093161761760712,
-    "prob_class_1": 0.49068382382392883,
+    "predicted_class": 1,
+    "confidence": 0.6251456141471863,
+    "prob_class_0": 0.3748543858528137,
+    "prob_class_1": 0.6251456141471863,
     "true_label": 1
   },
   {
@@ -1764,10 +1764,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600871983_20180712_US_1_7.png",
     "image_name": "FangDai__FTC__B_600871983_20180712_US_1_7.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5112981200218201,
-    "prob_class_0": 0.5112981200218201,
-    "prob_class_1": 0.48870187997817993,
+    "predicted_class": 1,
+    "confidence": 0.6413788199424744,
+    "prob_class_0": 0.35862118005752563,
+    "prob_class_1": 0.6413788199424744,
     "true_label": 1
   },
   {
@@ -1775,10 +1775,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600903396_20180827_US_1_11.png",
     "image_name": "FangDai__FTC__B_600903396_20180827_US_1_11.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5289889574050903,
-    "prob_class_0": 0.5289889574050903,
-    "prob_class_1": 0.47101104259490967,
+    "predicted_class": 1,
+    "confidence": 0.6652858853340149,
+    "prob_class_0": 0.3347141146659851,
+    "prob_class_1": 0.6652858853340149,
     "true_label": 1
   },
   {
@@ -1786,10 +1786,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600921536_20180917_US_1_14.png",
     "image_name": "FangDai__FTC__B_600921536_20180917_US_1_14.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.5004519522190094,
-    "prob_class_0": 0.5004519522190094,
-    "prob_class_1": 0.4995480477809906,
+    "predicted_class": 1,
+    "confidence": 0.5903991460800171,
+    "prob_class_0": 0.4096008539199829,
+    "prob_class_1": 0.5903991460800171,
     "true_label": 1
   },
   {
@@ -1797,10 +1797,10 @@
     "image_file": "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/Classifaction_Data/Malignant_ultrasound_images_cropped/by_FTCPTC_test/1/FangDai__FTC__B_600921536_20180917_US_1_18.png",
     "image_name": "FangDai__FTC__B_600921536_20180917_US_1_18.png",
     "selected_model": "repvit_m1_0",
-    "predicted_class": 0,
-    "confidence": 0.510654091835022,
-    "prob_class_0": 0.510654091835022,
-    "prob_class_1": 0.489345908164978,
+    "predicted_class": 1,
+    "confidence": 0.580534040927887,
+    "prob_class_0": 0.41946595907211304,
+    "prob_class_1": 0.580534040927887,
     "true_label": 1
   }
 ]
