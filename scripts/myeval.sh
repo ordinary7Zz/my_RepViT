@@ -9,10 +9,11 @@ CKPT_PATH="./checkpoints/repvit_m1_0/2026_02_26_21_16_50/checkpoint_best.pth"
 
 # 可以传入多个测试集目录（ImageFolder 格式）
 TEST_DIRS=(
-  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/DDTI_Classification/all_cls"
   "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/TN3K/test_cls"
   "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/ThyroidXL/test_cls"
   "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/TN5K/test_cls"
+  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/DDTI_Classification/all_cls"
+  "/mnt/wangbd8/workspace/DataSets/ThyroidAgent/train_val_test/finall_data/all_cls"
 )
 
 BATCH_SIZE=16
@@ -35,7 +36,7 @@ python3 eval_multi_test.py \
   --model "${MODEL}" \
   --checkpoint "${CKPT_PATH}" \
   --test-dirs ${TEST_DIRS_ARGS} \
-  --test-names DDTI TN3K ThyroidXL TN5K \
+  --test-names TN3K ThyroidXL TN5K DDTI finall_data \
   --batch-size ${BATCH_SIZE} \
   --num-workers ${NUM_WORKERS} \
   --input-size ${INPUT_SIZE} \
