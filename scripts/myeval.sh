@@ -5,7 +5,7 @@ export CUDA_VISIBLE_DEVICES=0
 
 # 必填参数：根据你实际情况修改
 MODEL="repvit_m1_0"
-CKPT_PATH="./checkpoints/repvit_m1_0/2026_02_26_21_16_50/checkpoint_best.pth"
+CKPT_PATH="./checkpoints/BM/repvit_m1_0_224_0.025_0.001_0.25/checkpoint_best.pth"
 
 # 可以传入多个测试集目录（ImageFolder 格式）
 TEST_DIRS=(
