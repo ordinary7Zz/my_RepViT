@@ -9,3 +9,4 @@ __pycache__/
 *.bin
 *.pkl
 *.pyc
+.DS_Store

@@ -257,9 +257,157 @@ bash myeval_json.sh
 
 ---
 
-## 5. 说明
+## 5. 五分类模型训练与推理
 
-- 这三个脚本都默认在项目根目录执行。
+上述脚本（`mytrain.sh`、`myeval.sh`、`myeval_json.sh`）面向**二分类**任务。本节说明如何训练和推理**五分类**模型。
+
+### 5.1 训练五分类模型
+
+训练代码（`main.py` / `train_explicit_paths.py`）天然支持多分类，**无需修改任何 Python 代码**。只需将训练/测试数据按 `ImageFolder` 格式组织为 5 个子目录：
+
+```bash
+dataset_5_cls/
+  train/
+    0/
+      xxx.png
+    1/
+      xxx.png
+    2/
+      xxx.png
+    3/
+      xxx.png
+    4/
+      xxx.png
+  test/
+    0/
+    1/
+    2/
+    3/
+    4/
+```
+
+`build_dataset` 会自动从子目录数推断 `nb_classes=5`，模型分类头会按 5 类构建，预训练权重的分类头会因 shape 不匹配被自动丢弃（`main.py:298-302`）。
+
+训练命令示例（复用现有训练脚本，修改路径即可）：
+
+```bash
+python train_explicit_paths.py \
+  --model repvit_m1_0 \
+  --train-data-path /path/to/dataset_5_cls/train \
+  --test-data-path /path/to/dataset_5_cls/test \
+  --batch-size 16 \
+  --epochs 40 \
+  --dist-eval \
+  --output_dir checkpoints/5cls \
+  --finetune pretrain/repvit_m1_0_distill_300e.pth \
+  --set_bn_eval \
+  --distillation-type none \
+  --device cuda:0
+```
+
+### 5.2 五分类评估：`myeval_5cls.sh`
+
+对应文件：`scripts/myeval_5cls.sh`
+
+### 作用
+
+调用 `eval_multi_test_5cls.py`，对一个训练好的五分类模型在多个测试集上进行评估，输出多分类指标和混淆矩阵。
+
+### 与二分类版本的区别
+
+| 项目 | 二分类 `eval_multi_test.py` | 五分类 `eval_multi_test_5cls.py` |
+|---|---|---|
+| `num_classes` | 硬编码 `2` | 可配置（`--num-classes`，默认 `5`） |
+| 概率提取 | `softmax(logits)[:, 1]`（正类概率） | 完整 softmax 概率矩阵 `(N, C)` |
+| AUROC | 二分类 `roc_auc_score` | 多分类 `roc_auc_score(multi_class="ovr", average="macro")` |
+| Precision/Recall/F1 | `average="binary"` | `average="macro"` 和 `"weighted"` |
+| 特异度 (SPEC) | 二分类计算 | 移除（多分类不适用单一 SPEC） |
+| 混淆矩阵 | 无 | 输出完整 `C x C` 混淆矩阵 |
+| ECE | 基于正类概率分箱 | 基于最大预测概率分箱 |
+| 新增指标 | — | `ACC_top2`（top-2 准确率） |
+
+### 输出指标列表
+
+```
+AUROC_macro_ovr  ACC  ACC_top2  PREC_macro  RECALL_macro  F1_macro
+PREC_weighted  RECALL_weighted  F1_weighted  ECE
+```
+
+每个指标附带 bootstrap 95% 置信区间，并输出混淆矩阵。
+
+### 使用方法
+
+```bash
+bash scripts/myeval_5cls.sh
+```
+
+### 运行前需修改的参数
+
+- `MODEL`：模型名称
+- `CKPT_PATH`：五分类模型权重路径
+- `TEST_DIRS`：测试集目录列表（`ImageFolder` 格式，每个目录需有 5 个子目录）
+- `TEST_NAMES`：对应测试集名字
+- `NUM_CLASSES`：类别数（默认 `5`，可根据需要修改）
+- `BATCH_SIZE` / `NUM_WORKERS` / `INPUT_SIZE` / `DEVICE`
+
+### 输出结果
+
+在 `test_log/` 目录下生成文本日志文件，包含各测试集的指标和混淆矩阵。
+
+---
+
+### 5.3 五分类推理导出 JSON：`myeval_json_5cls.sh`
+
+对应文件：`scripts/myeval_json_5cls.sh`
+
+### 作用
+
+调用 `infer_multi_to_json_5cls.py`，对五分类模型在多个测试集上推理，为每个测试集分别生成 `predictions.json` 和 `metrics.json`。
+
+### JSON 记录字段
+
+每条 sample 记录包含：
+
+- `record_type`：`"sample"`
+- `image_file` / `image_name`
+- `selected_model`
+- `predicted_class`：`argmax` 预测类别
+- `confidence`：最大预测概率
+- `true_label`：真实标签
+- `num_classes`：类别数
+- `prob_class_0` ~ `prob_class_4`：每个类别的 softmax 概率
+
+`metrics.json` 包含多分类指标、置信区间和混淆矩阵。
+
+### 使用方法
+
+```bash
+bash scripts/myeval_json_5cls.sh
+```
+
+### 运行前需修改的参数
+
+- `MODEL`：模型名称
+- `CKPT_PATH`：checkpoint 路径数组（支持多个）
+- `OUTPUT_DIR`：JSON 输出目录
+- `TEST_DIRS`：与 `CKPT_PATH` 一一对应的测试集目录
+- `TEST_NAMES`：与 `CKPT_PATH` 一一对应的测试集名字
+- `NUM_CLASSES`：类别数（默认 `5`）
+
+### 输出文件
+
+```
+<OUTPUT_DIR>/
+  <TestName>__<checkpoint_stem>__predictions.json
+  <TestName>__<checkpoint_stem>__metrics.json
+```
+
+---
+
+## 6. 说明
+
+- 所有脚本都默认在项目根目录执行。
 - 修改路径时，建议优先检查数据目录、checkpoint 路径、预训练权重路径是否存在。
-- `myeval.sh` 主要输出文本评估结果。
-- `myeval_json.sh` 主要输出每个数据集独立的 JSON 结果文件，适合后续绘图和多模型对比。
+- `myeval.sh` / `myeval_5cls.sh` 主要输出文本评估结果。
+- `myeval_json.sh` / `myeval_json_5cls.sh` 主要输出每个数据集独立的 JSON 结果文件，适合后续绘图和多模型对比。
+- 二分类脚本（`eval_multi_test.py` / `infer_multi_to_json.py`）与五分类脚本（`*_5cls.py`）相互独立，不会互相影响。
